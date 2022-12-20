@@ -1,0 +1,70 @@
+{
+  "_fv": 34,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:BlackForest"
+      },
+      {
+        "value": "CUSTOM:CorrupedForest"
+      },
+      {
+        "value": "CUSTOM:LemonLand"
+      },
+      {
+        "value": "badlands"
+      },
+      {
+        "value": "roofed_forest"
+      },
+      {
+        "value": "jungle"
+      },
+      {
+        "value": "forest"
+      },
+      {
+        "value": "ocean"
+      },
+      {
+        "value": "taiga"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "Blocks.STONE#0"
+    },
+    "fluidBlock": {
+      "value": "Blocks.FLOWING_WATER"
+    },
+    "airColor": {
+      "value": -6723841,
+      "falpha": 0.0
+    },
+    "canRespawnHere": true,
+    "hasFog": false,
+    "isDark": false,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": true,
+    "imitateOverworldBehaviour": true,
+    "portalFrame": {
+      "value": "Blocks.MOSSY_COBBLESTONE"
+    },
+    "portalParticles": {
+      "value": "PORTAL"
+    },
+    "portalLuminance": 0,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Alternate Reality Portal Igniter",
+    "igniterTab": {
+      "value": "TOOLS"
+    },
+    "texture": "alternateportaligniter",
+    "portalTexture": "alternateportal",
+    "enablePortal": true
+  }
+}

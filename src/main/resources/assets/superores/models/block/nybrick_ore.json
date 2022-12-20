@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "superores:blocks/nybrick_ore",
+    "particle": "superores:blocks/nybrick_ore"
+  }
+}

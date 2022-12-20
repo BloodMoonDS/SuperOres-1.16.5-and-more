@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "superores:odrimium"
+    },
+    "1": {
+      "item": "superores:odrimium"
+    },
+    "2": {
+      "item": "superores:odrimium"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "superores:odrimium_axe",
+    "count": 1
+  }
+}

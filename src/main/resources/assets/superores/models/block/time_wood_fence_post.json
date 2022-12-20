@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "superores:blocks/timewood_planks",
+    "particle": "superores:blocks/timewood_planks"
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "_fv": 34,
+  "_type": "biome",
+  "definition": {
+    "name": "Black Forest",
+    "groundBlock": {
+      "value": "Blocks.GRASS"
+    },
+    "undergroundBlock": {
+      "value": "Blocks.DIRT#0"
+    },
+    "underwaterBlock": {
+      "value": "Blocks.FLOWING_WATER"
+    },
+    "airColor": {
+      "value": -16777216,
+      "falpha": 0.0
+    },
+    "grassColor": {
+      "value": -16777216,
+      "falpha": 0.0
+    },
+    "foliageColor": {
+      "value": -16777216,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -16777216,
+      "falpha": 0.0
+    },
+    "waterFogColor": {
+      "value": -16777216,
+      "falpha": 0.0
+    },
+    "ambientSound": {
+      "value": "CUSTOM:wind"
+    },
+    "additionsSound": {
+      "value": ""
+    },
+    "music": {
+      "value": ""
+    },
+    "moodSound": {
+      "value": ""
+    },
+    "moodSoundDelay": 6000,
+    "spawnParticles": false,
+    "particleToSpawn": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "particlesProbability": 0.5,
+    "rainingPossibility": 0.5,
+    "temperature": 0.5,
+    "baseHeight": 0.1,
+    "heightVariation": 0.2,
+    "spawnBiome": true,
+    "spawnBiomeNether": false,
+    "spawnInCaves": false,
+    "biomeWeight": 10,
+    "grassPerChunk": 80,
+    "seagrassPerChunk": 40,
+    "flowersPerChunk": 10,
+    "mushroomsPerChunk": 1,
+    "bigMushroomsChunk": 4,
+    "sandPatchesPerChunk": 1,
+    "gravelPatchesPerChunk": 1,
+    "reedsPerChunk": 0,
+    "cactiPerChunk": 1,
+    "treesPerChunk": 30,
+    "vanillaTreeType": "Birch trees",
+    "treeType": 1,
+    "minHeight": 7,
+    "treeStem": {
+      "value": "CUSTOM:Black_OakLog"
+    },
+    "treeBranch": {
+      "value": "CUSTOM:Black_OakLeaves"
+    },
+    "treeVines": {
+      "value": "Blocks.VINE"
+    },
+    "treeFruits": {
+      "value": "Blocks.SPONGE#0"
+    },
+    "spawnStronghold": true,
+    "spawnMineshaft": true,
+    "spawnMineshaftMesa": true,
+    "spawnPillagerOutpost": true,
+    "villageType": "plains",
+    "spawnWoodlandMansion": true,
+    "spawnJungleTemple": true,
+    "spawnDesertPyramid": false,
+    "spawnSwampHut": true,
+    "spawnIgloo": false,
+    "spawnOceanMonument": false,
+    "spawnShipwreck": false,
+    "spawnShipwreckBeached": false,
+    "spawnBuriedTreasure": true,
+    "oceanRuinType": "COLD",
+    "spawnNetherBridge": false,
+    "spawnNetherFossil": false,
+    "spawnBastionRemnant": false,
+    "spawnEndCity": false,
+    "spawnRuinedPortal": "STANDARD",
+    "defaultFeatures": [
+      "Caves",
+      "Ores",
+      "FrozenTopLayer"
+    ],
+    "spawnEntries": [
+      {
+        "entity": {
+          "value": "EntityZombieHorse"
+        },
+        "minGroup": 4,
+        "maxGroup": 4,
+        "weight": 10,
+        "spawnType": "creature"
+      },
+      {
+        "entity": {
+          "value": "EntityZombie"
+        },
+        "minGroup": 4,
+        "maxGroup": 13,
+        "weight": 5,
+        "spawnType": "monster"
+      },
+      {
+        "entity": {
+          "value": "CUSTOM:Slimehound"
+        },
+        "minGroup": 4,
+        "maxGroup": 4,
+        "weight": 20,
+        "spawnType": "monster"
+      },
+      {
+        "entity": {
+          "value": "EntityVex"
+        },
+        "minGroup": 4,
+        "maxGroup": 4,
+        "weight": 2,
+        "spawnType": "monster"
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "_fv": 34,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "odrimium_head",
+    "enableBody": true,
+    "textureBody": "odrimium_body",
+    "enableLeggings": true,
+    "textureLeggings": "odrimium_leggings",
+    "enableBoots": true,
+    "textureBoots": "odrimium_boots",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "odrimium",
+    "helmetName": "Odrimium Helmet",
+    "bodyName": "Odrimium Chestplate",
+    "leggingsName": "Odrimium Leggings",
+    "bootsName": "Odrimium Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": false,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "maxDamage": 64,
+    "damageValueHelmet": 23,
+    "damageValueBody": 32,
+    "damageValueLeggings": 32,
+    "damageValueBoots": 32,
+    "enchantability": 40,
+    "toughness": 5.0,
+    "knockbackResistance": 0.8,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Odrimium"
+      }
+    ]
+  }
+}

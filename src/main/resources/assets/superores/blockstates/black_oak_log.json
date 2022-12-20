@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "superores:block/black_oak_log",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "superores:block/black_oak_log"
+    },
+    "axis=z": {
+      "model": "superores:block/black_oak_log",
+      "x": 90
+    }
+  }
+}

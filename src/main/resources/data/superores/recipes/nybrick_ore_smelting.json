@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 0.07,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "superores:nybrick_ore"
+  },
+  "result": {
+    "item": "superores:nybrick_ingot"
+  }
+}

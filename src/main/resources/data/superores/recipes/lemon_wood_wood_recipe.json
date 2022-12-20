@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "superores:lemon_wood_log"
+    },
+    "1": {
+      "item": "superores:lemon_wood_log"
+    },
+    "2": {
+      "item": "superores:lemon_wood_log"
+    },
+    "3": {
+      "item": "superores:lemon_wood_log"
+    }
+  },
+  "result": {
+    "item": "superores:lemon_wood_wood",
+    "count": 3
+  }
+}

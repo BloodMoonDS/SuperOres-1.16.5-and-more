@@ -1,0 +1,276 @@
+{
+  "poison": {
+    "category": "neutral",
+    "subtitle": "subtitles.poison",
+    "sounds": [
+      {
+        "name": "superores:poison",
+        "stream": false
+      }
+    ]
+  },
+  "death": {
+    "category": "music",
+    "subtitle": "subtitles.death",
+    "sounds": [
+      {
+        "name": "superores:nonono1",
+        "stream": true
+      },
+      {
+        "name": "superores:nonono2",
+        "stream": true
+      },
+      {
+        "name": "superores:nonono3",
+        "stream": true
+      },
+      {
+        "name": "superores:nonono4",
+        "stream": true
+      }
+    ]
+  },
+  "down": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "superores:down",
+        "stream": false
+      }
+    ]
+  },
+  "notcat": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "superores:cat",
+        "stream": false
+      }
+    ]
+  },
+  "blow": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "superores:blow1",
+        "stream": false
+      },
+      {
+        "name": "superores:blow2",
+        "stream": false
+      },
+      {
+        "name": "superores:blow3",
+        "stream": false
+      },
+      {
+        "name": "superores:blow4",
+        "stream": false
+      },
+      {
+        "name": "superores:blow5",
+        "stream": false
+      },
+      {
+        "name": "superores:blow6",
+        "stream": false
+      },
+      {
+        "name": "superores:blow7",
+        "stream": false
+      }
+    ]
+  },
+  "mus_chng": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "superores:1-converted",
+        "stream": false
+      },
+      {
+        "name": "superores:2-converted",
+        "stream": false
+      },
+      {
+        "name": "superores:3-converted",
+        "stream": false
+      },
+      {
+        "name": "superores:4-converted",
+        "stream": false
+      },
+      {
+        "name": "superores:5-converted",
+        "stream": false
+      },
+      {
+        "name": "superores:6-converted",
+        "stream": false
+      },
+      {
+        "name": "superores:7-converted",
+        "stream": false
+      },
+      {
+        "name": "superores:8-converted",
+        "stream": false
+      },
+      {
+        "name": "superores:9-converted",
+        "stream": false
+      },
+      {
+        "name": "superores:10-converted",
+        "stream": false
+      },
+      {
+        "name": "superores:11-converted",
+        "stream": false
+      },
+      {
+        "name": "superores:12-converted",
+        "stream": false
+      },
+      {
+        "name": "superores:13-converted",
+        "stream": false
+      },
+      {
+        "name": "superores:14-converted",
+        "stream": false
+      },
+      {
+        "name": "superores:15-converted",
+        "stream": false
+      },
+      {
+        "name": "superores:16-converted",
+        "stream": false
+      },
+      {
+        "name": "superores:17-converted",
+        "stream": false
+      },
+      {
+        "name": "superores:18-converted",
+        "stream": false
+      },
+      {
+        "name": "superores:19-converted",
+        "stream": false
+      },
+      {
+        "name": "superores:20-converted",
+        "stream": false
+      },
+      {
+        "name": "superores:21-converted",
+        "stream": false
+      }
+    ]
+  },
+  "drips": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "superores:drips",
+        "stream": false
+      }
+    ]
+  },
+  "wind": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "superores:wind",
+        "stream": false
+      }
+    ]
+  },
+  "darkness": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "superores:darkness",
+        "stream": false
+      }
+    ]
+  },
+  "notrain": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "superores:rain",
+        "stream": false
+      }
+    ]
+  },
+  "clock": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "superores:clock",
+        "stream": false
+      }
+    ]
+  },
+  "slimehound_hurt": {
+    "category": "neutral",
+    "subtitle": "subtitles.slimehound_hurt",
+    "sounds": [
+      {
+        "name": "superores:slimehound_hurt",
+        "stream": false
+      }
+    ]
+  },
+  "blastattack": {
+    "category": "neutral",
+    "subtitle": "subtitles.blastattack",
+    "sounds": [
+      {
+        "name": "superores:bloodiey_blast_shoot-converted",
+        "stream": false
+      }
+    ]
+  },
+  "blastcollide": {
+    "category": "neutral",
+    "subtitle": "subtitles.blastcollide",
+    "sounds": [
+      {
+        "name": "superores:bloodiey_blast_colide-converted",
+        "stream": false
+      }
+    ]
+  },
+  "quake": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "superores:quake",
+        "stream": false
+      }
+    ]
+  },
+  "darkzonemus": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "superores:3-converted",
+        "stream": true
+      }
+    ]
+  },
+  "mus_library": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "superores:4-converted",
+        "stream": true
+      }
+    ]
+  }
+}

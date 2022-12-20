@@ -1,0 +1,31 @@
+{
+  "_fv": 34,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "odrimium_sword",
+    "customModelName": "Normal",
+    "name": "Odrimium Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 2,
+    "efficiency": 6.0,
+    "attackSpeed": 2.5,
+    "enchantability": 14,
+    "damageVsEntity": 6.0,
+    "usageCount": 1920,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Odrimium"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

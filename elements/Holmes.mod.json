@@ -1,0 +1,46 @@
+{
+  "_fv": 34,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:NybrickIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:CandyStone"
+      },
+      {
+        "value": "Blocks.WOOL"
+      },
+      {
+        "value": "CUSTOM:CandyStone"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:NybrickIngot"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:WhiteDimension"
+    },
+    "name": "holmes",
+    "namespace": "mod"
+  }
+}

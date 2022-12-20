@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "superores:corrupted_planks"
+    },
+    "1": {
+      "item": "superores:corrupted_planks"
+    },
+    "2": {
+      "item": "superores:corrupted_planks"
+    }
+  },
+  "result": {
+    "item": "superores:corrupted_slab",
+    "count": 6
+  }
+}

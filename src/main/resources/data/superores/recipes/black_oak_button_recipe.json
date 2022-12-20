@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "superores:black_oak_planks"
+    }
+  ],
+  "result": {
+    "item": "superores:black_oak_button",
+    "count": 1
+  }
+}

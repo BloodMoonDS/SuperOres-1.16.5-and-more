@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "superores:nybrick_block"
+    }
+  ],
+  "result": {
+    "item": "superores:nybrick_ingot",
+    "count": 9
+  }
+}

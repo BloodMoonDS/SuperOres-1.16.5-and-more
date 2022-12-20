@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "superores:blocks/corrupted_planks",
+    "particle": "superores:blocks/corrupted_planks"
+  }
+}

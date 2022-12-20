@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "superores:block/corrupted_slab"
+    },
+    "type=top": {
+      "model": "superores:block/corrupted_slab_top"
+    },
+    "type=double": {
+      "model": "superores:block/corrupted_slab_full"
+    }
+  }
+}

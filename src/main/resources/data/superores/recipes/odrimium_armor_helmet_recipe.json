@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "superores:odrimium"
+    },
+    "1": {
+      "item": "superores:odrimium"
+    },
+    "2": {
+      "item": "superores:odrimium"
+    },
+    "3": {
+      "item": "superores:odrimium"
+    },
+    "5": {
+      "item": "superores:odrimium"
+    }
+  },
+  "result": {
+    "item": "superores:odrimium_armor_helmet",
+    "count": 1
+  }
+}

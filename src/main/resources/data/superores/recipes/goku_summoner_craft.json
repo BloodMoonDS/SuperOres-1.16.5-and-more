@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:totem_of_undying"
+    },
+    "1": {
+      "item": "superores:distruptor_ball"
+    },
+    "2": {
+      "item": "minecraft:totem_of_undying"
+    },
+    "3": {
+      "item": "superores:distruptor_ball"
+    },
+    "4": {
+      "item": "minecraft:totem_of_undying"
+    },
+    "5": {
+      "item": "superores:distruptor_ball"
+    },
+    "6": {
+      "item": "minecraft:totem_of_undying"
+    },
+    "7": {
+      "item": "superores:distruptor_ball"
+    },
+    "8": {
+      "item": "minecraft:totem_of_undying"
+    }
+  },
+  "result": {
+    "item": "superores:goku_drip_summoner",
+    "count": 1
+  }
+}

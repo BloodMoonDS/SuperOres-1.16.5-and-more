@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "superores:corrupted_planks"
+    }
+  ],
+  "result": {
+    "item": "superores:corrupted_button",
+    "count": 1
+  }
+}

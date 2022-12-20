@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "superores:corrupted_planks"
+    },
+    "3": {
+      "item": "superores:corrupted_planks"
+    },
+    "4": {
+      "item": "superores:corrupted_planks"
+    },
+    "6": {
+      "item": "superores:corrupted_planks"
+    },
+    "7": {
+      "item": "superores:corrupted_planks"
+    },
+    "8": {
+      "item": "superores:corrupted_planks"
+    }
+  },
+  "result": {
+    "item": "superores:corrupted_stairs",
+    "count": 4
+  }
+}

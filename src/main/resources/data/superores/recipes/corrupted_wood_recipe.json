@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "superores:corrupted_log"
+    },
+    "1": {
+      "item": "superores:corrupted_log"
+    },
+    "2": {
+      "item": "superores:corrupted_log"
+    },
+    "3": {
+      "item": "superores:corrupted_log"
+    }
+  },
+  "result": {
+    "item": "superores:corrupted_wood",
+    "count": 3
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "superores:lead_ingot"
+    },
+    "2": {
+      "item": "superores:lead_ingot"
+    },
+    "3": {
+      "item": "superores:lead_ingot"
+    },
+    "4": {
+      "item": "superores:lead_ingot"
+    },
+    "5": {
+      "item": "superores:lead_ingot"
+    },
+    "6": {
+      "item": "superores:lead_ingot"
+    },
+    "7": {
+      "item": "superores:lead_ingot"
+    },
+    "8": {
+      "item": "superores:lead_ingot"
+    }
+  },
+  "result": {
+    "item": "superores:lead_armor_chestplate",
+    "count": 1
+  }
+}

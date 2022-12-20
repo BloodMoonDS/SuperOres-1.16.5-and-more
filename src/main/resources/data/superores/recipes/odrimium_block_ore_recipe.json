@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "superores:odrimium_block"
+    }
+  ],
+  "result": {
+    "item": "superores:odrimium",
+    "count": 9
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "superores:block/lemon_wood_slab"
+    },
+    "type=top": {
+      "model": "superores:block/lemon_wood_slab_top"
+    },
+    "type=double": {
+      "model": "superores:block/lemon_wood_slab_full"
+    }
+  }
+}

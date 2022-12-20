@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "superores:blocks/corrupted_planks",
+    "particle": "superores:blocks/corrupted_planks"
+  }
+}

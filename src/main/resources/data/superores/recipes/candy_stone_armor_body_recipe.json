@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "superores:candy_stone"
+    },
+    "2": {
+      "item": "superores:candy_stone"
+    },
+    "3": {
+      "item": "superores:candy_stone"
+    },
+    "4": {
+      "item": "superores:candy_stone"
+    },
+    "5": {
+      "item": "superores:candy_stone"
+    },
+    "6": {
+      "item": "superores:candy_stone"
+    },
+    "7": {
+      "item": "superores:candy_stone"
+    },
+    "8": {
+      "item": "superores:candy_stone"
+    }
+  },
+  "result": {
+    "item": "superores:candy_stone_armor_chestplate",
+    "count": 1
+  }
+}

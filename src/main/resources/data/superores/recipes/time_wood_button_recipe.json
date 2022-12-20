@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "superores:time_wood_planks"
+    }
+  ],
+  "result": {
+    "item": "superores:time_wood_button",
+    "count": 1
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "_fv": 34,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "lead_sword",
+    "customModelName": "Normal",
+    "name": "Lead Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 5.0,
+    "attackSpeed": 1.0,
+    "enchantability": 10,
+    "damageVsEntity": 1.0,
+    "usageCount": 152,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:LeadIngot"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

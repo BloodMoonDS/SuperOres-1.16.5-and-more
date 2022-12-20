@@ -1,0 +1,46 @@
+{
+  "_fv": 34,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 64,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.NETHERITE_SCRAP"
+      },
+      {
+        "value": "Blocks.GLASS"
+      },
+      {
+        "value": "Blocks.WOOL"
+      },
+      {
+        "value": "Blocks.GLASS"
+      },
+      {
+        "value": "Items.TOTEM_OF_UNDYING"
+      },
+      {
+        "value": "Blocks.GLASS"
+      },
+      {
+        "value": "Blocks.WOOL"
+      },
+      {
+        "value": "Blocks.GLASS"
+      },
+      {
+        "value": "Items.NETHERITE_SCRAP"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DistruptorBall"
+    },
+    "name": "distruptor_dx",
+    "namespace": "mod"
+  }
+}

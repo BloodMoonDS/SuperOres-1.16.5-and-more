@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "superores:time_wood_planks"
+    },
+    "1": {
+      "item": "superores:time_wood_planks"
+    }
+  },
+  "result": {
+    "item": "superores:time_wood_pressure_plate",
+    "count": 1
+  }
+}

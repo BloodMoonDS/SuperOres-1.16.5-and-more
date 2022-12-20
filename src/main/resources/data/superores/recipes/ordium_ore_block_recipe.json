@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "superores:ordium"
+    },
+    "1": {
+      "item": "superores:ordium"
+    },
+    "2": {
+      "item": "superores:ordium"
+    },
+    "3": {
+      "item": "superores:ordium"
+    },
+    "4": {
+      "item": "superores:ordium"
+    },
+    "5": {
+      "item": "superores:ordium"
+    },
+    "6": {
+      "item": "superores:ordium"
+    },
+    "7": {
+      "item": "superores:ordium"
+    },
+    "8": {
+      "item": "superores:ordium"
+    }
+  },
+  "result": {
+    "item": "superores:ordium_block",
+    "count": 1
+  }
+}

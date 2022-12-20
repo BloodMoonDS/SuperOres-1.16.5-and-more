@@ -1,0 +1,19 @@
+{
+  "_fv": 34,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Black Goo Zone",
+    "texture": "shizi1",
+    "description": "by Zhizi",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "specialInfo": [],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:darkzonemus"
+    },
+    "lengthInTicks": 100,
+    "analogOutput": 0
+  }
+}

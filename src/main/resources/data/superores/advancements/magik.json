@@ -1,0 +1,34 @@
+{
+  "display": {
+    "icon": {
+      "item": "superores:magic_wand"
+    },
+    "title": {
+      "translate": "advancements.magik.title"
+    },
+    "description": {
+      "translate": "advancements.magik.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "magik": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "superores:magic_wand",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "superores:wait_thatsnew"
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "superores:blocks/lemonwood_leaves",
+    "particle": "superores:blocks/lemonwood_leaves"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:black_oak_log"
+    }
+  ],
+  "result": {
+    "item": "superores:black_oak_planks",
+    "count": 4
+  }
+}

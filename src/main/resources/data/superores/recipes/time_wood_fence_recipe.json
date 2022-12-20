@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "superores:time_wood_planks"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "superores:time_wood_planks"
+    },
+    "3": {
+      "item": "superores:time_wood_planks"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "superores:time_wood_planks"
+    }
+  },
+  "result": {
+    "item": "superores:time_wood_fence",
+    "count": 3
+  }
+}

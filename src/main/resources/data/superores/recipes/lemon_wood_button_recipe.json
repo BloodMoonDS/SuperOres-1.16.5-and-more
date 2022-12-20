@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "superores:lemon_wood_planks"
+    }
+  ],
+  "result": {
+    "item": "superores:lemon_wood_button",
+    "count": 1
+  }
+}

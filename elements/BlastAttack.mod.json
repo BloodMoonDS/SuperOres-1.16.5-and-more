@@ -1,0 +1,46 @@
+{
+  "_fv": 34,
+  "_type": "rangeditem",
+  "definition": {
+    "renderType": 0,
+    "texture": "superblast",
+    "customModelName": "Normal",
+    "name": "Blast Attack",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "stackSize": 64,
+    "ammoItem": {
+      "value": ""
+    },
+    "shootConstantly": false,
+    "usageCount": 0,
+    "actionSound": {
+      "value": "CUSTOM:blastattack"
+    },
+    "hasGlow": false,
+    "animation": "block",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 10.0,
+    "bulletPower": 5.0,
+    "bulletDamage": 7.0,
+    "bulletKnockback": 10,
+    "bulletParticles": false,
+    "bulletIgnitesFire": true,
+    "bulletItemTexture": {
+      "value": "CUSTOM:BlastAttack"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": "superblast.png",
+    "onBulletHitsBlock": {
+      "name": "BlastAttackProjectileHitsBlock"
+    },
+    "onBulletHitsPlayer": {
+      "name": "BlastAttackProjectileHitsBlock"
+    },
+    "onBulletHitsEntity": {
+      "name": "BlastAttackProjectileHitsBlock"
+    }
+  }
+}

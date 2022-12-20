@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "superores:ordium"
+    },
+    "2": {
+      "item": "superores:ordium"
+    },
+    "3": {
+      "item": "superores:ordium"
+    },
+    "5": {
+      "item": "superores:ordium"
+    }
+  },
+  "result": {
+    "item": "superores:ordium_armor_boots",
+    "count": 1
+  }
+}

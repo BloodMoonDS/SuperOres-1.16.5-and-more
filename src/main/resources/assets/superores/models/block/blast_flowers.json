@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "superores:blocks/blatflower",
+    "particle": "superores:blocks/blatflower"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "superores:candy_stone_block"
+    }
+  ],
+  "result": {
+    "item": "superores:candy_stone",
+    "count": 9
+  }
+}

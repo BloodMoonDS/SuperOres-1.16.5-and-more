@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "superores:amenthyst"
+    },
+    "2": {
+      "item": "superores:amenthyst"
+    },
+    "3": {
+      "item": "superores:amenthyst"
+    },
+    "5": {
+      "item": "superores:amenthyst"
+    }
+  },
+  "result": {
+    "item": "superores:amenthyst_armor_boots",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "superores:blocks/corrupted_log_top",
+    "up": "superores:blocks/corrupted_log_top",
+    "north": "superores:blocks/corrupted_log_side",
+    "east": "superores:blocks/corrupted_log_side",
+    "south": "superores:blocks/corrupted_log_side",
+    "west": "superores:blocks/corrupted_log_side",
+    "particle": "superores:blocks/corrupted_log_top"
+  }
+}

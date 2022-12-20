@@ -1,0 +1,31 @@
+{
+  "_fv": 34,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "amenthyst_sword",
+    "customModelName": "Normal",
+    "name": "Amenthyst Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 3,
+    "efficiency": 8.0,
+    "attackSpeed": 1.0,
+    "enchantability": 22,
+    "damageVsEntity": 3.0,
+    "usageCount": 483,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Amenthyst"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 34,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Odrimium"
+      },
+      {
+        "value": "CUSTOM:Odrimium"
+      },
+      {
+        "value": "CUSTOM:Odrimium"
+      },
+      {
+        "value": "CUSTOM:Odrimium"
+      },
+      {
+        "value": "CUSTOM:Odrimium"
+      },
+      {
+        "value": "CUSTOM:Odrimium"
+      },
+      {
+        "value": "CUSTOM:Odrimium"
+      },
+      {
+        "value": "CUSTOM:Odrimium"
+      },
+      {
+        "value": "CUSTOM:Odrimium"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:OdrimiumBlock"
+    },
+    "name": "odrimium_ore_block_recipe",
+    "namespace": "mod"
+  }
+}

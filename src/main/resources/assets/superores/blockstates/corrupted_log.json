@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "superores:block/corrupted_log",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "superores:block/corrupted_log"
+    },
+    "axis=z": {
+      "model": "superores:block/corrupted_log",
+      "x": 90
+    }
+  }
+}

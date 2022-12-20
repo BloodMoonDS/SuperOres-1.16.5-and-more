@@ -1,0 +1,46 @@
+{
+  "_fv": 34,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:NickelIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:NickelIngot"
+      },
+      {
+        "value": "CUSTOM:NickelIngot"
+      },
+      {
+        "value": "CUSTOM:NickelIngot"
+      },
+      {
+        "value": "CUSTOM:NickelIngot"
+      },
+      {
+        "value": "CUSTOM:NickelIngot"
+      },
+      {
+        "value": "CUSTOM:NickelIngot"
+      },
+      {
+        "value": "CUSTOM:NickelIngot"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:NickelArmor.body"
+    },
+    "name": "nickel_armor_body_recipe",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "superores:amenthyst_block"
+    }
+  ],
+  "result": {
+    "item": "superores:amenthyst",
+    "count": 9
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "superores:ordium_block"
+    }
+  ],
+  "result": {
+    "item": "superores:ordium",
+    "count": 9
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "superores:odrimium"
+    },
+    "2": {
+      "item": "superores:odrimium"
+    },
+    "3": {
+      "item": "superores:odrimium"
+    },
+    "4": {
+      "item": "superores:odrimium"
+    },
+    "5": {
+      "item": "superores:odrimium"
+    },
+    "6": {
+      "item": "superores:odrimium"
+    },
+    "7": {
+      "item": "superores:odrimium"
+    },
+    "8": {
+      "item": "superores:odrimium"
+    }
+  },
+  "result": {
+    "item": "superores:odrimium_armor_chestplate",
+    "count": 1
+  }
+}

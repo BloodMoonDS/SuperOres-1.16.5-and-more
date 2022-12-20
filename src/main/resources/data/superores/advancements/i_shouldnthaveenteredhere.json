@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "superores:meat_block"
+    },
+    "title": {
+      "translate": "advancements.i_shouldnthaveenteredhere.title"
+    },
+    "description": {
+      "translate": "advancements.i_shouldnthaveenteredhere.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "i_shouldnthaveenteredhere": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "superores:the_hell"
+      }
+    }
+  },
+  "parent": "superores:wait_thatsnew"
+}

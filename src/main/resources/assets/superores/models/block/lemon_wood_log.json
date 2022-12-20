@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "superores:blocks/lemonwood_log_top",
+    "up": "superores:blocks/lemonwood_log_top",
+    "north": "superores:blocks/lemonwood_log_side",
+    "east": "superores:blocks/lemonwood_log_side",
+    "south": "superores:blocks/lemonwood_log_side",
+    "west": "superores:blocks/lemonwood_log_side",
+    "particle": "superores:blocks/lemonwood_log_top"
+  }
+}

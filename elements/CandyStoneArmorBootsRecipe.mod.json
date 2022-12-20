@@ -1,0 +1,46 @@
+{
+  "_fv": 34,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:CandyStone"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:CandyStone"
+      },
+      {
+        "value": "CUSTOM:CandyStone"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:CandyStone"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:CandyStoneArmor.boots"
+    },
+    "name": "candy_stone_armor_boots_recipe",
+    "namespace": "mod"
+  }
+}

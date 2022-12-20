@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "superores:ordium"
+    },
+    "1": {
+      "item": "superores:ordium"
+    },
+    "2": {
+      "item": "superores:ordium"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "superores:ordium_axe",
+    "count": 1
+  }
+}

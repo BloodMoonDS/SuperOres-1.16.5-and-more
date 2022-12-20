@@ -1,0 +1,40 @@
+{
+  "_fv": 34,
+  "_type": "rangeditem",
+  "definition": {
+    "renderType": 0,
+    "texture": "distruptorball",
+    "customModelName": "Normal",
+    "name": "Distruptor Ball",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "stackSize": 64,
+    "ammoItem": {
+      "value": ""
+    },
+    "shootConstantly": true,
+    "usageCount": 0,
+    "actionSound": {
+      "value": "entity.arrow.shoot"
+    },
+    "hasGlow": false,
+    "animation": "block",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 10.0,
+    "bulletPower": 1.4,
+    "bulletDamage": 5.0,
+    "bulletKnockback": 5,
+    "bulletParticles": false,
+    "bulletIgnitesFire": true,
+    "bulletItemTexture": {
+      "value": "CUSTOM:AlternateReality"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": "",
+    "onBulletHitsEntity": {
+      "name": "DistruptorBallProjectileHitsLivingEntity"
+    }
+  }
+}

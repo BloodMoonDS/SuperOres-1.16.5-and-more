@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 2.8,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "superores:ordium_ore"
+  },
+  "result": {
+    "item": "superores:ordium"
+  }
+}

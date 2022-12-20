@@ -1,0 +1,46 @@
+{
+  "_fv": 34,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:LemonWoodPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:LemonWoodPlanks"
+      },
+      {
+        "value": "CUSTOM:LemonWoodPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:LemonWoodPlanks"
+      },
+      {
+        "value": "CUSTOM:LemonWoodPlanks"
+      },
+      {
+        "value": "CUSTOM:LemonWoodPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:LemonWoodStairs"
+    },
+    "name": "lemon_wood_stairs_recipe",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:corrupted_log"
+    }
+  ],
+  "result": {
+    "item": "superores:corrupted_planks",
+    "count": 4
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "superores:blocks/lemonwood_planks",
+    "particle": "superores:blocks/lemonwood_planks"
+  }
+}

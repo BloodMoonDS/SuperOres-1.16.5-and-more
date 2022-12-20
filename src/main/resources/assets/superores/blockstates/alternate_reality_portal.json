@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "superores:block/alternate_reality_portal_ew"
+    },
+    "axis=x": {
+      "model": "superores:block/alternate_reality_portal_ns"
+    }
+  }
+}

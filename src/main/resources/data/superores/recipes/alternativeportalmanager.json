@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "tag": "minecraft:saplings"
+    },
+    "1": {
+      "item": "minecraft:lapis_lazuli"
+    },
+    "2": {
+      "tag": "minecraft:saplings"
+    }
+  },
+  "result": {
+    "item": "superores:alternate_reality",
+    "count": 1
+  }
+}

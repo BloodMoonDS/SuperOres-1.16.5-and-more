@@ -1,0 +1,33 @@
+{
+  "_fv": 34,
+  "_type": "villagertrade",
+  "definition": {
+    "tradeEntries": [
+      {
+        "villagerProfession": {
+          "value": "CLERIC"
+        },
+        "entries": [
+          {
+            "price1": {
+              "value": "Items.NETHER_STAR"
+            },
+            "countPrice1": 3,
+            "price2": {
+              "value": "Items.HEART_OF_THE_SEA"
+            },
+            "countPrice2": 3,
+            "offer": {
+              "value": "CUSTOM:MagicWand"
+            },
+            "countOffer": 1,
+            "level": 3,
+            "maxTrades": 2,
+            "xp": 5,
+            "priceMultiplier": 0.05
+          }
+        ]
+      }
+    ]
+  }
+}

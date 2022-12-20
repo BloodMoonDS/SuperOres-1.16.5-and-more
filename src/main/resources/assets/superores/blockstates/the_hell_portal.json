@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "superores:block/the_hell_portal_ew"
+    },
+    "axis=x": {
+      "model": "superores:block/the_hell_portal_ns"
+    }
+  }
+}

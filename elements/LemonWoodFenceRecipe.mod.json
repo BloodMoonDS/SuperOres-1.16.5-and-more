@@ -1,0 +1,46 @@
+{
+  "_fv": 34,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 3,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:LemonWoodPlanks"
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": "CUSTOM:LemonWoodPlanks"
+      },
+      {
+        "value": "CUSTOM:LemonWoodPlanks"
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": "CUSTOM:LemonWoodPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:LemonWoodFence"
+    },
+    "name": "lemon_wood_fence_recipe",
+    "namespace": "mod"
+  }
+}

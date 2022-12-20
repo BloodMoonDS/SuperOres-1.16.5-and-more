@@ -1,0 +1,34 @@
+{
+  "_fv": 34,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "superweapon",
+    "customModelName": "Normal",
+    "name": "Super Weapon",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 10.0,
+    "attackSpeed": 10.0,
+    "enchantability": 40,
+    "damageVsEntity": 4.0,
+    "usageCount": 15000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:NybrickIngot"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onEntityHitWith": {
+      "name": "SuperWeaponLivingEntityIsHitWithTool"
+    }
+  }
+}

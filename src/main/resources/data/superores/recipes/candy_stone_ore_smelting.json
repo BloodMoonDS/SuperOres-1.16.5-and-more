@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 0.7,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "superores:candy_stone_ore"
+  },
+  "result": {
+    "item": "superores:candy_stone"
+  }
+}

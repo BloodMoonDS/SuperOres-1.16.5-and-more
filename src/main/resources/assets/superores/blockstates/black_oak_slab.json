@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "superores:block/black_oak_slab"
+    },
+    "type=top": {
+      "model": "superores:block/black_oak_slab_top"
+    },
+    "type=double": {
+      "model": "superores:block/black_oak_slab_full"
+    }
+  }
+}

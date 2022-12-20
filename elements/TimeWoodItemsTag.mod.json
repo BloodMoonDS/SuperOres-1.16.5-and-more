@@ -1,0 +1,21 @@
+{
+  "_fv": 34,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:TimeWoodWood"
+      },
+      {
+        "value": "CUSTOM:TimeWoodLog"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "timewood_log",
+    "namespace": "forge"
+  }
+}

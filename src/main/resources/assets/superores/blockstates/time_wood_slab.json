@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "superores:block/time_wood_slab"
+    },
+    "type=top": {
+      "model": "superores:block/time_wood_slab_top"
+    },
+    "type=double": {
+      "model": "superores:block/time_wood_slab_full"
+    }
+  }
+}

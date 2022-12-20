@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "superores:time_wood_planks"
+    },
+    "1": {
+      "item": "superores:time_wood_planks"
+    }
+  },
+  "result": {
+    "item": "minecraft:stick",
+    "count": 4
+  }
+}

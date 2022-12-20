@@ -1,0 +1,2630 @@
+{
+  "mod_elements": [
+    {
+      "name": "MagicWand",
+      "type": "tool",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magic_wand"
+    },
+    {
+      "name": "MagicWandDoesMagik",
+      "type": "procedure",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magic_wand_does_magik",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "LeadIngot",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lead_ingot"
+    },
+    {
+      "name": "LeadOre",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lead_ore"
+    },
+    {
+      "name": "LeadBlock",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lead_block"
+    },
+    {
+      "name": "LeadOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lead_ore_block_recipe"
+    },
+    {
+      "name": "LeadBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lead_block_ore_recipe"
+    },
+    {
+      "name": "LeadOreSmelting",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lead_ore_smelting"
+    },
+    {
+      "name": "LeadPickaxe",
+      "type": "tool",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lead_pickaxe"
+    },
+    {
+      "name": "LeadAxe",
+      "type": "tool",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lead_axe"
+    },
+    {
+      "name": "LeadSword",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lead_sword"
+    },
+    {
+      "name": "LeadShovel",
+      "type": "tool",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lead_shovel"
+    },
+    {
+      "name": "LeadHoe",
+      "type": "tool",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lead_hoe"
+    },
+    {
+      "name": "LeadPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lead_pickaxe_recipe"
+    },
+    {
+      "name": "LeadAxeRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lead_axe_recipe"
+    },
+    {
+      "name": "LeadSwordRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lead_sword_recipe"
+    },
+    {
+      "name": "LeadShovelRecipe",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lead_shovel_recipe"
+    },
+    {
+      "name": "LeadHoeRecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lead_hoe_recipe"
+    },
+    {
+      "name": "LeadArmor",
+      "type": "armor",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lead_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "LeadArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lead_armor_helmet_recipe"
+    },
+    {
+      "name": "LeadArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lead_armor_body_recipe"
+    },
+    {
+      "name": "LeadArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lead_armor_leggings_recipe"
+    },
+    {
+      "name": "LeadArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lead_armor_boots_recipe"
+    },
+    {
+      "name": "Amenthyst",
+      "type": "item",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amenthyst"
+    },
+    {
+      "name": "AmenthystOre",
+      "type": "block",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amenthyst_ore"
+    },
+    {
+      "name": "AmenthystBlock",
+      "type": "block",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amenthyst_block"
+    },
+    {
+      "name": "AmenthystOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amenthyst_ore_block_recipe"
+    },
+    {
+      "name": "AmenthystBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amenthyst_block_ore_recipe"
+    },
+    {
+      "name": "AmenthystOreSmelting",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amenthyst_ore_smelting"
+    },
+    {
+      "name": "AmenthystPickaxe",
+      "type": "tool",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amenthyst_pickaxe"
+    },
+    {
+      "name": "AmenthystAxe",
+      "type": "tool",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amenthyst_axe"
+    },
+    {
+      "name": "AmenthystSword",
+      "type": "tool",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amenthyst_sword"
+    },
+    {
+      "name": "AmenthystShovel",
+      "type": "tool",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amenthyst_shovel"
+    },
+    {
+      "name": "AmenthystHoe",
+      "type": "tool",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amenthyst_hoe"
+    },
+    {
+      "name": "AmenthystPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amenthyst_pickaxe_recipe"
+    },
+    {
+      "name": "AmenthystAxeRecipe",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amenthyst_axe_recipe"
+    },
+    {
+      "name": "AmenthystSwordRecipe",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amenthyst_sword_recipe"
+    },
+    {
+      "name": "AmenthystShovelRecipe",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amenthyst_shovel_recipe"
+    },
+    {
+      "name": "AmenthystHoeRecipe",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amenthyst_hoe_recipe"
+    },
+    {
+      "name": "AmenthystArmor",
+      "type": "armor",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amenthyst_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "AmenthystArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amenthyst_armor_helmet_recipe"
+    },
+    {
+      "name": "AmenthystArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amenthyst_armor_body_recipe"
+    },
+    {
+      "name": "AmenthystArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amenthyst_armor_leggings_recipe"
+    },
+    {
+      "name": "AmenthystArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amenthyst_armor_boots_recipe"
+    },
+    {
+      "name": "NickelIngot",
+      "type": "item",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nickel_ingot"
+    },
+    {
+      "name": "NickelOre",
+      "type": "block",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nickel_ore"
+    },
+    {
+      "name": "NickelBlock",
+      "type": "block",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nickel_block"
+    },
+    {
+      "name": "NickelOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nickel_ore_block_recipe"
+    },
+    {
+      "name": "NickelBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nickel_block_ore_recipe"
+    },
+    {
+      "name": "NickelOreSmelting",
+      "type": "recipe",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nickel_ore_smelting"
+    },
+    {
+      "name": "NickelPickaxe",
+      "type": "tool",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nickel_pickaxe"
+    },
+    {
+      "name": "NickelAxe",
+      "type": "tool",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nickel_axe"
+    },
+    {
+      "name": "NickelSword",
+      "type": "tool",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nickel_sword"
+    },
+    {
+      "name": "NickelShovel",
+      "type": "tool",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nickel_shovel"
+    },
+    {
+      "name": "NickelHoe",
+      "type": "tool",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nickel_hoe"
+    },
+    {
+      "name": "NickelPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nickel_pickaxe_recipe"
+    },
+    {
+      "name": "NickelAxeRecipe",
+      "type": "recipe",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nickel_axe_recipe"
+    },
+    {
+      "name": "NickelSwordRecipe",
+      "type": "recipe",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nickel_sword_recipe"
+    },
+    {
+      "name": "NickelShovelRecipe",
+      "type": "recipe",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nickel_shovel_recipe"
+    },
+    {
+      "name": "NickelHoeRecipe",
+      "type": "recipe",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nickel_hoe_recipe"
+    },
+    {
+      "name": "NickelArmor",
+      "type": "armor",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nickel_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "NickelArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nickel_armor_helmet_recipe"
+    },
+    {
+      "name": "NickelArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nickel_armor_body_recipe"
+    },
+    {
+      "name": "NickelArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nickel_armor_leggings_recipe"
+    },
+    {
+      "name": "NickelArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nickel_armor_boots_recipe"
+    },
+    {
+      "name": "ToGetMagicWand",
+      "type": "villagertrade",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "to_get_magic_wand"
+    },
+    {
+      "name": "CandyStone",
+      "type": "item",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "candy_stone"
+    },
+    {
+      "name": "CandyStoneOre",
+      "type": "block",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "candy_stone_ore"
+    },
+    {
+      "name": "CandyStoneBlock",
+      "type": "block",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "candy_stone_block"
+    },
+    {
+      "name": "CandyStoneOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "candy_stone_ore_block_recipe"
+    },
+    {
+      "name": "CandyStoneBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "candy_stone_block_ore_recipe"
+    },
+    {
+      "name": "CandyStoneOreSmelting",
+      "type": "recipe",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "candy_stone_ore_smelting"
+    },
+    {
+      "name": "CandyStonePickaxe",
+      "type": "tool",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "candy_stone_pickaxe"
+    },
+    {
+      "name": "CandyStoneAxe",
+      "type": "tool",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "candy_stone_axe"
+    },
+    {
+      "name": "CandyStoneSword",
+      "type": "tool",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "candy_stone_sword"
+    },
+    {
+      "name": "CandyStoneShovel",
+      "type": "tool",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "candy_stone_shovel"
+    },
+    {
+      "name": "CandyStoneHoe",
+      "type": "tool",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "candy_stone_hoe"
+    },
+    {
+      "name": "CandyStonePickaxeRecipe",
+      "type": "recipe",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "candy_stone_pickaxe_recipe"
+    },
+    {
+      "name": "CandyStoneAxeRecipe",
+      "type": "recipe",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "candy_stone_axe_recipe"
+    },
+    {
+      "name": "CandyStoneSwordRecipe",
+      "type": "recipe",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "candy_stone_sword_recipe"
+    },
+    {
+      "name": "CandyStoneShovelRecipe",
+      "type": "recipe",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "candy_stone_shovel_recipe"
+    },
+    {
+      "name": "CandyStoneHoeRecipe",
+      "type": "recipe",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "candy_stone_hoe_recipe"
+    },
+    {
+      "name": "CandyStoneArmor",
+      "type": "armor",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "candy_stone_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "CandyStoneArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "candy_stone_armor_helmet_recipe"
+    },
+    {
+      "name": "CandyStoneArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "candy_stone_armor_body_recipe"
+    },
+    {
+      "name": "CandyStoneArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "candy_stone_armor_leggings_recipe"
+    },
+    {
+      "name": "CandyStoneArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "candy_stone_armor_boots_recipe"
+    },
+    {
+      "name": "Ordium",
+      "type": "item",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ordium"
+    },
+    {
+      "name": "OrdiumOre",
+      "type": "block",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ordium_ore"
+    },
+    {
+      "name": "OrdiumBlock",
+      "type": "block",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ordium_block"
+    },
+    {
+      "name": "OrdiumOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ordium_ore_block_recipe"
+    },
+    {
+      "name": "OrdiumBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ordium_block_ore_recipe"
+    },
+    {
+      "name": "OrdiumOreSmelting",
+      "type": "recipe",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ordium_ore_smelting"
+    },
+    {
+      "name": "OrdiumPickaxe",
+      "type": "tool",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ordium_pickaxe"
+    },
+    {
+      "name": "OrdiumAxe",
+      "type": "tool",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ordium_axe"
+    },
+    {
+      "name": "OrdiumSword",
+      "type": "tool",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ordium_sword"
+    },
+    {
+      "name": "OrdiumShovel",
+      "type": "tool",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ordium_shovel"
+    },
+    {
+      "name": "OrdiumHoe",
+      "type": "tool",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ordium_hoe"
+    },
+    {
+      "name": "OrdiumPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ordium_pickaxe_recipe"
+    },
+    {
+      "name": "OrdiumAxeRecipe",
+      "type": "recipe",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ordium_axe_recipe"
+    },
+    {
+      "name": "OrdiumSwordRecipe",
+      "type": "recipe",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ordium_sword_recipe"
+    },
+    {
+      "name": "OrdiumShovelRecipe",
+      "type": "recipe",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ordium_shovel_recipe"
+    },
+    {
+      "name": "OrdiumHoeRecipe",
+      "type": "recipe",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ordium_hoe_recipe"
+    },
+    {
+      "name": "OrdiumArmor",
+      "type": "armor",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ordium_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "OrdiumArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ordium_armor_helmet_recipe"
+    },
+    {
+      "name": "OrdiumArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ordium_armor_body_recipe"
+    },
+    {
+      "name": "OrdiumArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ordium_armor_leggings_recipe"
+    },
+    {
+      "name": "OrdiumArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ordium_armor_boots_recipe"
+    },
+    {
+      "name": "Odrimium",
+      "type": "item",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "odrimium"
+    },
+    {
+      "name": "OdrimiumOre",
+      "type": "block",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "odrimium_ore"
+    },
+    {
+      "name": "OdrimiumBlock",
+      "type": "block",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "odrimium_block"
+    },
+    {
+      "name": "OdrimiumOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "odrimium_ore_block_recipe"
+    },
+    {
+      "name": "OdrimiumBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "odrimium_block_ore_recipe"
+    },
+    {
+      "name": "OdrimiumOreSmelting",
+      "type": "recipe",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "odrimium_ore_smelting"
+    },
+    {
+      "name": "OdrimiumPickaxe",
+      "type": "tool",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "odrimium_pickaxe"
+    },
+    {
+      "name": "OdrimiumAxe",
+      "type": "tool",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "odrimium_axe"
+    },
+    {
+      "name": "OdrimiumSword",
+      "type": "tool",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "odrimium_sword"
+    },
+    {
+      "name": "OdrimiumShovel",
+      "type": "tool",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "odrimium_shovel"
+    },
+    {
+      "name": "OdrimiumHoe",
+      "type": "tool",
+      "sortid": 119,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "odrimium_hoe"
+    },
+    {
+      "name": "OdrimiumPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "odrimium_pickaxe_recipe"
+    },
+    {
+      "name": "OdrimiumAxeRecipe",
+      "type": "recipe",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "odrimium_axe_recipe"
+    },
+    {
+      "name": "OdrimiumSwordRecipe",
+      "type": "recipe",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "odrimium_sword_recipe"
+    },
+    {
+      "name": "OdrimiumShovelRecipe",
+      "type": "recipe",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "odrimium_shovel_recipe"
+    },
+    {
+      "name": "OdrimiumHoeRecipe",
+      "type": "recipe",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "odrimium_hoe_recipe"
+    },
+    {
+      "name": "OdrimiumArmor",
+      "type": "armor",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "odrimium_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "OdrimiumArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "odrimium_armor_helmet_recipe"
+    },
+    {
+      "name": "OdrimiumArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "odrimium_armor_body_recipe"
+    },
+    {
+      "name": "OdrimiumArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "odrimium_armor_leggings_recipe"
+    },
+    {
+      "name": "OdrimiumArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "odrimium_armor_boots_recipe"
+    },
+    {
+      "name": "LemonWoodWood",
+      "type": "block",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lemon_wood_wood"
+    },
+    {
+      "name": "LemonWoodLog",
+      "type": "block",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lemon_wood_log"
+    },
+    {
+      "name": "LemonWoodPlanks",
+      "type": "block",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lemon_wood_planks"
+    },
+    {
+      "name": "LemonWoodLeaves",
+      "type": "block",
+      "sortid": 133,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lemon_wood_leaves"
+    },
+    {
+      "name": "LemonWoodStairs",
+      "type": "block",
+      "sortid": 134,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lemon_wood_stairs"
+    },
+    {
+      "name": "LemonWoodSlab",
+      "type": "block",
+      "sortid": 135,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lemon_wood_slab"
+    },
+    {
+      "name": "LemonWoodFence",
+      "type": "block",
+      "sortid": 136,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lemon_wood_fence"
+    },
+    {
+      "name": "LemonWoodFenceGate",
+      "type": "block",
+      "sortid": 137,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lemon_wood_fence_gate"
+    },
+    {
+      "name": "LemonWoodPressurePlate",
+      "type": "block",
+      "sortid": 138,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lemon_wood_pressure_plate"
+    },
+    {
+      "name": "LemonWoodButton",
+      "type": "block",
+      "sortid": 139,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lemon_wood_button"
+    },
+    {
+      "name": "LemonWoodItemsTag",
+      "type": "tag",
+      "sortid": 140,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lemon_wood_items_tag"
+    },
+    {
+      "name": "LemonWoodWoodRecipe",
+      "type": "recipe",
+      "sortid": 141,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lemon_wood_wood_recipe"
+    },
+    {
+      "name": "LemonWoodPlanksRecipe",
+      "type": "recipe",
+      "sortid": 142,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lemon_wood_planks_recipe"
+    },
+    {
+      "name": "LemonWoodStairsRecipe",
+      "type": "recipe",
+      "sortid": 143,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lemon_wood_stairs_recipe"
+    },
+    {
+      "name": "LemonWoodSlabRecipe",
+      "type": "recipe",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lemon_wood_slab_recipe"
+    },
+    {
+      "name": "LemonWoodFenceRecipe",
+      "type": "recipe",
+      "sortid": 145,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lemon_wood_fence_recipe"
+    },
+    {
+      "name": "LemonWoodFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 146,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lemon_wood_fence_gate_recipe"
+    },
+    {
+      "name": "LemonWoodPressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 147,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lemon_wood_pressure_plate_recipe"
+    },
+    {
+      "name": "LemonWoodButtonRecipe",
+      "type": "recipe",
+      "sortid": 148,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lemon_wood_button_recipe"
+    },
+    {
+      "name": "LemonWoodStickRecipe",
+      "type": "recipe",
+      "sortid": 149,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lemon_wood_stick_recipe"
+    },
+    {
+      "name": "LemonLand",
+      "type": "biome",
+      "sortid": 150,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lemon_land"
+    },
+    {
+      "name": "Slimehound",
+      "type": "livingentity",
+      "sortid": 151,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "slimehound"
+    },
+    {
+      "name": "SlimehoundOnInitialEntitySpawn",
+      "type": "procedure",
+      "sortid": 152,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "slimehound_on_initial_entity_spawn",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AcidMobplayerCollidesBlock",
+      "type": "procedure",
+      "sortid": 153,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "acid_mobplayer_collides_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Acid",
+      "type": "fluid",
+      "sortid": 153,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "acid",
+      "metadata": {
+        "gb": true
+      }
+    },
+    {
+      "name": "NybrickIngot",
+      "type": "item",
+      "sortid": 154,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nybrick_ingot"
+    },
+    {
+      "name": "NybrickOre",
+      "type": "block",
+      "sortid": 155,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nybrick_ore"
+    },
+    {
+      "name": "NybrickBlock",
+      "type": "block",
+      "sortid": 156,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nybrick_block"
+    },
+    {
+      "name": "NybrickOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 157,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nybrick_ore_block_recipe"
+    },
+    {
+      "name": "NybrickBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 158,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nybrick_block_ore_recipe"
+    },
+    {
+      "name": "NybrickOreSmelting",
+      "type": "recipe",
+      "sortid": 159,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nybrick_ore_smelting"
+    },
+    {
+      "name": "MeatBlock",
+      "type": "block",
+      "sortid": 160,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "meat_block"
+    },
+    {
+      "name": "MeatHive",
+      "type": "block",
+      "sortid": 161,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "meat_hive"
+    },
+    {
+      "name": "MeatHiveBlockDestroyedByPlayer",
+      "type": "procedure",
+      "sortid": 162,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "meat_hive_block_destroyed_by_player",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "RedSlimehound",
+      "type": "livingentity",
+      "sortid": 163,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "red_slimehound"
+    },
+    {
+      "name": "MeatLand",
+      "type": "biome",
+      "sortid": 164,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "meat_land"
+    },
+    {
+      "name": "TheHell",
+      "type": "dimension",
+      "sortid": 165,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "the_hell",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "MeatIgniter",
+      "type": "recipe",
+      "sortid": 166,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "meat_igniter"
+    },
+    {
+      "name": "WhiteZone",
+      "type": "biome",
+      "sortid": 167,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white_zone"
+    },
+    {
+      "name": "WhiteDimension",
+      "type": "dimension",
+      "sortid": 168,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "white_dimension",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "Holmes",
+      "type": "recipe",
+      "sortid": 169,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "holmes"
+    },
+    {
+      "name": "SuperWeaponLivingEntityIsHitWithTool",
+      "type": "procedure",
+      "sortid": 170,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "super_weapon_living_entity_is_hit_with_tool",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SuperWeapon",
+      "type": "tool",
+      "sortid": 170,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "super_weapon"
+    },
+    {
+      "name": "SuperWeaponTrade",
+      "type": "villagertrade",
+      "sortid": 171,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "super_weapon_trade"
+    },
+    {
+      "name": "TheUltimateWeapon",
+      "type": "achievement",
+      "sortid": 172,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "the_ultimate_weapon"
+    },
+    {
+      "name": "IShouldnthaveenteredhere",
+      "type": "achievement",
+      "sortid": 173,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "i_shouldnthaveenteredhere"
+    },
+    {
+      "name": "WaitThatsnew",
+      "type": "achievement",
+      "sortid": 174,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wait_thatsnew"
+    },
+    {
+      "name": "SweetArmory",
+      "type": "achievement",
+      "sortid": 175,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sweet_armory"
+    },
+    {
+      "name": "BetterThanDiamondIDontThinkSo",
+      "type": "achievement",
+      "sortid": 176,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "better_than_diamond_i_dont_think_so"
+    },
+    {
+      "name": "ItsGettingSerious",
+      "type": "achievement",
+      "sortid": 177,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "its_getting_serious"
+    },
+    {
+      "name": "Wazaaaaaaaa",
+      "type": "achievement",
+      "sortid": 178,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wazaaaaaaaa"
+    },
+    {
+      "name": "Magik",
+      "type": "achievement",
+      "sortid": 179,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magik"
+    },
+    {
+      "name": "CorruptedWood",
+      "type": "block",
+      "sortid": 180,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "corrupted_wood"
+    },
+    {
+      "name": "CorruptedLog",
+      "type": "block",
+      "sortid": 181,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "corrupted_log"
+    },
+    {
+      "name": "CorruptedPlanks",
+      "type": "block",
+      "sortid": 182,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "corrupted_planks"
+    },
+    {
+      "name": "CorruptedLeaves",
+      "type": "block",
+      "sortid": 183,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "corrupted_leaves"
+    },
+    {
+      "name": "CorruptedStairs",
+      "type": "block",
+      "sortid": 184,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "corrupted_stairs"
+    },
+    {
+      "name": "CorruptedSlab",
+      "type": "block",
+      "sortid": 185,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "corrupted_slab"
+    },
+    {
+      "name": "CorruptedFence",
+      "type": "block",
+      "sortid": 186,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "corrupted_fence"
+    },
+    {
+      "name": "CorruptedFenceGate",
+      "type": "block",
+      "sortid": 187,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "corrupted_fence_gate"
+    },
+    {
+      "name": "CorruptedPressurePlate",
+      "type": "block",
+      "sortid": 188,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "corrupted_pressure_plate"
+    },
+    {
+      "name": "CorruptedButton",
+      "type": "block",
+      "sortid": 189,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "corrupted_button"
+    },
+    {
+      "name": "CorruptedItemsTag",
+      "type": "tag",
+      "sortid": 190,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "corrupted_items_tag"
+    },
+    {
+      "name": "CorruptedWoodRecipe",
+      "type": "recipe",
+      "sortid": 191,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "corrupted_wood_recipe"
+    },
+    {
+      "name": "CorruptedPlanksRecipe",
+      "type": "recipe",
+      "sortid": 192,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "corrupted_planks_recipe"
+    },
+    {
+      "name": "CorruptedStairsRecipe",
+      "type": "recipe",
+      "sortid": 193,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "corrupted_stairs_recipe"
+    },
+    {
+      "name": "CorruptedSlabRecipe",
+      "type": "recipe",
+      "sortid": 194,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "corrupted_slab_recipe"
+    },
+    {
+      "name": "CorruptedFenceRecipe",
+      "type": "recipe",
+      "sortid": 195,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "corrupted_fence_recipe"
+    },
+    {
+      "name": "CorruptedFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 196,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "corrupted_fence_gate_recipe"
+    },
+    {
+      "name": "CorruptedPressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 197,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "corrupted_pressure_plate_recipe"
+    },
+    {
+      "name": "CorruptedButtonRecipe",
+      "type": "recipe",
+      "sortid": 198,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "corrupted_button_recipe"
+    },
+    {
+      "name": "CorruptedStickRecipe",
+      "type": "recipe",
+      "sortid": 199,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "corrupted_stick_recipe"
+    },
+    {
+      "name": "Black_OakWood",
+      "type": "block",
+      "sortid": 200,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_oak_wood"
+    },
+    {
+      "name": "Black_OakLog",
+      "type": "block",
+      "sortid": 201,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_oak_log"
+    },
+    {
+      "name": "Black_OakPlanks",
+      "type": "block",
+      "sortid": 202,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_oak_planks"
+    },
+    {
+      "name": "Black_OakLeaves",
+      "type": "block",
+      "sortid": 203,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_oak_leaves"
+    },
+    {
+      "name": "Black_OakStairs",
+      "type": "block",
+      "sortid": 204,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_oak_stairs"
+    },
+    {
+      "name": "Black_OakSlab",
+      "type": "block",
+      "sortid": 205,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_oak_slab"
+    },
+    {
+      "name": "Black_OakFence",
+      "type": "block",
+      "sortid": 206,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_oak_fence"
+    },
+    {
+      "name": "Black_OakFenceGate",
+      "type": "block",
+      "sortid": 207,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_oak_fence_gate"
+    },
+    {
+      "name": "Black_OakPressurePlate",
+      "type": "block",
+      "sortid": 208,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_oak_pressure_plate"
+    },
+    {
+      "name": "Black_OakButton",
+      "type": "block",
+      "sortid": 209,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_oak_button"
+    },
+    {
+      "name": "Black_OakItemsTag",
+      "type": "tag",
+      "sortid": 210,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_oak_items_tag"
+    },
+    {
+      "name": "Black_OakWoodRecipe",
+      "type": "recipe",
+      "sortid": 211,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_oak_wood_recipe"
+    },
+    {
+      "name": "Black_OakPlanksRecipe",
+      "type": "recipe",
+      "sortid": 212,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_oak_planks_recipe"
+    },
+    {
+      "name": "Black_OakStairsRecipe",
+      "type": "recipe",
+      "sortid": 213,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_oak_stairs_recipe"
+    },
+    {
+      "name": "Black_OakSlabRecipe",
+      "type": "recipe",
+      "sortid": 214,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_oak_slab_recipe"
+    },
+    {
+      "name": "Black_OakFenceRecipe",
+      "type": "recipe",
+      "sortid": 215,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_oak_fence_recipe"
+    },
+    {
+      "name": "Black_OakFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 216,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_oak_fence_gate_recipe"
+    },
+    {
+      "name": "Black_OakPressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 217,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_oak_pressure_plate_recipe"
+    },
+    {
+      "name": "Black_OakButtonRecipe",
+      "type": "recipe",
+      "sortid": 218,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_oak_button_recipe"
+    },
+    {
+      "name": "Black_OakStickRecipe",
+      "type": "recipe",
+      "sortid": 219,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_oak_stick_recipe"
+    },
+    {
+      "name": "CorrupedForest",
+      "type": "biome",
+      "sortid": 220,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "corruped_forest"
+    },
+    {
+      "name": "BlackForest",
+      "type": "biome",
+      "sortid": 221,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_forest"
+    },
+    {
+      "name": "AlternateReality",
+      "type": "dimension",
+      "sortid": 222,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alternate_reality",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "DistruptorBallProjectileHitsLivingEntity",
+      "type": "procedure",
+      "sortid": 223,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "distruptor_ball_projectile_hits_living_entity",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DistruptorBall",
+      "type": "rangeditem",
+      "sortid": 223,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "distruptor_ball"
+    },
+    {
+      "name": "Alternativeportalmanager",
+      "type": "recipe",
+      "sortid": 224,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alternativeportalmanager"
+    },
+    {
+      "name": "DistruptorDX",
+      "type": "recipe",
+      "sortid": 225,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "distruptor_dx"
+    },
+    {
+      "name": "GokuDrip",
+      "type": "livingentity",
+      "sortid": 226,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goku_drip"
+    },
+    {
+      "name": "BlastAttack",
+      "type": "rangeditem",
+      "sortid": 227,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blast_attack"
+    },
+    {
+      "name": "SlimePup",
+      "type": "livingentity",
+      "sortid": 228,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "slime_pup"
+    },
+    {
+      "name": "GokuDripSummonerRightclicked",
+      "type": "procedure",
+      "sortid": 229,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goku_drip_summoner_rightclicked",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "GokuDripSummoner",
+      "type": "item",
+      "sortid": 229,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goku_drip_summoner"
+    },
+    {
+      "name": "GokuSummonerCraft",
+      "type": "recipe",
+      "sortid": 230,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goku_summoner_craft"
+    },
+    {
+      "name": "BlastFlowers",
+      "type": "plant",
+      "sortid": 231,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blast_flowers"
+    },
+    {
+      "name": "BlastAttackProjectileHitsBlock",
+      "type": "procedure",
+      "sortid": 232,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blast_attack_projectile_hits_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "TimeWoodWood",
+      "type": "block",
+      "sortid": 233,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "time_wood_wood"
+    },
+    {
+      "name": "TimeWoodLog",
+      "type": "block",
+      "sortid": 234,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "time_wood_log"
+    },
+    {
+      "name": "TimeWoodPlanks",
+      "type": "block",
+      "sortid": 235,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "time_wood_planks"
+    },
+    {
+      "name": "TimeWoodLeaves",
+      "type": "block",
+      "sortid": 236,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "time_wood_leaves"
+    },
+    {
+      "name": "TimeWoodStairs",
+      "type": "block",
+      "sortid": 237,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "time_wood_stairs"
+    },
+    {
+      "name": "TimeWoodSlab",
+      "type": "block",
+      "sortid": 238,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "time_wood_slab"
+    },
+    {
+      "name": "TimeWoodFence",
+      "type": "block",
+      "sortid": 239,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "time_wood_fence"
+    },
+    {
+      "name": "TimeWoodFenceGate",
+      "type": "block",
+      "sortid": 240,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "time_wood_fence_gate"
+    },
+    {
+      "name": "TimeWoodPressurePlate",
+      "type": "block",
+      "sortid": 241,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "time_wood_pressure_plate"
+    },
+    {
+      "name": "TimeWoodButton",
+      "type": "block",
+      "sortid": 242,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "time_wood_button"
+    },
+    {
+      "name": "TimeWoodItemsTag",
+      "type": "tag",
+      "sortid": 243,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "time_wood_items_tag"
+    },
+    {
+      "name": "TimeWoodWoodRecipe",
+      "type": "recipe",
+      "sortid": 244,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "time_wood_wood_recipe"
+    },
+    {
+      "name": "TimeWoodPlanksRecipe",
+      "type": "recipe",
+      "sortid": 245,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "time_wood_planks_recipe"
+    },
+    {
+      "name": "TimeWoodStairsRecipe",
+      "type": "recipe",
+      "sortid": 246,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "time_wood_stairs_recipe"
+    },
+    {
+      "name": "TimeWoodSlabRecipe",
+      "type": "recipe",
+      "sortid": 247,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "time_wood_slab_recipe"
+    },
+    {
+      "name": "TimeWoodFenceRecipe",
+      "type": "recipe",
+      "sortid": 248,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "time_wood_fence_recipe"
+    },
+    {
+      "name": "TimeWoodFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 249,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "time_wood_fence_gate_recipe"
+    },
+    {
+      "name": "TimeWoodPressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 250,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "time_wood_pressure_plate_recipe"
+    },
+    {
+      "name": "TimeWoodButtonRecipe",
+      "type": "recipe",
+      "sortid": 251,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "time_wood_button_recipe"
+    },
+    {
+      "name": "TimeWoodStickRecipe",
+      "type": "recipe",
+      "sortid": 252,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "time_wood_stick_recipe"
+    },
+    {
+      "name": "TimeLand",
+      "type": "biome",
+      "sortid": 253,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "time_land"
+    },
+    {
+      "name": "Puro",
+      "type": "painting",
+      "sortid": 254,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "puro"
+    },
+    {
+      "name": "BlackGooZone",
+      "type": "musicdisc",
+      "sortid": 255,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_goo_zone"
+    },
+    {
+      "name": "TheLibrary",
+      "type": "musicdisc",
+      "sortid": 256,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "the_library"
+    },
+    {
+      "name": "Meme1",
+      "type": "painting",
+      "sortid": 257,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "meme_1"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "poison",
+      "files": [
+        "poison"
+      ],
+      "category": "neutral",
+      "subtitle": "poison"
+    },
+    {
+      "name": "death",
+      "files": [
+        "nonono1",
+        "nonono2",
+        "nonono3",
+        "nonono4"
+      ],
+      "category": "music",
+      "subtitle": "S o u n d s o f h e l l"
+    },
+    {
+      "name": "down",
+      "files": [
+        "down"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "notcat",
+      "files": [
+        "cat"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "blow",
+      "files": [
+        "blow1",
+        "blow2",
+        "blow3",
+        "blow4",
+        "blow5",
+        "blow6",
+        "blow7"
+      ],
+      "category": "player",
+      "subtitle": ""
+    },
+    {
+      "name": "mus_chng",
+      "files": [
+        "1-converted",
+        "2-converted",
+        "3-converted",
+        "4-converted",
+        "5-converted",
+        "6-converted",
+        "7-converted",
+        "8-converted",
+        "9-converted",
+        "10-converted",
+        "11-converted",
+        "12-converted",
+        "13-converted",
+        "14-converted",
+        "15-converted",
+        "16-converted",
+        "17-converted",
+        "18-converted",
+        "19-converted",
+        "20-converted",
+        "21-converted"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "drips",
+      "files": [
+        "drips"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "wind",
+      "files": [
+        "wind"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "darkness",
+      "files": [
+        "darkness"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "notrain",
+      "files": [
+        "rain"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "clock",
+      "files": [
+        "clock"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "slimehound_hurt",
+      "files": [
+        "slimehound_hurt"
+      ],
+      "category": "neutral",
+      "subtitle": "???"
+    },
+    {
+      "name": "blastattack",
+      "files": [
+        "bloodiey_blast_shoot-converted"
+      ],
+      "category": "neutral",
+      "subtitle": "Blast Attack"
+    },
+    {
+      "name": "blastcollide",
+      "files": [
+        "bloodiey_blast_colide-converted"
+      ],
+      "category": "neutral",
+      "subtitle": "Blast collision"
+    },
+    {
+      "name": "quake",
+      "files": [
+        "quake"
+      ],
+      "category": "ambient",
+      "subtitle": ""
+    },
+    {
+      "name": "darkzonemus",
+      "files": [
+        "3-converted"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "mus_library",
+      "files": [
+        "4-converted"
+      ],
+      "category": "music",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.superores.lead_pickaxe": "Lead Pickaxe",
+      "block.superores.lemon_wood_pressure_plate": "LemonWood Pressure Plate",
+      "biome.superores.meat_land": "Meat Land",
+      "block.superores.lemon_wood_planks": "LemonWood Planks",
+      "block.superores.time_wood_log": "TimeWood Log",
+      "advancements.wait_thatsnew.title": "Wait That\u0027s New!",
+      "item.superores.ordium_axe": "Ordium Axe",
+      "advancements.the_ultimate_weapon.title": "The Ultimate Weapon",
+      "subtitles.darkness": "",
+      "subtitles.notcat": "",
+      "item.superores.the_hell": "The Hell Portal Igniter",
+      "item.superores.nickel_armor_leggings": "Nickel Leggings",
+      "block.superores.black_oak_pressure_plate": "Black_Oak Pressure Plate",
+      "block.superores.corrupted_fence": "Corrupted Fence",
+      "block.superores.amenthyst_ore": "Amenthyst Ore",
+      "item.superores.odrimium_armor_leggings": "Odrimium Leggings",
+      "subtitles.notrain": "",
+      "block.superores.candy_stone_ore": "CandyStone Ore",
+      "item.superores.red_slimehound_spawn_egg": "Red Slimehound Spawn Egg",
+      "item.superores.odrimium_pickaxe": "Odrimium Pickaxe",
+      "item.superores.ordium_shovel": "Ordium Shovel",
+      "biome.superores.lemon_land": "Lemon Land",
+      "subtitles.blastcollide": "Blast collision",
+      "block.superores.lemon_wood_log": "LemonWood Log",
+      "block.superores.time_wood_slab": "TimeWood Slab",
+      "item.superores.odrimium_sword": "Odrimium Sword",
+      "item.superores.candy_stone_sword": "CandyStone Sword",
+      "block.superores.nybrick_ore": "Nybrick Ore",
+      "block.superores.corrupted_wood": "Corrupted Wood",
+      "item.superores.white_dimension": "White Dimension Portal Igniter",
+      "item.superores.amenthyst_armor_boots": "Amenthyst Boots",
+      "item.superores.alternate_reality": "Alternate Reality Portal Igniter",
+      "block.superores.blast_flowers": "Blast Flower",
+      "block.superores.time_wood_leaves": "TimeWood Leaves",
+      "block.superores.acid": "Acid",
+      "item.superores.nickel_axe": "Nickel Axe",
+      "block.superores.lemon_wood_button": "LemonWood Button",
+      "subtitles.slimehound_hurt": "???",
+      "block.superores.black_oak_fence_gate": "Black_Oak Fence Gate",
+      "entity.superores.slimehound": "Blue Slimehound",
+      "block.superores.time_wood_stairs": "TimeWood Stairs",
+      "item.superores.odrimium": "Odrimium",
+      "item.superores.nickel_pickaxe": "Nickel Pickaxe",
+      "block.superores.corrupted_planks": "Corrupted Planks",
+      "item.superores.the_library.desc": "By Zhizi",
+      "block.superores.corrupted_pressure_plate": "Corrupted Pressure Plate",
+      "subtitles.quake": "",
+      "item.superores.acid_bucket": "Acid Bucket",
+      "item.superores.ordium_armor_boots": "Ordium Boots",
+      "fluid.superores.acid": "Acid",
+      "item.superores.amenthyst_sword": "Amenthyst Sword",
+      "item.superores.nickel_armor_chestplate": "Nickel Chestplate",
+      "advancements.sweet_armory.title": "Sweet Armory",
+      "block.superores.candy_stone_block": "Block of CandyStone",
+      "item.superores.ordium_armor_leggings": "Ordium Leggings",
+      "entity.superores.red_slimehound": "Red Slimehound",
+      "subtitles.down": "",
+      "block.superores.corrupted_button": "Corrupted Button",
+      "subtitles.clock": "",
+      "item.superores.candy_stone_armor_boots": "CandyStone Boots",
+      "block.superores.lemon_wood_wood": "LemonWood Wood",
+      "item.superores.lead_shovel": "Lead Shovel",
+      "item.superores.amenthyst_pickaxe": "Amenthyst Pickaxe",
+      "item.superores.amenthyst_hoe": "Amenthyst Hoe",
+      "biome.superores.time_land": "Time Land",
+      "item.superores.nybrick_ingot": "Nybrick",
+      "item.superores.magic_wand": "Magic Wand",
+      "block.superores.corrupted_log": "Corrupted Log",
+      "advancements.better_than_diamond_i_dont_think_so.descr": "Get some Amethyst",
+      "advancements.wazaaaaaaaa.title": "Wazaaaaaaaa",
+      "entity.superores.slime_pup": "Slime Pup",
+      "advancements.sweet_armory.descr": "Get some CandyStone",
+      "item.superores.amenthyst_axe": "Amenthyst Axe",
+      "item.superores.amenthyst_armor_helmet": "Amenthyst Helmet",
+      "item.superores.odrimium_armor_chestplate": "Odrimium Chestplate",
+      "block.superores.black_oak_wood": "Black_Oak Wood",
+      "advancements.magik.title": "Magik",
+      "item.superores.nickel_shovel": "Nickel Shovel",
+      "item.superores.ordium_pickaxe": "Ordium Pickaxe",
+      "block.superores.nickel_block": "Block of Nickel",
+      "item.superores.odrimium_armor_helmet": "Odrimium Helmet",
+      "subtitles.blow": "",
+      "advancements.wazaaaaaaaa.descr": "Get Some Odrimium",
+      "block.superores.time_wood_fence": "TimeWood Fence",
+      "item.superores.lead_armor_boots": "Lead Boots",
+      "item.superores.nickel_armor_helmet": "Nickel Helmet",
+      "item.superores.odrimium_hoe": "Odrimium Hoe",
+      "item.superores.the_library": "The Library",
+      "block.superores.amenthyst_block": "Block of Amenthyst",
+      "block.superores.meat_block": "Meat Block",
+      "block.superores.black_oak_stairs": "Black_Oak Stairs",
+      "item.superores.lead_armor_chestplate": "Lead Chestplate",
+      "block.superores.ordium_block": "Block of Ordium",
+      "block.superores.time_wood_pressure_plate": "TimeWood Pressure Plate",
+      "subtitles.blastattack": "Blast Attack",
+      "item.superores.black_goo_zone.desc": "by Zhizi",
+      "item.superores.ordium_armor_helmet": "Ordium Helmet",
+      "block.superores.nickel_ore": "Nickel Ore",
+      "subtitles.poison": "poison",
+      "item.superores.distruptor_ball": "Distruptor Ball",
+      "item.superores.candy_stone_armor_chestplate": "CandyStone Chestplate",
+      "block.superores.black_oak_button": "Black_Oak Button",
+      "block.superores.black_oak_log": "Black_Oak Log",
+      "subtitles.drips": "",
+      "block.superores.corrupted_stairs": "Corrupted Stairs",
+      "item.superores.candy_stone_armor_leggings": "CandyStone Leggings",
+      "block.superores.nybrick_block": "Block of Nybrick",
+      "advancements.the_ultimate_weapon.descr": "Get the Super Weapon",
+      "block.superores.black_oak_slab": "Black_Oak Slab",
+      "item.superores.lead_armor_helmet": "Lead Helmet",
+      "advancements.wait_thatsnew.descr": "Get Some lead",
+      "block.superores.black_oak_fence": "Black_Oak Fence",
+      "item.superores.nickel_sword": "Nickel Sword",
+      "block.superores.odrimium_block": "Block of Odrimium",
+      "advancements.i_shouldnthaveenteredhere.descr": "Enter in a strange dimension",
+      "block.superores.corrupted_leaves": "Corrupted Leaves",
+      "block.superores.lead_block": "Block of Lead",
+      "item.superores.ordium_armor_chestplate": "Ordium Chestplate",
+      "block.superores.lemon_wood_fence_gate": "LemonWood Fence Gate",
+      "entity.superores.goku_drip": "Goku Drip",
+      "item.superores.black_goo_zone": "Black Goo Zone",
+      "item.superores.candy_stone_armor_helmet": "CandyStone Helmet",
+      "item.superores.odrimium_axe": "Odrimium Axe",
+      "item.superores.slimehound_spawn_egg": "Blue Slimehound Spawn Egg",
+      "block.superores.lemon_wood_stairs": "LemonWood Stairs",
+      "biome.superores.white_zone": "White Zone",
+      "item.superores.odrimium_armor_boots": "Odrimium Boots",
+      "subtitles.wind": "Massive Wind",
+      "item.superores.amenthyst": "Amenthyst",
+      "block.superores.meat_hive": "Meat Hive",
+      "item.superores.lead_armor_leggings": "Lead Leggings",
+      "block.superores.lemon_wood_fence": "LemonWood Fence",
+      "advancements.its_getting_serious.descr": "Get Some Nickel",
+      "block.superores.time_wood_wood": "TimeWood Wood",
+      "block.superores.time_wood_fence_gate": "TimeWood Fence Gate",
+      "block.superores.time_wood_planks": "TimeWood Planks",
+      "item.superores.lead_ingot": "Lead",
+      "item.superores.nickel_armor_boots": "Nickel Boots",
+      "block.superores.corrupted_slab": "Corrupted Slab",
+      "block.superores.ordium_ore": "Ordium Ore",
+      "block.superores.lemon_wood_leaves": "LemonWood Leaves",
+      "item.superores.amenthyst_shovel": "Amenthyst Shovel",
+      "item.superores.ordium_sword": "Ordium Sword",
+      "item.superores.candy_stone_axe": "CandyStone Axe",
+      "block.superores.time_wood_button": "TimeWood Button",
+      "block.superores.odrimium_ore": "Odrimium Ore",
+      "item.superores.candy_stone": "CandyStone",
+      "block.superores.black_oak_planks": "Black_Oak Planks",
+      "block.superores.lemon_wood_slab": "LemonWood Slab",
+      "block.superores.black_oak_leaves": "Black_Oak Leaves",
+      "item.superores.goku_drip_spawn_egg": "Goku Drip Spawn Egg",
+      "item.superores.ordium": "Ordium",
+      "block.superores.corrupted_fence_gate": "Corrupted Fence Gate",
+      "advancements.magik.descr": "Get a magic Wand",
+      "block.superores.lead_ore": "Lead Ore",
+      "biome.superores.black_forest": "Black Forest",
+      "item.superores.amenthyst_armor_chestplate": "Amenthyst Chestplate",
+      "item.superores.super_weapon": "Super Weapon",
+      "item.superores.slime_pup_spawn_egg": "Slime Pup Spawn Egg",
+      "subtitles.death": "S o u n d s o f h e l l",
+      "advancements.better_than_diamond_i_dont_think_so.title": "Better Than Diamond? I Dont Think So",
+      "item.superores.blast_attack": "Blast Attack",
+      "item.superores.lead_axe": "Lead Axe",
+      "advancements.i_shouldnthaveenteredhere.title": "I Shouldn\u0027t have entered here!",
+      "item.superores.lead_hoe": "Lead Hoe",
+      "item.superores.goku_drip_summoner": "Goku Drip Summoner",
+      "item.superores.candy_stone_pickaxe": "CandyStone Pickaxe",
+      "item.superores.nickel_hoe": "Nickel Hoe",
+      "item.superores.odrimium_shovel": "Odrimium Shovel",
+      "subtitles.darkzonemus": "",
+      "advancements.its_getting_serious.title": "It\u0027s Getting Serious",
+      "item.superores.candy_stone_hoe": "CandyStone Hoe",
+      "item.superores.nickel_ingot": "Nickel",
+      "subtitles.mus_library": "",
+      "item.superores.lead_sword": "Lead Sword",
+      "item.superores.amenthyst_armor_leggings": "Amenthyst Leggings",
+      "item.superores.candy_stone_shovel": "CandyStone Shovel",
+      "item.superores.ordium_hoe": "Ordium Hoe",
+      "biome.superores.corruped_forest": "Corruped Forest",
+      "subtitles.mus_chng": ""
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "superores",
+    "modName": "SuperOres",
+    "version": "1.0.0",
+    "author": "Nicolas Maldonado, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "eu.freecluster.bloodieysart.superores",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200348217
+}

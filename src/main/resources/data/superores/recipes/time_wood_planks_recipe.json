@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:timewood_log"
+    }
+  ],
+  "result": {
+    "item": "superores:time_wood_planks",
+    "count": 4
+  }
+}

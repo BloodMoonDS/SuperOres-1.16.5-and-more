@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 1.1199999999999999,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "superores:amenthyst_ore"
+  },
+  "result": {
+    "item": "superores:amenthyst"
+  }
+}
