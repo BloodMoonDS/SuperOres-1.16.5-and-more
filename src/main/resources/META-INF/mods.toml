@@ -1,6 +1,6 @@
 modLoader="javafml"
 loaderVersion="[36,)"
-license="Academic Free License v3.0"
+license="Creative Commons Attribution-NonCommercial 3.0"
 
 [[mods]]
 modId="superores"
@@ -8,7 +8,11 @@ version="1.0.0"
 displayName="SuperOres"
 credits="Created using mod maker MCreator - https://mcreator.net/about"
 displayURL="https://mcreator.net"
-authors="Nicolas Maldonado, MCreator"
+logoFile="logo.png"
+authors="bloodieythecat"
+description='''
+Super Ores Is A Mod That Adds Lots of thing such as ores And some other mobs and fluids And lots of things more.
+'''
 
 [[dependencies.superores]]
     modId="minecraft"
