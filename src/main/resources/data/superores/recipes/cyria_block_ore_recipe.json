@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "superores:cyria_block"
+    }
+  ],
+  "result": {
+    "item": "superores:cyria",
+    "count": 9
+  }
+}

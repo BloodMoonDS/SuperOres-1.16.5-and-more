@@ -1,0 +1,46 @@
+{
+  "_fv": 34,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Germanium"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Germanium"
+      },
+      {
+        "value": "CUSTOM:Germanium"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Germanium"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:GermaniumArmor.boots"
+    },
+    "name": "germanium_armor_boots_recipe",
+    "namespace": "mod"
+  }
+}

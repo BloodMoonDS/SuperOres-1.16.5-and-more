@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "superores:germanium"
+    },
+    "1": {
+      "item": "superores:germanium"
+    },
+    "2": {
+      "item": "superores:germanium"
+    },
+    "3": {
+      "item": "superores:germanium"
+    },
+    "4": {
+      "item": "superores:germanium"
+    },
+    "5": {
+      "item": "superores:germanium"
+    },
+    "6": {
+      "item": "superores:germanium"
+    },
+    "7": {
+      "item": "superores:germanium"
+    },
+    "8": {
+      "item": "superores:germanium"
+    }
+  },
+  "result": {
+    "item": "superores:germanium_block",
+    "count": 1
+  }
+}

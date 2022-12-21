@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "superores:doom_block"
+    }
+  ],
+  "result": {
+    "item": "superores:doom",
+    "count": 9
+  }
+}

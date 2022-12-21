@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 3.9899999999999998,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "superores:doom_ore"
+  },
+  "result": {
+    "item": "superores:doom"
+  }
+}

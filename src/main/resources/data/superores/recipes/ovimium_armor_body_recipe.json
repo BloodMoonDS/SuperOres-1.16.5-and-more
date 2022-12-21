@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "superores:ovimium"
+    },
+    "2": {
+      "item": "superores:ovimium"
+    },
+    "3": {
+      "item": "superores:ovimium"
+    },
+    "4": {
+      "item": "superores:ovimium"
+    },
+    "5": {
+      "item": "superores:ovimium"
+    },
+    "6": {
+      "item": "superores:ovimium"
+    },
+    "7": {
+      "item": "superores:ovimium"
+    },
+    "8": {
+      "item": "superores:ovimium"
+    }
+  },
+  "result": {
+    "item": "superores:ovimium_armor_chestplate",
+    "count": 1
+  }
+}

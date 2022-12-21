@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "superores:cyria"
+    },
+    "1": {
+      "item": "superores:cyria"
+    },
+    "2": {
+      "item": "superores:cyria"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "superores:cyria_pickaxe",
+    "count": 1
+  }
+}

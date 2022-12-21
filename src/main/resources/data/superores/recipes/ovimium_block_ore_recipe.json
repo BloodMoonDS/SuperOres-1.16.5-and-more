@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "superores:ovimium_block"
+    }
+  ],
+  "result": {
+    "item": "superores:ovimium",
+    "count": 9
+  }
+}

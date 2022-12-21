@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "superores:blocks/ovimium_ore_block",
+    "particle": "superores:blocks/ovimium_ore_block"
+  }
+}

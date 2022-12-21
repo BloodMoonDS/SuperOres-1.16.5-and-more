@@ -42,6 +42,8 @@ import net.minecraft.block.HugeMushroomBlock;
 import net.minecraft.block.Blocks;
 
 import eu.freecluster.bloodieysart.superores.entity.SlimehoundEntity;
+import eu.freecluster.bloodieysart.superores.entity.SlimePupEntity;
+import eu.freecluster.bloodieysart.superores.entity.RedSlimehoundEntity;
 import eu.freecluster.bloodieysart.superores.SuperoresModElements;
 
 import com.google.common.collect.ImmutableList;
@@ -139,7 +141,9 @@ public class WhiteZoneBiome extends SuperoresModElements.ModElement {
 				DefaultBiomeFeatures.withExtraGoldOre(biomeGenerationSettings);
 				DefaultBiomeFeatures.withBambooVegetation(biomeGenerationSettings);
 				MobSpawnInfo.Builder mobSpawnInfo = new MobSpawnInfo.Builder().isValidSpawnBiomeForPlayer();
-				mobSpawnInfo.withSpawner(EntityClassification.CREATURE, new MobSpawnInfo.Spawners(SlimehoundEntity.entity, 4, 1, 4));
+				mobSpawnInfo.withSpawner(EntityClassification.CREATURE, new MobSpawnInfo.Spawners(SlimehoundEntity.entity, 20, 1, 6));
+				mobSpawnInfo.withSpawner(EntityClassification.CREATURE, new MobSpawnInfo.Spawners(RedSlimehoundEntity.entity, 20, 1, 6));
+				mobSpawnInfo.withSpawner(EntityClassification.CREATURE, new MobSpawnInfo.Spawners(SlimePupEntity.entity, 20, 1, 6));
 				biome = new Biome.Builder().precipitation(Biome.RainType.RAIN).category(Biome.Category.NONE).depth(0.1f).scale(0.2f).temperature(0.5f)
 						.downfall(0.5f).setEffects(effects).withMobSpawnSettings(mobSpawnInfo.copy())
 						.withGenerationSettings(biomeGenerationSettings.build()).build();

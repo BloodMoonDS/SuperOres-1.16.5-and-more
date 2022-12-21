@@ -1,0 +1,46 @@
+{
+  "_fv": 34,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Ovimium"
+      },
+      {
+        "value": "CUSTOM:Ovimium"
+      },
+      {
+        "value": "CUSTOM:Ovimium"
+      },
+      {
+        "value": "CUSTOM:Ovimium"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Ovimium"
+      },
+      {
+        "value": "CUSTOM:Ovimium"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Ovimium"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:OvimiumArmor.legs"
+    },
+    "name": "ovimium_armor_leggings_recipe",
+    "namespace": "mod"
+  }
+}

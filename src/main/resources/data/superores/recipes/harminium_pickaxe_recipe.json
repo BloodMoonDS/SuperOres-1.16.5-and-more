@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "superores:harminium"
+    },
+    "1": {
+      "item": "superores:harminium"
+    },
+    "2": {
+      "item": "superores:harminium"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "superores:harminium_pickaxe",
+    "count": 1
+  }
+}

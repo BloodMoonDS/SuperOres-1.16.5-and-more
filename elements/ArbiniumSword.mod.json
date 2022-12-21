@@ -1,0 +1,31 @@
+{
+  "_fv": 34,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "arbinium_sword",
+    "customModelName": "Normal",
+    "name": "Arbinium Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 44,
+    "efficiency": 30.0,
+    "attackSpeed": 17.900000000000002,
+    "enchantability": 193,
+    "damageVsEntity": 62.800000000000004,
+    "usageCount": 99999,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Arbinium"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

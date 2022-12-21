@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "superores:ovimium"
+    },
+    "1": {
+      "item": "superores:ovimium"
+    },
+    "2": {
+      "item": "superores:ovimium"
+    },
+    "3": {
+      "item": "superores:ovimium"
+    },
+    "5": {
+      "item": "superores:ovimium"
+    }
+  },
+  "result": {
+    "item": "superores:ovimium_armor_helmet",
+    "count": 1
+  }
+}

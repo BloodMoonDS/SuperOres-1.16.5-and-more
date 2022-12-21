@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "superores:items/dark_ruby_gem_xd"
+  }
+}

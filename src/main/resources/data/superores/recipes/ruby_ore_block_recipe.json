@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "superores:ruby"
+    },
+    "1": {
+      "item": "superores:ruby"
+    },
+    "2": {
+      "item": "superores:ruby"
+    },
+    "3": {
+      "item": "superores:ruby"
+    },
+    "4": {
+      "item": "superores:ruby"
+    },
+    "5": {
+      "item": "superores:ruby"
+    },
+    "6": {
+      "item": "superores:ruby"
+    },
+    "7": {
+      "item": "superores:ruby"
+    },
+    "8": {
+      "item": "superores:ruby"
+    }
+  },
+  "result": {
+    "item": "superores:ruby_block",
+    "count": 1
+  }
+}

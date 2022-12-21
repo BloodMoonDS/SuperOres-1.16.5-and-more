@@ -1,0 +1,62 @@
+{
+  "_fv": 34,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "arbinium_head",
+    "enableBody": true,
+    "textureBody": "arbinium_body",
+    "enableLeggings": true,
+    "textureLeggings": "arbinium_leggings",
+    "enableBoots": true,
+    "textureBoots": "arbinium_boots",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "arbinium",
+    "helmetName": "Arbinium Helmet",
+    "bodyName": "Arbinium Chestplate",
+    "leggingsName": "Arbinium Leggings",
+    "bootsName": "Arbinium Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": false,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "maxDamage": 1024,
+    "damageValueHelmet": 243,
+    "damageValueBody": 243,
+    "damageValueLeggings": 243,
+    "damageValueBoots": 243,
+    "enchantability": 100,
+    "toughness": 4.6,
+    "knockbackResistance": 3.6,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:Arbinium"
+      }
+    ]
+  }
+}

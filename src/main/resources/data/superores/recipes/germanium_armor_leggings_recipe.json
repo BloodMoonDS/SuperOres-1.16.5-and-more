@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "superores:germanium"
+    },
+    "1": {
+      "item": "superores:germanium"
+    },
+    "2": {
+      "item": "superores:germanium"
+    },
+    "3": {
+      "item": "superores:germanium"
+    },
+    "5": {
+      "item": "superores:germanium"
+    },
+    "6": {
+      "item": "superores:germanium"
+    },
+    "8": {
+      "item": "superores:germanium"
+    }
+  },
+  "result": {
+    "item": "superores:germanium_armor_leggings",
+    "count": 1
+  }
+}

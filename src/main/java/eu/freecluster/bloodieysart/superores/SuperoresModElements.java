@@ -64,10 +64,14 @@ public class SuperoresModElements {
 		sounds.put(new ResourceLocation("superores", "blastcollide"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("superores", "blastcollide")));
 		sounds.put(new ResourceLocation("superores", "quake"), new net.minecraft.util.SoundEvent(new ResourceLocation("superores", "quake")));
-		sounds.put(new ResourceLocation("superores", "darkzonemus"),
-				new net.minecraft.util.SoundEvent(new ResourceLocation("superores", "darkzonemus")));
 		sounds.put(new ResourceLocation("superores", "mus_library"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("superores", "mus_library")));
+		sounds.put(new ResourceLocation("superores", "goreman_hurt"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("superores", "goreman_hurt")));
+		sounds.put(new ResourceLocation("superores", "darkzonemus"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("superores", "darkzonemus")));
+		sounds.put(new ResourceLocation("superores", "goreman_live"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("superores", "goreman_live")));
 		try {
 			ModFileScanData modFileInfo = ModList.get().getModFileById("superores").getFile().getScanResult();
 			Set<ModFileScanData.AnnotationData> annotations = modFileInfo.getAnnotations();

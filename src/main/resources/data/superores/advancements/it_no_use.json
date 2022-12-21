@@ -1,0 +1,34 @@
+{
+  "display": {
+    "icon": {
+      "item": "superores:silver_ingot"
+    },
+    "title": {
+      "translate": "advancements.it_no_use.title"
+    },
+    "description": {
+      "translate": "advancements.it_no_use.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "it_no_use": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "superores:silver_ingot",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "superores:wait_thatsnew"
+}

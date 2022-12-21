@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "superores:germanium"
+    },
+    "1": {
+      "item": "superores:germanium"
+    },
+    "2": {
+      "item": "superores:germanium"
+    },
+    "3": {
+      "item": "superores:germanium"
+    },
+    "5": {
+      "item": "superores:germanium"
+    }
+  },
+  "result": {
+    "item": "superores:germanium_armor_helmet",
+    "count": 1
+  }
+}

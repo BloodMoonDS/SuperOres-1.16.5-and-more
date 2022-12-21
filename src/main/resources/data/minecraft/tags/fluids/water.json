@@ -2,6 +2,8 @@
   "replace": false,
   "values": [
     "superores:acid",
-    "superores:acid_flowing"
+    "superores:acid_flowing",
+    "superores:oil",
+    "superores:oil_flowing"
   ]
 }

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "superores:zoneex_block"
+    }
+  ],
+  "result": {
+    "item": "superores:zoneex",
+    "count": 9
+  }
+}

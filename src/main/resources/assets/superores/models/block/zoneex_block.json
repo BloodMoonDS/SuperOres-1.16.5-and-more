@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "superores:blocks/zoneex_ore_block",
+    "particle": "superores:blocks/zoneex_ore_block"
+  }
+}

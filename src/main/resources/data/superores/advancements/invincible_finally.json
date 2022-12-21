@@ -1,0 +1,34 @@
+{
+  "display": {
+    "icon": {
+      "item": "superores:arbinium"
+    },
+    "title": {
+      "translate": "advancements.invincible_finally.title"
+    },
+    "description": {
+      "translate": "advancements.invincible_finally.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "invincible_finally": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "superores:arbinium",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "superores:the_ultimate_weapon"
+}

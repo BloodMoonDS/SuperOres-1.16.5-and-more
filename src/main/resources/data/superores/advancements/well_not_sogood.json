@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "superores:ordium"
+    },
+    "title": {
+      "translate": "advancements.well_not_sogood.title"
+    },
+    "description": {
+      "translate": "advancements.well_not_sogood.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "well_not_sogood": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "superores:ordium",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1920
+  },
+  "parent": "superores:better_than_diamond_i_dont_think_so"
+}

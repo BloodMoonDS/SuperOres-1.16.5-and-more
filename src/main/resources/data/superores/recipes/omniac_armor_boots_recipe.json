@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "superores:omniac_ingot"
+    },
+    "2": {
+      "item": "superores:omniac_ingot"
+    },
+    "3": {
+      "item": "superores:omniac_ingot"
+    },
+    "5": {
+      "item": "superores:omniac_ingot"
+    }
+  },
+  "result": {
+    "item": "superores:omniac_armor_boots",
+    "count": 1
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "_fv": 34,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "zoneex_pickaxe",
+    "customModelName": "Normal",
+    "name": "Zoneex Pickaxe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 17,
+    "efficiency": 22.0,
+    "attackSpeed": 1.0,
+    "enchantability": 120,
+    "damageVsEntity": 17.0,
+    "usageCount": 5084,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Zoneex"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

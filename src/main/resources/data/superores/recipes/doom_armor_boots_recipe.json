@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "superores:doom"
+    },
+    "2": {
+      "item": "superores:doom"
+    },
+    "3": {
+      "item": "superores:doom"
+    },
+    "5": {
+      "item": "superores:doom"
+    }
+  },
+  "result": {
+    "item": "superores:doom_armor_boots",
+    "count": 1
+  }
+}

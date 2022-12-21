@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "superores:arbinium"
+    },
+    "2": {
+      "item": "superores:arbinium"
+    },
+    "3": {
+      "item": "superores:arbinium"
+    },
+    "4": {
+      "item": "superores:arbinium"
+    },
+    "5": {
+      "item": "superores:arbinium"
+    },
+    "6": {
+      "item": "superores:arbinium"
+    },
+    "7": {
+      "item": "superores:arbinium"
+    },
+    "8": {
+      "item": "superores:arbinium"
+    }
+  },
+  "result": {
+    "item": "superores:arbinium_armor_chestplate",
+    "count": 1
+  }
+}

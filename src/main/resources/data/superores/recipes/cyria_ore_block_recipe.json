@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "superores:cyria"
+    },
+    "1": {
+      "item": "superores:cyria"
+    },
+    "2": {
+      "item": "superores:cyria"
+    },
+    "3": {
+      "item": "superores:cyria"
+    },
+    "4": {
+      "item": "superores:cyria"
+    },
+    "5": {
+      "item": "superores:cyria"
+    },
+    "6": {
+      "item": "superores:cyria"
+    },
+    "7": {
+      "item": "superores:cyria"
+    },
+    "8": {
+      "item": "superores:cyria"
+    }
+  },
+  "result": {
+    "item": "superores:cyria_block",
+    "count": 1
+  }
+}

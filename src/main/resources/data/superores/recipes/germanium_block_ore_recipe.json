@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "superores:germanium_block"
+    }
+  ],
+  "result": {
+    "item": "superores:germanium",
+    "count": 9
+  }
+}

@@ -2251,6 +2251,2235 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "meme_1"
+    },
+    {
+      "name": "GoreMan",
+      "type": "livingentity",
+      "sortid": 258,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gore_man"
+    },
+    {
+      "name": "Oil",
+      "type": "fluid",
+      "sortid": 259,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oil",
+      "metadata": {
+        "gb": true
+      }
+    },
+    {
+      "name": "SuperLoot1",
+      "type": "loottable",
+      "sortid": 260,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "super_loot_1"
+    },
+    {
+      "name": "SilverIngot",
+      "type": "item",
+      "sortid": 261,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "silver_ingot"
+    },
+    {
+      "name": "SilverOre",
+      "type": "block",
+      "sortid": 262,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "silver_ore"
+    },
+    {
+      "name": "SilverBlock",
+      "type": "block",
+      "sortid": 263,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "silver_block"
+    },
+    {
+      "name": "SilverOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 264,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "silver_ore_block_recipe"
+    },
+    {
+      "name": "SilverBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 265,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "silver_block_ore_recipe"
+    },
+    {
+      "name": "SilverOreSmelting",
+      "type": "recipe",
+      "sortid": 266,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "silver_ore_smelting"
+    },
+    {
+      "name": "SilverPickaxe",
+      "type": "tool",
+      "sortid": 267,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "silver_pickaxe"
+    },
+    {
+      "name": "SilverAxe",
+      "type": "tool",
+      "sortid": 268,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "silver_axe"
+    },
+    {
+      "name": "SilverSword",
+      "type": "tool",
+      "sortid": 269,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "silver_sword"
+    },
+    {
+      "name": "SilverShovel",
+      "type": "tool",
+      "sortid": 270,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "silver_shovel"
+    },
+    {
+      "name": "SilverHoe",
+      "type": "tool",
+      "sortid": 271,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "silver_hoe"
+    },
+    {
+      "name": "SilverPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 272,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "silver_pickaxe_recipe"
+    },
+    {
+      "name": "SilverAxeRecipe",
+      "type": "recipe",
+      "sortid": 273,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "silver_axe_recipe"
+    },
+    {
+      "name": "SilverSwordRecipe",
+      "type": "recipe",
+      "sortid": 274,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "silver_sword_recipe"
+    },
+    {
+      "name": "SilverShovelRecipe",
+      "type": "recipe",
+      "sortid": 275,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "silver_shovel_recipe"
+    },
+    {
+      "name": "SilverHoeRecipe",
+      "type": "recipe",
+      "sortid": 276,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "silver_hoe_recipe"
+    },
+    {
+      "name": "SilverArmor",
+      "type": "armor",
+      "sortid": 277,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "silver_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "SilverArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 278,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "silver_armor_helmet_recipe"
+    },
+    {
+      "name": "SilverArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 279,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "silver_armor_body_recipe"
+    },
+    {
+      "name": "SilverArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 280,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "silver_armor_leggings_recipe"
+    },
+    {
+      "name": "SilverArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 281,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "silver_armor_boots_recipe"
+    },
+    {
+      "name": "TitaniumIngot",
+      "type": "item",
+      "sortid": 282,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_ingot"
+    },
+    {
+      "name": "TitaniumOre",
+      "type": "block",
+      "sortid": 283,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_ore"
+    },
+    {
+      "name": "TitaniumBlock",
+      "type": "block",
+      "sortid": 284,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_block"
+    },
+    {
+      "name": "TitaniumOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 285,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_ore_block_recipe"
+    },
+    {
+      "name": "TitaniumBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 286,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_block_ore_recipe"
+    },
+    {
+      "name": "TitaniumOreSmelting",
+      "type": "recipe",
+      "sortid": 287,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_ore_smelting"
+    },
+    {
+      "name": "TitaniumPickaxe",
+      "type": "tool",
+      "sortid": 288,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_pickaxe"
+    },
+    {
+      "name": "TitaniumAxe",
+      "type": "tool",
+      "sortid": 289,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_axe"
+    },
+    {
+      "name": "TitaniumSword",
+      "type": "tool",
+      "sortid": 290,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_sword"
+    },
+    {
+      "name": "TitaniumShovel",
+      "type": "tool",
+      "sortid": 291,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_shovel"
+    },
+    {
+      "name": "TitaniumHoe",
+      "type": "tool",
+      "sortid": 292,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_hoe"
+    },
+    {
+      "name": "TitaniumPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 293,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_pickaxe_recipe"
+    },
+    {
+      "name": "TitaniumAxeRecipe",
+      "type": "recipe",
+      "sortid": 294,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_axe_recipe"
+    },
+    {
+      "name": "TitaniumSwordRecipe",
+      "type": "recipe",
+      "sortid": 295,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_sword_recipe"
+    },
+    {
+      "name": "TitaniumShovelRecipe",
+      "type": "recipe",
+      "sortid": 296,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_shovel_recipe"
+    },
+    {
+      "name": "TitaniumHoeRecipe",
+      "type": "recipe",
+      "sortid": 297,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_hoe_recipe"
+    },
+    {
+      "name": "TitaniumArmor",
+      "type": "armor",
+      "sortid": 298,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "TitaniumArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 299,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_armor_helmet_recipe"
+    },
+    {
+      "name": "TitaniumArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 300,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_armor_body_recipe"
+    },
+    {
+      "name": "TitaniumArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 301,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_armor_leggings_recipe"
+    },
+    {
+      "name": "TitaniumArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 302,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "titanium_armor_boots_recipe"
+    },
+    {
+      "name": "Zoneex",
+      "type": "item",
+      "sortid": 303,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zoneex"
+    },
+    {
+      "name": "ZoneexOre",
+      "type": "block",
+      "sortid": 304,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zoneex_ore"
+    },
+    {
+      "name": "ZoneexBlock",
+      "type": "block",
+      "sortid": 305,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zoneex_block"
+    },
+    {
+      "name": "ZoneexOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 306,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zoneex_ore_block_recipe"
+    },
+    {
+      "name": "ZoneexBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 307,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zoneex_block_ore_recipe"
+    },
+    {
+      "name": "ZoneexOreSmelting",
+      "type": "recipe",
+      "sortid": 308,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zoneex_ore_smelting"
+    },
+    {
+      "name": "ZoneexPickaxe",
+      "type": "tool",
+      "sortid": 309,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zoneex_pickaxe"
+    },
+    {
+      "name": "ZoneexAxe",
+      "type": "tool",
+      "sortid": 310,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zoneex_axe"
+    },
+    {
+      "name": "ZoneexSword",
+      "type": "tool",
+      "sortid": 311,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zoneex_sword"
+    },
+    {
+      "name": "ZoneexShovel",
+      "type": "tool",
+      "sortid": 312,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zoneex_shovel"
+    },
+    {
+      "name": "ZoneexHoe",
+      "type": "tool",
+      "sortid": 313,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zoneex_hoe"
+    },
+    {
+      "name": "ZoneexPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 314,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zoneex_pickaxe_recipe"
+    },
+    {
+      "name": "ZoneexAxeRecipe",
+      "type": "recipe",
+      "sortid": 315,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zoneex_axe_recipe"
+    },
+    {
+      "name": "ZoneexSwordRecipe",
+      "type": "recipe",
+      "sortid": 316,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zoneex_sword_recipe"
+    },
+    {
+      "name": "ZoneexShovelRecipe",
+      "type": "recipe",
+      "sortid": 317,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zoneex_shovel_recipe"
+    },
+    {
+      "name": "ZoneexHoeRecipe",
+      "type": "recipe",
+      "sortid": 318,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zoneex_hoe_recipe"
+    },
+    {
+      "name": "ZoneexArmor",
+      "type": "armor",
+      "sortid": 319,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zoneex_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "ZoneexArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 320,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zoneex_armor_helmet_recipe"
+    },
+    {
+      "name": "ZoneexArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 321,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zoneex_armor_body_recipe"
+    },
+    {
+      "name": "ZoneexArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 322,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zoneex_armor_leggings_recipe"
+    },
+    {
+      "name": "ZoneexArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 323,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zoneex_armor_boots_recipe"
+    },
+    {
+      "name": "Ruby",
+      "type": "item",
+      "sortid": 324,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby"
+    },
+    {
+      "name": "RubyOre",
+      "type": "block",
+      "sortid": 325,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby_ore"
+    },
+    {
+      "name": "RubyBlock",
+      "type": "block",
+      "sortid": 326,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby_block"
+    },
+    {
+      "name": "RubyOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 327,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby_ore_block_recipe"
+    },
+    {
+      "name": "RubyBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 328,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby_block_ore_recipe"
+    },
+    {
+      "name": "RubyOreSmelting",
+      "type": "recipe",
+      "sortid": 329,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby_ore_smelting"
+    },
+    {
+      "name": "Dark_Ruby",
+      "type": "item",
+      "sortid": 330,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_ruby"
+    },
+    {
+      "name": "Dark_RubyOre",
+      "type": "block",
+      "sortid": 331,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_ruby_ore"
+    },
+    {
+      "name": "Dark_RubyBlock",
+      "type": "block",
+      "sortid": 332,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_ruby_block"
+    },
+    {
+      "name": "Dark_RubyOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 333,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_ruby_ore_block_recipe"
+    },
+    {
+      "name": "Dark_RubyBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 334,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_ruby_block_ore_recipe"
+    },
+    {
+      "name": "Dark_RubyOreSmelting",
+      "type": "recipe",
+      "sortid": 335,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dark_ruby_ore_smelting"
+    },
+    {
+      "name": "VegetiumIngot",
+      "type": "item",
+      "sortid": 336,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vegetium_ingot"
+    },
+    {
+      "name": "VegetiumOre",
+      "type": "block",
+      "sortid": 337,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vegetium_ore"
+    },
+    {
+      "name": "VegetiumBlock",
+      "type": "block",
+      "sortid": 338,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vegetium_block"
+    },
+    {
+      "name": "VegetiumOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 339,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vegetium_ore_block_recipe"
+    },
+    {
+      "name": "VegetiumBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 340,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vegetium_block_ore_recipe"
+    },
+    {
+      "name": "VegetiumOreSmelting",
+      "type": "recipe",
+      "sortid": 341,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "vegetium_ore_smelting"
+    },
+    {
+      "name": "Germanium",
+      "type": "item",
+      "sortid": 342,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "germanium"
+    },
+    {
+      "name": "GermaniumOre",
+      "type": "block",
+      "sortid": 343,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "germanium_ore"
+    },
+    {
+      "name": "GermaniumBlock",
+      "type": "block",
+      "sortid": 344,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "germanium_block"
+    },
+    {
+      "name": "GermaniumOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 345,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "germanium_ore_block_recipe"
+    },
+    {
+      "name": "GermaniumBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 346,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "germanium_block_ore_recipe"
+    },
+    {
+      "name": "GermaniumOreSmelting",
+      "type": "recipe",
+      "sortid": 347,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "germanium_ore_smelting"
+    },
+    {
+      "name": "GermaniumPickaxe",
+      "type": "tool",
+      "sortid": 348,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "germanium_pickaxe"
+    },
+    {
+      "name": "GermaniumAxe",
+      "type": "tool",
+      "sortid": 349,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "germanium_axe"
+    },
+    {
+      "name": "GermaniumSword",
+      "type": "tool",
+      "sortid": 350,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "germanium_sword"
+    },
+    {
+      "name": "GermaniumShovel",
+      "type": "tool",
+      "sortid": 351,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "germanium_shovel"
+    },
+    {
+      "name": "GermaniumHoe",
+      "type": "tool",
+      "sortid": 352,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "germanium_hoe"
+    },
+    {
+      "name": "GermaniumPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 353,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "germanium_pickaxe_recipe"
+    },
+    {
+      "name": "GermaniumAxeRecipe",
+      "type": "recipe",
+      "sortid": 354,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "germanium_axe_recipe"
+    },
+    {
+      "name": "GermaniumSwordRecipe",
+      "type": "recipe",
+      "sortid": 355,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "germanium_sword_recipe"
+    },
+    {
+      "name": "GermaniumShovelRecipe",
+      "type": "recipe",
+      "sortid": 356,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "germanium_shovel_recipe"
+    },
+    {
+      "name": "GermaniumHoeRecipe",
+      "type": "recipe",
+      "sortid": 357,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "germanium_hoe_recipe"
+    },
+    {
+      "name": "GermaniumArmor",
+      "type": "armor",
+      "sortid": 358,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "germanium_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "GermaniumArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 359,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "germanium_armor_helmet_recipe"
+    },
+    {
+      "name": "GermaniumArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 360,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "germanium_armor_body_recipe"
+    },
+    {
+      "name": "GermaniumArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 361,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "germanium_armor_leggings_recipe"
+    },
+    {
+      "name": "GermaniumArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 362,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "germanium_armor_boots_recipe"
+    },
+    {
+      "name": "Harminium",
+      "type": "item",
+      "sortid": 363,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "harminium"
+    },
+    {
+      "name": "HarminiumOre",
+      "type": "block",
+      "sortid": 364,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "harminium_ore"
+    },
+    {
+      "name": "HarminiumBlock",
+      "type": "block",
+      "sortid": 365,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "harminium_block"
+    },
+    {
+      "name": "HarminiumOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 366,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "harminium_ore_block_recipe"
+    },
+    {
+      "name": "HarminiumBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 367,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "harminium_block_ore_recipe"
+    },
+    {
+      "name": "HarminiumOreSmelting",
+      "type": "recipe",
+      "sortid": 368,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "harminium_ore_smelting"
+    },
+    {
+      "name": "HarminiumPickaxe",
+      "type": "tool",
+      "sortid": 369,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "harminium_pickaxe"
+    },
+    {
+      "name": "HarminiumAxe",
+      "type": "tool",
+      "sortid": 370,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "harminium_axe"
+    },
+    {
+      "name": "HarminiumSword",
+      "type": "tool",
+      "sortid": 371,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "harminium_sword"
+    },
+    {
+      "name": "HarminiumShovel",
+      "type": "tool",
+      "sortid": 372,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "harminium_shovel"
+    },
+    {
+      "name": "HarminiumHoe",
+      "type": "tool",
+      "sortid": 373,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "harminium_hoe"
+    },
+    {
+      "name": "HarminiumPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 374,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "harminium_pickaxe_recipe"
+    },
+    {
+      "name": "HarminiumAxeRecipe",
+      "type": "recipe",
+      "sortid": 375,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "harminium_axe_recipe"
+    },
+    {
+      "name": "HarminiumSwordRecipe",
+      "type": "recipe",
+      "sortid": 376,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "harminium_sword_recipe"
+    },
+    {
+      "name": "HarminiumShovelRecipe",
+      "type": "recipe",
+      "sortid": 377,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "harminium_shovel_recipe"
+    },
+    {
+      "name": "HarminiumHoeRecipe",
+      "type": "recipe",
+      "sortid": 378,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "harminium_hoe_recipe"
+    },
+    {
+      "name": "HarminiumArmor",
+      "type": "armor",
+      "sortid": 379,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "harminium_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "HarminiumArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 380,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "harminium_armor_helmet_recipe"
+    },
+    {
+      "name": "HarminiumArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 381,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "harminium_armor_body_recipe"
+    },
+    {
+      "name": "HarminiumArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 382,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "harminium_armor_leggings_recipe"
+    },
+    {
+      "name": "HarminiumArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 383,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "harminium_armor_boots_recipe"
+    },
+    {
+      "name": "Ovimium",
+      "type": "item",
+      "sortid": 384,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ovimium"
+    },
+    {
+      "name": "OvimiumOre",
+      "type": "block",
+      "sortid": 385,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ovimium_ore"
+    },
+    {
+      "name": "OvimiumBlock",
+      "type": "block",
+      "sortid": 386,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ovimium_block"
+    },
+    {
+      "name": "OvimiumOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 387,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ovimium_ore_block_recipe"
+    },
+    {
+      "name": "OvimiumBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 388,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ovimium_block_ore_recipe"
+    },
+    {
+      "name": "OvimiumOreSmelting",
+      "type": "recipe",
+      "sortid": 389,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ovimium_ore_smelting"
+    },
+    {
+      "name": "OvimiumPickaxe",
+      "type": "tool",
+      "sortid": 390,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ovimium_pickaxe"
+    },
+    {
+      "name": "OvimiumAxe",
+      "type": "tool",
+      "sortid": 391,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ovimium_axe"
+    },
+    {
+      "name": "OvimiumSword",
+      "type": "tool",
+      "sortid": 392,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ovimium_sword"
+    },
+    {
+      "name": "OvimiumShovel",
+      "type": "tool",
+      "sortid": 393,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ovimium_shovel"
+    },
+    {
+      "name": "OvimiumHoe",
+      "type": "tool",
+      "sortid": 394,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ovimium_hoe"
+    },
+    {
+      "name": "OvimiumPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 395,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ovimium_pickaxe_recipe"
+    },
+    {
+      "name": "OvimiumAxeRecipe",
+      "type": "recipe",
+      "sortid": 396,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ovimium_axe_recipe"
+    },
+    {
+      "name": "OvimiumSwordRecipe",
+      "type": "recipe",
+      "sortid": 397,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ovimium_sword_recipe"
+    },
+    {
+      "name": "OvimiumShovelRecipe",
+      "type": "recipe",
+      "sortid": 398,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ovimium_shovel_recipe"
+    },
+    {
+      "name": "OvimiumHoeRecipe",
+      "type": "recipe",
+      "sortid": 399,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ovimium_hoe_recipe"
+    },
+    {
+      "name": "OvimiumArmor",
+      "type": "armor",
+      "sortid": 400,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ovimium_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "OvimiumArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 401,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ovimium_armor_helmet_recipe"
+    },
+    {
+      "name": "OvimiumArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 402,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ovimium_armor_body_recipe"
+    },
+    {
+      "name": "OvimiumArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 403,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ovimium_armor_leggings_recipe"
+    },
+    {
+      "name": "OvimiumArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 404,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ovimium_armor_boots_recipe"
+    },
+    {
+      "name": "SarbroxIngot",
+      "type": "item",
+      "sortid": 405,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sarbrox_ingot"
+    },
+    {
+      "name": "SarbroxOre",
+      "type": "block",
+      "sortid": 406,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sarbrox_ore"
+    },
+    {
+      "name": "SarbroxBlock",
+      "type": "block",
+      "sortid": 407,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sarbrox_block"
+    },
+    {
+      "name": "SarbroxOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 408,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sarbrox_ore_block_recipe"
+    },
+    {
+      "name": "SarbroxBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 409,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sarbrox_block_ore_recipe"
+    },
+    {
+      "name": "SarbroxOreSmelting",
+      "type": "recipe",
+      "sortid": 410,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sarbrox_ore_smelting"
+    },
+    {
+      "name": "SarbroxPickaxe",
+      "type": "tool",
+      "sortid": 411,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sarbrox_pickaxe"
+    },
+    {
+      "name": "SarbroxAxe",
+      "type": "tool",
+      "sortid": 412,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sarbrox_axe"
+    },
+    {
+      "name": "SarbroxSword",
+      "type": "tool",
+      "sortid": 413,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sarbrox_sword"
+    },
+    {
+      "name": "SarbroxShovel",
+      "type": "tool",
+      "sortid": 414,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sarbrox_shovel"
+    },
+    {
+      "name": "SarbroxHoe",
+      "type": "tool",
+      "sortid": 415,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sarbrox_hoe"
+    },
+    {
+      "name": "SarbroxPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 416,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sarbrox_pickaxe_recipe"
+    },
+    {
+      "name": "SarbroxAxeRecipe",
+      "type": "recipe",
+      "sortid": 417,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sarbrox_axe_recipe"
+    },
+    {
+      "name": "SarbroxSwordRecipe",
+      "type": "recipe",
+      "sortid": 418,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sarbrox_sword_recipe"
+    },
+    {
+      "name": "SarbroxShovelRecipe",
+      "type": "recipe",
+      "sortid": 419,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sarbrox_shovel_recipe"
+    },
+    {
+      "name": "SarbroxHoeRecipe",
+      "type": "recipe",
+      "sortid": 420,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sarbrox_hoe_recipe"
+    },
+    {
+      "name": "SarbroxArmor",
+      "type": "armor",
+      "sortid": 421,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sarbrox_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "SarbroxArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 422,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sarbrox_armor_helmet_recipe"
+    },
+    {
+      "name": "SarbroxArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 423,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sarbrox_armor_body_recipe"
+    },
+    {
+      "name": "SarbroxArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 424,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sarbrox_armor_leggings_recipe"
+    },
+    {
+      "name": "SarbroxArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 425,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sarbrox_armor_boots_recipe"
+    },
+    {
+      "name": "Doom",
+      "type": "item",
+      "sortid": 426,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "doom"
+    },
+    {
+      "name": "DoomOre",
+      "type": "block",
+      "sortid": 427,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "doom_ore"
+    },
+    {
+      "name": "DoomBlock",
+      "type": "block",
+      "sortid": 428,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "doom_block"
+    },
+    {
+      "name": "DoomOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 429,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "doom_ore_block_recipe"
+    },
+    {
+      "name": "DoomBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 430,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "doom_block_ore_recipe"
+    },
+    {
+      "name": "DoomOreSmelting",
+      "type": "recipe",
+      "sortid": 431,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "doom_ore_smelting"
+    },
+    {
+      "name": "DoomPickaxe",
+      "type": "tool",
+      "sortid": 432,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "doom_pickaxe"
+    },
+    {
+      "name": "DoomAxe",
+      "type": "tool",
+      "sortid": 433,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "doom_axe"
+    },
+    {
+      "name": "DoomSword",
+      "type": "tool",
+      "sortid": 434,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "doom_sword"
+    },
+    {
+      "name": "DoomShovel",
+      "type": "tool",
+      "sortid": 435,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "doom_shovel"
+    },
+    {
+      "name": "DoomHoe",
+      "type": "tool",
+      "sortid": 436,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "doom_hoe"
+    },
+    {
+      "name": "DoomPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 437,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "doom_pickaxe_recipe"
+    },
+    {
+      "name": "DoomAxeRecipe",
+      "type": "recipe",
+      "sortid": 438,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "doom_axe_recipe"
+    },
+    {
+      "name": "DoomSwordRecipe",
+      "type": "recipe",
+      "sortid": 439,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "doom_sword_recipe"
+    },
+    {
+      "name": "DoomShovelRecipe",
+      "type": "recipe",
+      "sortid": 440,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "doom_shovel_recipe"
+    },
+    {
+      "name": "DoomHoeRecipe",
+      "type": "recipe",
+      "sortid": 441,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "doom_hoe_recipe"
+    },
+    {
+      "name": "DoomArmor",
+      "type": "armor",
+      "sortid": 442,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "doom_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "DoomArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 443,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "doom_armor_helmet_recipe"
+    },
+    {
+      "name": "DoomArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 444,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "doom_armor_body_recipe"
+    },
+    {
+      "name": "DoomArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 445,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "doom_armor_leggings_recipe"
+    },
+    {
+      "name": "DoomArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 446,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "doom_armor_boots_recipe"
+    },
+    {
+      "name": "OmniacIngot",
+      "type": "item",
+      "sortid": 447,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "omniac_ingot"
+    },
+    {
+      "name": "OmniacOre",
+      "type": "block",
+      "sortid": 448,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "omniac_ore"
+    },
+    {
+      "name": "OmniacBlock",
+      "type": "block",
+      "sortid": 449,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "omniac_block"
+    },
+    {
+      "name": "OmniacOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 450,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "omniac_ore_block_recipe"
+    },
+    {
+      "name": "OmniacBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 451,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "omniac_block_ore_recipe"
+    },
+    {
+      "name": "OmniacOreSmelting",
+      "type": "recipe",
+      "sortid": 452,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "omniac_ore_smelting"
+    },
+    {
+      "name": "OmniacPickaxe",
+      "type": "tool",
+      "sortid": 453,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "omniac_pickaxe"
+    },
+    {
+      "name": "OmniacAxe",
+      "type": "tool",
+      "sortid": 454,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "omniac_axe"
+    },
+    {
+      "name": "OmniacSword",
+      "type": "tool",
+      "sortid": 455,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "omniac_sword"
+    },
+    {
+      "name": "OmniacShovel",
+      "type": "tool",
+      "sortid": 456,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "omniac_shovel"
+    },
+    {
+      "name": "OmniacHoe",
+      "type": "tool",
+      "sortid": 457,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "omniac_hoe"
+    },
+    {
+      "name": "OmniacPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 458,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "omniac_pickaxe_recipe"
+    },
+    {
+      "name": "OmniacAxeRecipe",
+      "type": "recipe",
+      "sortid": 459,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "omniac_axe_recipe"
+    },
+    {
+      "name": "OmniacSwordRecipe",
+      "type": "recipe",
+      "sortid": 460,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "omniac_sword_recipe"
+    },
+    {
+      "name": "OmniacShovelRecipe",
+      "type": "recipe",
+      "sortid": 461,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "omniac_shovel_recipe"
+    },
+    {
+      "name": "OmniacHoeRecipe",
+      "type": "recipe",
+      "sortid": 462,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "omniac_hoe_recipe"
+    },
+    {
+      "name": "OmniacArmor",
+      "type": "armor",
+      "sortid": 463,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "omniac_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "OmniacArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 464,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "omniac_armor_helmet_recipe"
+    },
+    {
+      "name": "OmniacArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 465,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "omniac_armor_body_recipe"
+    },
+    {
+      "name": "OmniacArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 466,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "omniac_armor_leggings_recipe"
+    },
+    {
+      "name": "OmniacArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 467,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "omniac_armor_boots_recipe"
+    },
+    {
+      "name": "Cyria",
+      "type": "item",
+      "sortid": 468,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyria"
+    },
+    {
+      "name": "CyriaOre",
+      "type": "block",
+      "sortid": 469,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyria_ore"
+    },
+    {
+      "name": "CyriaBlock",
+      "type": "block",
+      "sortid": 470,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyria_block"
+    },
+    {
+      "name": "CyriaOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 471,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyria_ore_block_recipe"
+    },
+    {
+      "name": "CyriaBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 472,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyria_block_ore_recipe"
+    },
+    {
+      "name": "CyriaOreSmelting",
+      "type": "recipe",
+      "sortid": 473,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyria_ore_smelting"
+    },
+    {
+      "name": "CyriaPickaxe",
+      "type": "tool",
+      "sortid": 474,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyria_pickaxe"
+    },
+    {
+      "name": "CyriaAxe",
+      "type": "tool",
+      "sortid": 475,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyria_axe"
+    },
+    {
+      "name": "CyriaSword",
+      "type": "tool",
+      "sortid": 476,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyria_sword"
+    },
+    {
+      "name": "CyriaShovel",
+      "type": "tool",
+      "sortid": 477,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyria_shovel"
+    },
+    {
+      "name": "CyriaHoe",
+      "type": "tool",
+      "sortid": 478,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyria_hoe"
+    },
+    {
+      "name": "CyriaPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 479,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyria_pickaxe_recipe"
+    },
+    {
+      "name": "CyriaAxeRecipe",
+      "type": "recipe",
+      "sortid": 480,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyria_axe_recipe"
+    },
+    {
+      "name": "CyriaSwordRecipe",
+      "type": "recipe",
+      "sortid": 481,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyria_sword_recipe"
+    },
+    {
+      "name": "CyriaShovelRecipe",
+      "type": "recipe",
+      "sortid": 482,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyria_shovel_recipe"
+    },
+    {
+      "name": "CyriaHoeRecipe",
+      "type": "recipe",
+      "sortid": 483,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyria_hoe_recipe"
+    },
+    {
+      "name": "CyriaArmor",
+      "type": "armor",
+      "sortid": 484,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyria_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "CyriaArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 485,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyria_armor_helmet_recipe"
+    },
+    {
+      "name": "CyriaArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 486,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyria_armor_body_recipe"
+    },
+    {
+      "name": "CyriaArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 487,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyria_armor_leggings_recipe"
+    },
+    {
+      "name": "CyriaArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 488,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyria_armor_boots_recipe"
+    },
+    {
+      "name": "Arbinium",
+      "type": "item",
+      "sortid": 489,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "arbinium"
+    },
+    {
+      "name": "ArbiniumOre",
+      "type": "block",
+      "sortid": 490,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "arbinium_ore"
+    },
+    {
+      "name": "ArbiniumBlock",
+      "type": "block",
+      "sortid": 491,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "arbinium_block"
+    },
+    {
+      "name": "ArbiniumOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 492,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "arbinium_ore_block_recipe"
+    },
+    {
+      "name": "ArbiniumBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 493,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "arbinium_block_ore_recipe"
+    },
+    {
+      "name": "ArbiniumOreSmelting",
+      "type": "recipe",
+      "sortid": 494,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "arbinium_ore_smelting"
+    },
+    {
+      "name": "ArbiniumPickaxe",
+      "type": "tool",
+      "sortid": 495,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "arbinium_pickaxe"
+    },
+    {
+      "name": "ArbiniumAxe",
+      "type": "tool",
+      "sortid": 496,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "arbinium_axe"
+    },
+    {
+      "name": "ArbiniumSword",
+      "type": "tool",
+      "sortid": 497,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "arbinium_sword"
+    },
+    {
+      "name": "ArbiniumShovel",
+      "type": "tool",
+      "sortid": 498,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "arbinium_shovel"
+    },
+    {
+      "name": "ArbiniumHoe",
+      "type": "tool",
+      "sortid": 499,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "arbinium_hoe"
+    },
+    {
+      "name": "ArbiniumPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 500,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "arbinium_pickaxe_recipe"
+    },
+    {
+      "name": "ArbiniumAxeRecipe",
+      "type": "recipe",
+      "sortid": 501,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "arbinium_axe_recipe"
+    },
+    {
+      "name": "ArbiniumSwordRecipe",
+      "type": "recipe",
+      "sortid": 502,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "arbinium_sword_recipe"
+    },
+    {
+      "name": "ArbiniumShovelRecipe",
+      "type": "recipe",
+      "sortid": 503,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "arbinium_shovel_recipe"
+    },
+    {
+      "name": "ArbiniumHoeRecipe",
+      "type": "recipe",
+      "sortid": 504,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "arbinium_hoe_recipe"
+    },
+    {
+      "name": "ArbiniumArmor",
+      "type": "armor",
+      "sortid": 505,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "arbinium_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "ArbiniumArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 506,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "arbinium_armor_helmet_recipe"
+    },
+    {
+      "name": "ArbiniumArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 507,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "arbinium_armor_body_recipe"
+    },
+    {
+      "name": "ArbiniumArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 508,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "arbinium_armor_leggings_recipe"
+    },
+    {
+      "name": "ArbiniumArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 509,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "arbinium_armor_boots_recipe"
+    },
+    {
+      "name": "WellNotSogood",
+      "type": "achievement",
+      "sortid": 510,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "well_not_sogood"
+    },
+    {
+      "name": "UhmmmmMore",
+      "type": "achievement",
+      "sortid": 511,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uhmmmm_more"
+    },
+    {
+      "name": "HaveYouSomethingBetterToDo",
+      "type": "achievement",
+      "sortid": 512,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "have_you_something_better_to_do"
+    },
+    {
+      "name": "ItNoUse",
+      "type": "achievement",
+      "sortid": 513,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "it_no_use"
+    },
+    {
+      "name": "ShouldITradeThem",
+      "type": "achievement",
+      "sortid": 514,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "should_i_trade_them"
+    },
+    {
+      "name": "ThisIsGonnaBeHard",
+      "type": "achievement",
+      "sortid": 515,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "this_is_gonna_be_hard"
+    },
+    {
+      "name": "DamnSomethingNaughty",
+      "type": "achievement",
+      "sortid": 516,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "damn_something_naughty"
+    },
+    {
+      "name": "HeyHandsomeGuys",
+      "type": "achievement",
+      "sortid": 517,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hey_handsome_guys"
+    },
+    {
+      "name": "HiImGerman",
+      "type": "achievement",
+      "sortid": 518,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hi_im_german"
+    },
+    {
+      "name": "ThisHitsHarderThanIt",
+      "type": "achievement",
+      "sortid": 519,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "this_hits_harder_than_it"
+    },
+    {
+      "name": "HarmfulRight",
+      "type": "achievement",
+      "sortid": 520,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "harmful_right"
+    },
+    {
+      "name": "InvincibleFinally",
+      "type": "achievement",
+      "sortid": 521,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "invincible_finally"
+    },
+    {
+      "name": "XmasFurry",
+      "type": "livingentity",
+      "sortid": 522,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "xmas_furry"
+    },
+    {
+      "name": "MatrixFurry",
+      "type": "livingentity",
+      "sortid": 523,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "matrix_furry"
+    },
+    {
+      "name": "SiameseFurry",
+      "type": "livingentity",
+      "sortid": 524,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "siamese_furry"
+    },
+    {
+      "name": "Protogen",
+      "type": "livingentity",
+      "sortid": 525,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "protogen"
+    },
+    {
+      "name": "RubyForOP",
+      "type": "villagertrade",
+      "sortid": 526,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby_for_op"
+    },
+    {
+      "name": "Homelander",
+      "type": "livingentity",
+      "sortid": 527,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "homelander"
     }
   ],
   "variable_elements": [],
@@ -2405,6 +4634,23 @@
       "subtitle": ""
     },
     {
+      "name": "mus_library",
+      "files": [
+        "4-converted"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "goreman_hurt",
+      "files": [
+        "auagh",
+        "auau"
+      ],
+      "category": "hostile",
+      "subtitle": ""
+    },
+    {
       "name": "darkzonemus",
       "files": [
         "3-converted"
@@ -2413,195 +4659,378 @@
       "subtitle": ""
     },
     {
-      "name": "mus_library",
+      "name": "goreman_live",
       "files": [
-        "4-converted"
+        "kepukepu",
+        "upaupa"
       ],
-      "category": "music",
-      "subtitle": ""
+      "category": "hostile",
+      "subtitle": "gore noises"
     }
   ],
   "language_map": {
     "en_us": {
       "item.superores.lead_pickaxe": "Lead Pickaxe",
       "block.superores.lemon_wood_pressure_plate": "LemonWood Pressure Plate",
+      "block.superores.cyria_block": "Block of Cyria",
+      "item.superores.omniac_ingot": "Omniac",
       "biome.superores.meat_land": "Meat Land",
-      "block.superores.lemon_wood_planks": "LemonWood Planks",
-      "block.superores.time_wood_log": "TimeWood Log",
       "advancements.wait_thatsnew.title": "Wait That\u0027s New!",
       "item.superores.ordium_axe": "Ordium Axe",
       "advancements.the_ultimate_weapon.title": "The Ultimate Weapon",
       "subtitles.darkness": "",
-      "subtitles.notcat": "",
-      "item.superores.the_hell": "The Hell Portal Igniter",
-      "item.superores.nickel_armor_leggings": "Nickel Leggings",
-      "block.superores.black_oak_pressure_plate": "Black_Oak Pressure Plate",
-      "block.superores.corrupted_fence": "Corrupted Fence",
-      "block.superores.amenthyst_ore": "Amenthyst Ore",
+      "item.superores.harminium": "Harminium",
+      "item.superores.titanium_axe": "Titanium Axe",
+      "item.superores.harminium_armor_leggings": "Harminium Leggings",
+      "advancements.this_hits_harder_than_it.title": "This Hits Harder Than Phonk",
       "item.superores.odrimium_armor_leggings": "Odrimium Leggings",
-      "subtitles.notrain": "",
+      "item.superores.omniac_armor_boots": "Omniac Boots",
+      "advancements.should_i_trade_them.descr": "Get Some Rubies",
+      "item.superores.sarbrox_sword": "Sarbrox Sword",
       "block.superores.candy_stone_ore": "CandyStone Ore",
-      "item.superores.red_slimehound_spawn_egg": "Red Slimehound Spawn Egg",
-      "item.superores.odrimium_pickaxe": "Odrimium Pickaxe",
+      "item.superores.germanium_axe": "Germanium Axe",
       "item.superores.ordium_shovel": "Ordium Shovel",
+      "item.superores.sarbrox_ingot": "Sarbrox",
       "biome.superores.lemon_land": "Lemon Land",
       "subtitles.blastcollide": "Blast collision",
       "block.superores.lemon_wood_log": "LemonWood Log",
-      "block.superores.time_wood_slab": "TimeWood Slab",
       "item.superores.odrimium_sword": "Odrimium Sword",
-      "item.superores.candy_stone_sword": "CandyStone Sword",
+      "item.superores.harminium_armor_helmet": "Harminium Helmet",
+      "block.superores.doom_ore": "Doom Ore",
       "block.superores.nybrick_ore": "Nybrick Ore",
-      "block.superores.corrupted_wood": "Corrupted Wood",
+      "item.superores.doom_armor_leggings": "Doom Leggings",
       "item.superores.white_dimension": "White Dimension Portal Igniter",
-      "item.superores.amenthyst_armor_boots": "Amenthyst Boots",
-      "item.superores.alternate_reality": "Alternate Reality Portal Igniter",
       "block.superores.blast_flowers": "Blast Flower",
-      "block.superores.time_wood_leaves": "TimeWood Leaves",
+      "item.superores.arbinium_armor_leggings": "Arbinium Leggings",
+      "item.superores.ovimium_armor_leggings": "Ovimium Leggings",
       "block.superores.acid": "Acid",
       "item.superores.nickel_axe": "Nickel Axe",
-      "block.superores.lemon_wood_button": "LemonWood Button",
-      "subtitles.slimehound_hurt": "???",
+      "item.superores.titanium_sword": "Titanium Sword",
       "block.superores.black_oak_fence_gate": "Black_Oak Fence Gate",
-      "entity.superores.slimehound": "Blue Slimehound",
       "block.superores.time_wood_stairs": "TimeWood Stairs",
-      "item.superores.odrimium": "Odrimium",
-      "item.superores.nickel_pickaxe": "Nickel Pickaxe",
+      "item.superores.sarbrox_armor_leggings": "Sarbrox Leggings",
+      "block.superores.harminium_ore": "Harminium Ore",
       "block.superores.corrupted_planks": "Corrupted Planks",
-      "item.superores.the_library.desc": "By Zhizi",
+      "item.superores.the_library.desc": "Zhizi - the library",
+      "item.superores.germanium_armor_boots": "Germanium Boots",
+      "block.superores.omniac_ore": "Omniac Ore",
       "block.superores.corrupted_pressure_plate": "Corrupted Pressure Plate",
       "subtitles.quake": "",
-      "item.superores.acid_bucket": "Acid Bucket",
-      "item.superores.ordium_armor_boots": "Ordium Boots",
+      "item.superores.harminium_pickaxe": "Harminium Pickaxe",
       "fluid.superores.acid": "Acid",
-      "item.superores.amenthyst_sword": "Amenthyst Sword",
       "item.superores.nickel_armor_chestplate": "Nickel Chestplate",
-      "advancements.sweet_armory.title": "Sweet Armory",
       "block.superores.candy_stone_block": "Block of CandyStone",
-      "item.superores.ordium_armor_leggings": "Ordium Leggings",
-      "entity.superores.red_slimehound": "Red Slimehound",
-      "subtitles.down": "",
+      "item.superores.xmas_furry_spawn_egg": "Xmas Furry Spawn Egg",
+      "item.superores.cyria_sword": "Cyria Sword",
+      "item.superores.zoneex_pickaxe": "Zoneex Pickaxe",
       "block.superores.corrupted_button": "Corrupted Button",
+      "item.superores.titanium_ingot": "Titanium",
+      "item.superores.doom_sword": "Doom Sword",
+      "item.superores.sarbrox_axe": "Sarbrox Axe",
       "subtitles.clock": "",
-      "item.superores.candy_stone_armor_boots": "CandyStone Boots",
-      "block.superores.lemon_wood_wood": "LemonWood Wood",
       "item.superores.lead_shovel": "Lead Shovel",
+      "item.superores.zoneex": "Zoneex",
       "item.superores.amenthyst_pickaxe": "Amenthyst Pickaxe",
-      "item.superores.amenthyst_hoe": "Amenthyst Hoe",
       "biome.superores.time_land": "Time Land",
-      "item.superores.nybrick_ingot": "Nybrick",
+      "item.superores.germanium_pickaxe": "Germanium Pickaxe",
       "item.superores.magic_wand": "Magic Wand",
-      "block.superores.corrupted_log": "Corrupted Log",
+      "block.superores.ruby_block": "Block of Ruby",
       "advancements.better_than_diamond_i_dont_think_so.descr": "Get some Amethyst",
-      "advancements.wazaaaaaaaa.title": "Wazaaaaaaaa",
-      "entity.superores.slime_pup": "Slime Pup",
-      "advancements.sweet_armory.descr": "Get some CandyStone",
+      "block.superores.sarbrox_ore": "Sarbrox Ore",
       "item.superores.amenthyst_axe": "Amenthyst Axe",
+      "item.superores.omniac_armor_chestplate": "Omniac Chestplate",
       "item.superores.amenthyst_armor_helmet": "Amenthyst Helmet",
       "item.superores.odrimium_armor_chestplate": "Odrimium Chestplate",
+      "item.superores.silver_axe": "Silver Axe",
+      "item.superores.omniac_sword": "Omniac Sword",
       "block.superores.black_oak_wood": "Black_Oak Wood",
+      "fluid.superores.oil": "Oil",
       "advancements.magik.title": "Magik",
+      "item.superores.ovimium_armor_boots": "Ovimium Boots",
+      "advancements.have_you_something_better_to_do.descr": "Get a Nickel Hoe",
       "item.superores.nickel_shovel": "Nickel Shovel",
-      "item.superores.ordium_pickaxe": "Ordium Pickaxe",
-      "block.superores.nickel_block": "Block of Nickel",
-      "item.superores.odrimium_armor_helmet": "Odrimium Helmet",
       "subtitles.blow": "",
-      "advancements.wazaaaaaaaa.descr": "Get Some Odrimium",
-      "block.superores.time_wood_fence": "TimeWood Fence",
-      "item.superores.lead_armor_boots": "Lead Boots",
-      "item.superores.nickel_armor_helmet": "Nickel Helmet",
-      "item.superores.odrimium_hoe": "Odrimium Hoe",
+      "item.superores.odrimium_armor_helmet": "Odrimium Helmet",
+      "block.superores.dark_ruby_block": "Block of Dark_Ruby",
       "item.superores.the_library": "The Library",
-      "block.superores.amenthyst_block": "Block of Amenthyst",
-      "block.superores.meat_block": "Meat Block",
-      "block.superores.black_oak_stairs": "Black_Oak Stairs",
+      "subtitles.goreman_hurt": "",
+      "block.superores.ovimium_block": "Block of Ovimium",
       "item.superores.lead_armor_chestplate": "Lead Chestplate",
-      "block.superores.ordium_block": "Block of Ordium",
+      "item.superores.ovimium_armor_helmet": "Ovimium Helmet",
+      "block.superores.silver_ore": "Silver Ore",
+      "item.superores.vegetium_ingot": "Vegetium",
+      "entity.superores.protogen": "Protogen",
+      "item.superores.silver_armor_boots": "Silver Boots",
+      "item.superores.zoneex_hoe": "Zoneex Hoe",
+      "advancements.this_is_gonna_be_hard.title": "This Is Gonna Be Hard",
       "block.superores.time_wood_pressure_plate": "TimeWood Pressure Plate",
-      "subtitles.blastattack": "Blast Attack",
-      "item.superores.black_goo_zone.desc": "by Zhizi",
+      "item.superores.silver_shovel": "Silver Shovel",
+      "item.superores.protogen_spawn_egg": "Protogen Spawn Egg",
+      "item.superores.harminium_armor_chestplate": "Harminium Chestplate",
       "item.superores.ordium_armor_helmet": "Ordium Helmet",
       "block.superores.nickel_ore": "Nickel Ore",
+      "advancements.should_i_trade_them.title": "Should I Trade Them?",
+      "item.superores.matrix_furry_spawn_egg": "Matrix Furry Spawn Egg",
       "subtitles.poison": "poison",
       "item.superores.distruptor_ball": "Distruptor Ball",
-      "item.superores.candy_stone_armor_chestplate": "CandyStone Chestplate",
-      "block.superores.black_oak_button": "Black_Oak Button",
+      "item.superores.germanium_armor_chestplate": "Germanium Chestplate",
       "block.superores.black_oak_log": "Black_Oak Log",
+      "item.superores.omniac_axe": "Omniac Axe",
       "subtitles.drips": "",
-      "block.superores.corrupted_stairs": "Corrupted Stairs",
-      "item.superores.candy_stone_armor_leggings": "CandyStone Leggings",
+      "block.superores.arbinium_ore": "Arbinium Ore",
+      "advancements.harmful_right.title": "Harmful Right?",
       "block.superores.nybrick_block": "Block of Nybrick",
+      "item.superores.germanium_armor_leggings": "Germanium Leggings",
       "advancements.the_ultimate_weapon.descr": "Get the Super Weapon",
-      "block.superores.black_oak_slab": "Black_Oak Slab",
       "item.superores.lead_armor_helmet": "Lead Helmet",
-      "advancements.wait_thatsnew.descr": "Get Some lead",
+      "advancements.well_not_sogood.descr": "Get some Ordium",
       "block.superores.black_oak_fence": "Black_Oak Fence",
       "item.superores.nickel_sword": "Nickel Sword",
       "block.superores.odrimium_block": "Block of Odrimium",
-      "advancements.i_shouldnthaveenteredhere.descr": "Enter in a strange dimension",
-      "block.superores.corrupted_leaves": "Corrupted Leaves",
-      "block.superores.lead_block": "Block of Lead",
       "item.superores.ordium_armor_chestplate": "Ordium Chestplate",
-      "block.superores.lemon_wood_fence_gate": "LemonWood Fence Gate",
+      "item.superores.harminium_armor_boots": "Harminium Boots",
       "entity.superores.goku_drip": "Goku Drip",
-      "item.superores.black_goo_zone": "Black Goo Zone",
-      "item.superores.candy_stone_armor_helmet": "CandyStone Helmet",
       "item.superores.odrimium_axe": "Odrimium Axe",
       "item.superores.slimehound_spawn_egg": "Blue Slimehound Spawn Egg",
+      "item.superores.sarbrox_armor_helmet": "Sarbrox Helmet",
+      "item.superores.cyria_shovel": "Cyria Shovel",
       "block.superores.lemon_wood_stairs": "LemonWood Stairs",
       "biome.superores.white_zone": "White Zone",
-      "item.superores.odrimium_armor_boots": "Odrimium Boots",
       "subtitles.wind": "Massive Wind",
+      "item.superores.omniac_armor_leggings": "Omniac Leggings",
+      "item.superores.cyria_axe": "Cyria Axe",
+      "item.superores.cyria_armor_boots": "Cyria Boots",
       "item.superores.amenthyst": "Amenthyst",
       "block.superores.meat_hive": "Meat Hive",
-      "item.superores.lead_armor_leggings": "Lead Leggings",
-      "block.superores.lemon_wood_fence": "LemonWood Fence",
+      "item.superores.germanium": "Germanium",
+      "entity.superores.siamese_furry": "Siamese Furry",
+      "item.superores.doom_hoe": "Doom Hoe",
       "advancements.its_getting_serious.descr": "Get Some Nickel",
-      "block.superores.time_wood_wood": "TimeWood Wood",
       "block.superores.time_wood_fence_gate": "TimeWood Fence Gate",
-      "block.superores.time_wood_planks": "TimeWood Planks",
-      "item.superores.lead_ingot": "Lead",
-      "item.superores.nickel_armor_boots": "Nickel Boots",
       "block.superores.corrupted_slab": "Corrupted Slab",
+      "block.superores.omniac_block": "Block of Omniac",
       "block.superores.ordium_ore": "Ordium Ore",
       "block.superores.lemon_wood_leaves": "LemonWood Leaves",
-      "item.superores.amenthyst_shovel": "Amenthyst Shovel",
-      "item.superores.ordium_sword": "Ordium Sword",
-      "item.superores.candy_stone_axe": "CandyStone Axe",
+      "item.superores.germanium_shovel": "Germanium Shovel",
+      "item.superores.titanium_armor_chestplate": "Titanium Chestplate",
+      "item.superores.omniac_armor_helmet": "Omniac Helmet",
+      "item.superores.cyria_armor_helmet": "Cyria Helmet",
       "block.superores.time_wood_button": "TimeWood Button",
       "block.superores.odrimium_ore": "Odrimium Ore",
-      "item.superores.candy_stone": "CandyStone",
       "block.superores.black_oak_planks": "Black_Oak Planks",
+      "item.superores.doom_armor_chestplate": "Doom Chestplate",
       "block.superores.lemon_wood_slab": "LemonWood Slab",
-      "block.superores.black_oak_leaves": "Black_Oak Leaves",
       "item.superores.goku_drip_spawn_egg": "Goku Drip Spawn Egg",
       "item.superores.ordium": "Ordium",
-      "block.superores.corrupted_fence_gate": "Corrupted Fence Gate",
+      "block.superores.zoneex_block": "Block of Zoneex",
+      "item.superores.cyria_armor_chestplate": "Cyria Chestplate",
+      "item.superores.arbinium_armor_chestplate": "Arbinium Chestplate",
+      "item.superores.titanium_armor_leggings": "Titanium Leggings",
       "advancements.magik.descr": "Get a magic Wand",
-      "block.superores.lead_ore": "Lead Ore",
-      "biome.superores.black_forest": "Black Forest",
-      "item.superores.amenthyst_armor_chestplate": "Amenthyst Chestplate",
-      "item.superores.super_weapon": "Super Weapon",
+      "item.superores.zoneex_shovel": "Zoneex Shovel",
+      "advancements.hi_im_german.descr": "Get Some Germanium",
       "item.superores.slime_pup_spawn_egg": "Slime Pup Spawn Egg",
-      "subtitles.death": "S o u n d s o f h e l l",
-      "advancements.better_than_diamond_i_dont_think_so.title": "Better Than Diamond? I Dont Think So",
+      "block.superores.sarbrox_block": "Block of Sarbrox",
+      "item.superores.sarbrox_shovel": "Sarbrox Shovel",
       "item.superores.blast_attack": "Blast Attack",
-      "item.superores.lead_axe": "Lead Axe",
       "advancements.i_shouldnthaveenteredhere.title": "I Shouldn\u0027t have entered here!",
       "item.superores.lead_hoe": "Lead Hoe",
       "item.superores.goku_drip_summoner": "Goku Drip Summoner",
-      "item.superores.candy_stone_pickaxe": "CandyStone Pickaxe",
+      "block.superores.harminium_block": "Block of Harminium",
+      "item.superores.arbinium_hoe": "Arbinium Hoe",
       "item.superores.nickel_hoe": "Nickel Hoe",
       "item.superores.odrimium_shovel": "Odrimium Shovel",
       "subtitles.darkzonemus": "",
-      "advancements.its_getting_serious.title": "It\u0027s Getting Serious",
+      "entity.superores.gore_man": "Gore Man",
       "item.superores.candy_stone_hoe": "CandyStone Hoe",
-      "item.superores.nickel_ingot": "Nickel",
+      "item.superores.ovimium_hoe": "Ovimium Hoe",
       "subtitles.mus_library": "",
+      "item.superores.silver_ingot": "Silver",
       "item.superores.lead_sword": "Lead Sword",
-      "item.superores.amenthyst_armor_leggings": "Amenthyst Leggings",
-      "item.superores.candy_stone_shovel": "CandyStone Shovel",
+      "item.superores.arbinium": "Arbinium",
+      "item.superores.zoneex_armor_chestplate": "Zoneex Chestplate",
       "item.superores.ordium_hoe": "Ordium Hoe",
+      "item.superores.arbinium_pickaxe": "Arbinium Pickaxe",
       "biome.superores.corruped_forest": "Corruped Forest",
+      "block.superores.doom_block": "Block of Doom",
+      "advancements.damn_something_naughty.title": "Damn Something Naughty",
+      "item.superores.zoneex_armor_helmet": "Zoneex Helmet",
+      "item.superores.dark_ruby": "Dark_Ruby",
+      "advancements.it_no_use.descr": "Get A Silver Ingot",
+      "block.superores.lemon_wood_planks": "LemonWood Planks",
+      "block.superores.time_wood_log": "TimeWood Log",
+      "advancements.harmful_right.descr": "Get Some Harminum",
+      "entity.superores.matrix_furry": "Matrix Furry",
+      "block.superores.silver_block": "Block of Silver",
+      "subtitles.notcat": "",
+      "item.superores.the_hell": "The Hell Portal Igniter",
+      "item.superores.nickel_armor_leggings": "Nickel Leggings",
+      "item.superores.silver_armor_helmet": "Silver Helmet",
+      "item.superores.zoneex_armor_boots": "Zoneex Boots",
+      "block.superores.black_oak_pressure_plate": "Black_Oak Pressure Plate",
+      "block.superores.corrupted_fence": "Corrupted Fence",
+      "block.superores.amenthyst_ore": "Amenthyst Ore",
+      "block.superores.ovimium_ore": "Ovimium Ore",
+      "item.superores.sarbrox_pickaxe": "Sarbrox Pickaxe",
+      "entity.superores.xmas_furry": "Xmas Furry",
+      "subtitles.notrain": "",
+      "item.superores.red_slimehound_spawn_egg": "Red Slimehound Spawn Egg",
+      "item.superores.odrimium_pickaxe": "Odrimium Pickaxe",
+      "item.superores.siamese_furry_spawn_egg": "Siamese Furry Spawn Egg",
+      "block.superores.time_wood_slab": "TimeWood Slab",
+      "item.superores.homelander_spawn_egg": "Homelander Spawn Egg",
+      "item.superores.candy_stone_sword": "CandyStone Sword",
+      "block.superores.corrupted_wood": "Corrupted Wood",
+      "item.superores.amenthyst_armor_boots": "Amenthyst Boots",
+      "item.superores.alternate_reality": "Alternate Reality Portal Igniter",
+      "block.superores.germanium_ore": "Germanium Ore",
+      "block.superores.zoneex_ore": "Zoneex Ore",
+      "item.superores.germanium_hoe": "Germanium Hoe",
+      "item.superores.silver_armor_chestplate": "Silver Chestplate",
+      "block.superores.time_wood_leaves": "TimeWood Leaves",
+      "item.superores.silver_hoe": "Silver Hoe",
+      "item.superores.germanium_sword": "Germanium Sword",
+      "block.superores.lemon_wood_button": "LemonWood Button",
+      "subtitles.slimehound_hurt": "???",
+      "entity.superores.slimehound": "Blue Slimehound",
+      "item.superores.odrimium": "Odrimium",
+      "item.superores.nickel_pickaxe": "Nickel Pickaxe",
+      "item.superores.sarbrox_hoe": "Sarbrox Hoe",
+      "item.superores.ovimium_shovel": "Ovimium Shovel",
+      "item.superores.acid_bucket": "Acid Bucket",
+      "item.superores.ordium_armor_boots": "Ordium Boots",
+      "advancements.hey_handsome_guys.descr": "Get Some Vegetium",
+      "item.superores.amenthyst_sword": "Amenthyst Sword",
+      "advancements.sweet_armory.title": "Sweet Armory",
+      "item.superores.ordium_armor_leggings": "Ordium Leggings",
+      "item.superores.zoneex_sword": "Zoneex Sword",
+      "entity.superores.red_slimehound": "Red Slimehound",
+      "subtitles.down": "",
+      "advancements.this_is_gonna_be_hard.descr": "Get A Dark Ruby",
+      "item.superores.zoneex_axe": "Zoneex Axe",
+      "item.superores.candy_stone_armor_boots": "CandyStone Boots",
+      "block.superores.lemon_wood_wood": "LemonWood Wood",
+      "advancements.invincible_finally.title": "I\u0027m Finally Invincible!!!",
+      "item.superores.amenthyst_hoe": "Amenthyst Hoe",
+      "item.superores.nybrick_ingot": "Nybrick",
+      "item.superores.doom_armor_helmet": "Doom Helmet",
+      "item.superores.arbinium_sword": "Arbinium Sword",
+      "block.superores.corrupted_log": "Corrupted Log",
+      "block.superores.vegetium_ore": "Vegetium Ore",
+      "item.superores.cyria_armor_leggings": "Cyria Leggings",
+      "item.superores.ovimium_armor_chestplate": "Ovimium Chestplate",
+      "advancements.wazaaaaaaaa.title": "Wazaaaaaaaa",
+      "entity.superores.slime_pup": "Slime Pup",
+      "advancements.sweet_armory.descr": "Get some CandyStone",
+      "block.superores.arbinium_block": "Block of Arbinium",
+      "item.superores.arbinium_shovel": "Arbinium Shovel",
+      "item.superores.titanium_hoe": "Titanium Hoe",
+      "item.superores.silver_armor_leggings": "Silver Leggings",
+      "item.superores.ordium_pickaxe": "Ordium Pickaxe",
+      "block.superores.nickel_block": "Block of Nickel",
+      "advancements.wazaaaaaaaa.descr": "Get Some Odrimium",
+      "block.superores.time_wood_fence": "TimeWood Fence",
+      "advancements.uhmmmm_more.title": "Uhmmmm More?",
+      "item.superores.harminium_axe": "Harminium Axe",
+      "item.superores.lead_armor_boots": "Lead Boots",
+      "item.superores.nickel_armor_helmet": "Nickel Helmet",
+      "item.superores.odrimium_hoe": "Odrimium Hoe",
+      "block.superores.amenthyst_block": "Block of Amenthyst",
+      "block.superores.meat_block": "Meat Block",
+      "block.superores.black_oak_stairs": "Black_Oak Stairs",
+      "item.superores.titanium_armor_boots": "Titanium Boots",
+      "block.superores.ordium_block": "Block of Ordium",
+      "subtitles.blastattack": "Blast Attack",
+      "item.superores.black_goo_zone.desc": "Black Goo Zone By Shizi",
+      "item.superores.titanium_armor_helmet": "Titanium Helmet",
+      "item.superores.ruby": "Ruby",
+      "item.superores.ovimium_axe": "Ovimium Axe",
+      "item.superores.omniac_shovel": "Omniac Shovel",
+      "advancements.this_hits_harder_than_it.descr": "get some Ovimium",
+      "item.superores.doom_pickaxe": "Doom Pickaxe",
+      "item.superores.candy_stone_armor_chestplate": "CandyStone Chestplate",
+      "block.superores.black_oak_button": "Black_Oak Button",
+      "block.superores.corrupted_stairs": "Corrupted Stairs",
+      "item.superores.candy_stone_armor_leggings": "CandyStone Leggings",
+      "item.superores.zoneex_armor_leggings": "Zoneex Leggings",
+      "block.superores.black_oak_slab": "Black_Oak Slab",
+      "item.superores.harminium_sword": "Harminium Sword",
+      "advancements.damn_something_naughty.descr": "Get Some Cyria",
+      "advancements.wait_thatsnew.descr": "Get Some lead",
+      "item.superores.ovimium": "Ovimium",
+      "advancements.i_shouldnthaveenteredhere.descr": "Enter in a strange dimension",
+      "block.superores.corrupted_leaves": "Corrupted Leaves",
+      "block.superores.lead_block": "Block of Lead",
+      "block.superores.lemon_wood_fence_gate": "LemonWood Fence Gate",
+      "item.superores.black_goo_zone": "Black Goo Zone",
+      "advancements.it_no_use.title": "It\u0027s No Use?",
+      "item.superores.candy_stone_armor_helmet": "CandyStone Helmet",
+      "item.superores.doom_armor_boots": "Doom Boots",
+      "item.superores.odrimium_armor_boots": "Odrimium Boots",
+      "item.superores.omniac_pickaxe": "Omniac Pickaxe",
+      "item.superores.sarbrox_armor_chestplate": "Sarbrox Chestplate",
+      "block.superores.titanium_block": "Block of Titanium",
+      "item.superores.sarbrox_armor_boots": "Sarbrox Boots",
+      "item.superores.lead_armor_leggings": "Lead Leggings",
+      "block.superores.lemon_wood_fence": "LemonWood Fence",
+      "advancements.uhmmmm_more.descr": "Get Some Nickel",
+      "block.superores.time_wood_wood": "TimeWood Wood",
+      "block.superores.germanium_block": "Block of Germanium",
+      "subtitles.goreman_live": "gore noises",
+      "item.superores.arbinium_axe": "Arbinium Axe",
+      "block.superores.time_wood_planks": "TimeWood Planks",
+      "item.superores.nickel_armor_boots": "Nickel Boots",
+      "item.superores.lead_ingot": "Lead",
+      "item.superores.doom": "Doom",
+      "item.superores.harminium_shovel": "Harminium Shovel",
+      "item.superores.amenthyst_shovel": "Amenthyst Shovel",
+      "item.superores.harminium_hoe": "Harminium Hoe",
+      "block.superores.cyria_ore": "Cyria Ore",
+      "item.superores.silver_sword": "Silver Sword",
+      "block.superores.titanium_ore": "Titanium Ore",
+      "item.superores.ordium_sword": "Ordium Sword",
+      "advancements.have_you_something_better_to_do.title": "Have You Something Better To Do?",
+      "item.superores.candy_stone_axe": "CandyStone Axe",
+      "item.superores.arbinium_armor_helmet": "Arbinium Helmet",
+      "item.superores.candy_stone": "CandyStone",
+      "item.superores.arbinium_armor_boots": "Arbinium Boots",
+      "advancements.hi_im_german.title": "Hi Im German and I bet you this achievement that you already have Germanium",
+      "item.superores.oil_bucket": "Oil Bucket",
+      "block.superores.black_oak_leaves": "Black_Oak Leaves",
+      "item.superores.titanium_pickaxe": "Titanium Pickaxe",
+      "block.superores.corrupted_fence_gate": "Corrupted Fence Gate",
+      "advancements.hey_handsome_guys.title": "Hey Handsome Guys!",
+      "item.superores.cyria": "Cyria",
+      "block.superores.vegetium_block": "Block of Vegetium",
+      "block.superores.oil": "Oil",
+      "block.superores.lead_ore": "Lead Ore",
+      "item.superores.titanium_shovel": "Titanium Shovel",
+      "advancements.invincible_finally.descr": "get ther strongest ore",
+      "biome.superores.black_forest": "Black Forest",
+      "item.superores.cyria_hoe": "Cyria Hoe",
+      "item.superores.amenthyst_armor_chestplate": "Amenthyst Chestplate",
+      "item.superores.super_weapon": "Super Weapon",
+      "subtitles.death": "S o u n d s o f h e l l",
+      "block.superores.ruby_ore": "Ruby Ore",
+      "advancements.better_than_diamond_i_dont_think_so.title": "Better Than Diamond? I Dont Think So",
+      "item.superores.lead_axe": "Lead Axe",
+      "item.superores.germanium_armor_helmet": "Germanium Helmet",
+      "item.superores.candy_stone_pickaxe": "CandyStone Pickaxe",
+      "item.superores.ovimium_pickaxe": "Ovimium Pickaxe",
+      "advancements.well_not_sogood.title": "Well... Not So Good But not that bad",
+      "item.superores.silver_pickaxe": "Silver Pickaxe",
+      "advancements.its_getting_serious.title": "It\u0027s Getting Serious",
+      "item.superores.nickel_ingot": "Nickel",
+      "item.superores.gore_man_spawn_egg": "Gore Man Spawn Egg",
+      "block.superores.dark_ruby_ore": "Dark_Ruby Ore",
+      "item.superores.ovimium_sword": "Ovimium Sword",
+      "item.superores.amenthyst_armor_leggings": "Amenthyst Leggings",
+      "item.superores.omniac_hoe": "Omniac Hoe",
+      "item.superores.candy_stone_shovel": "CandyStone Shovel",
+      "item.superores.doom_axe": "Doom Axe",
+      "item.superores.doom_shovel": "Doom Shovel",
+      "item.superores.cyria_pickaxe": "Cyria Pickaxe",
+      "entity.superores.homelander": "Homelander",
       "subtitles.mus_chng": ""
     }
   },

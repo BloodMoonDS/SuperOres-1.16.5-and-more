@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "superores:harminium"
+    },
+    "2": {
+      "item": "superores:harminium"
+    },
+    "3": {
+      "item": "superores:harminium"
+    },
+    "5": {
+      "item": "superores:harminium"
+    }
+  },
+  "result": {
+    "item": "superores:harminium_armor_boots",
+    "count": 1
+  }
+}

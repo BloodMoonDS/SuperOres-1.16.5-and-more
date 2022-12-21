@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "superores:sarbrox_block"
+    }
+  ],
+  "result": {
+    "item": "superores:sarbrox_ingot",
+    "count": 9
+  }
+}

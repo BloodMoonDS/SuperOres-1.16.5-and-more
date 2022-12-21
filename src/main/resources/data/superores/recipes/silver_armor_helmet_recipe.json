@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "superores:silver_ingot"
+    },
+    "1": {
+      "item": "superores:silver_ingot"
+    },
+    "2": {
+      "item": "superores:silver_ingot"
+    },
+    "3": {
+      "item": "superores:silver_ingot"
+    },
+    "5": {
+      "item": "superores:silver_ingot"
+    }
+  },
+  "result": {
+    "item": "superores:silver_armor_helmet",
+    "count": 1
+  }
+}

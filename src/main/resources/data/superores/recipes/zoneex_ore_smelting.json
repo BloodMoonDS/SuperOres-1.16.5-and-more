@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 6.02,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "superores:zoneex_ore"
+  },
+  "result": {
+    "item": "superores:zoneex"
+  }
+}

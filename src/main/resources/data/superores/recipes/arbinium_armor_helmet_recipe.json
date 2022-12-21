@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "superores:arbinium"
+    },
+    "1": {
+      "item": "superores:arbinium"
+    },
+    "2": {
+      "item": "superores:arbinium"
+    },
+    "3": {
+      "item": "superores:arbinium"
+    },
+    "5": {
+      "item": "superores:arbinium"
+    }
+  },
+  "result": {
+    "item": "superores:arbinium_armor_helmet",
+    "count": 1
+  }
+}

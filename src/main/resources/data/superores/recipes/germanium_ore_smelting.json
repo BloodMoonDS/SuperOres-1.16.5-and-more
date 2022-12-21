@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 6.369999999999999,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "superores:germanium_ore"
+  },
+  "result": {
+    "item": "superores:germanium"
+  }
+}

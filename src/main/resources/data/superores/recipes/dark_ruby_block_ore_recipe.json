@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "superores:dark_ruby_block"
+    }
+  ],
+  "result": {
+    "item": "superores:dark_ruby",
+    "count": 9
+  }
+}

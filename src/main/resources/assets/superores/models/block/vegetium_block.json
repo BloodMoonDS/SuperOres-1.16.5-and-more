@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "superores:blocks/vegetium_ore_block",
+    "particle": "superores:blocks/vegetium_ore_block"
+  }
+}

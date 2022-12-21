@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "superores:cyria"
+    },
+    "2": {
+      "item": "superores:cyria"
+    },
+    "3": {
+      "item": "superores:cyria"
+    },
+    "5": {
+      "item": "superores:cyria"
+    }
+  },
+  "result": {
+    "item": "superores:cyria_armor_boots",
+    "count": 1
+  }
+}

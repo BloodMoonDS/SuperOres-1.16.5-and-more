@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "superores:sarbrox_ingot"
+    },
+    "1": {
+      "item": "superores:sarbrox_ingot"
+    },
+    "2": {
+      "item": "superores:sarbrox_ingot"
+    },
+    "3": {
+      "item": "superores:sarbrox_ingot"
+    },
+    "5": {
+      "item": "superores:sarbrox_ingot"
+    }
+  },
+  "result": {
+    "item": "superores:sarbrox_armor_helmet",
+    "count": 1
+  }
+}

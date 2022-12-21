@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 0.84,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "superores:dark_ruby_ore"
+  },
+  "result": {
+    "item": "superores:dark_ruby"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "superores:dark_ruby"
+    },
+    "1": {
+      "item": "superores:dark_ruby"
+    },
+    "2": {
+      "item": "superores:dark_ruby"
+    },
+    "3": {
+      "item": "superores:dark_ruby"
+    },
+    "4": {
+      "item": "superores:dark_ruby"
+    },
+    "5": {
+      "item": "superores:dark_ruby"
+    },
+    "6": {
+      "item": "superores:dark_ruby"
+    },
+    "7": {
+      "item": "superores:dark_ruby"
+    },
+    "8": {
+      "item": "superores:dark_ruby"
+    }
+  },
+  "result": {
+    "item": "superores:dark_ruby_block",
+    "count": 1
+  }
+}

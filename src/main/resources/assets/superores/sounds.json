@@ -255,6 +255,28 @@
       }
     ]
   },
+  "mus_library": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "superores:4-converted",
+        "stream": true
+      }
+    ]
+  },
+  "goreman_hurt": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "superores:auagh",
+        "stream": false
+      },
+      {
+        "name": "superores:auau",
+        "stream": false
+      }
+    ]
+  },
   "darkzonemus": {
     "category": "music",
     "sounds": [
@@ -264,12 +286,17 @@
       }
     ]
   },
-  "mus_library": {
-    "category": "music",
+  "goreman_live": {
+    "category": "hostile",
+    "subtitle": "subtitles.goreman_live",
     "sounds": [
       {
-        "name": "superores:4-converted",
-        "stream": true
+        "name": "superores:kepukepu",
+        "stream": false
+      },
+      {
+        "name": "superores:upaupa",
+        "stream": false
       }
     ]
   }

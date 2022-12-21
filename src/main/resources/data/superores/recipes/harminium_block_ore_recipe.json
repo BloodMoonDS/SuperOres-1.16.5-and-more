@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "superores:harminium_block"
+    }
+  ],
+  "result": {
+    "item": "superores:harminium",
+    "count": 9
+  }
+}

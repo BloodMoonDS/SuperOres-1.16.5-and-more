@@ -13,10 +13,8 @@ import net.minecraft.world.server.ServerBossInfo;
 import net.minecraft.world.World;
 import net.minecraft.world.BossInfo;
 import net.minecraft.util.math.vector.Vector3d;
-import net.minecraft.util.math.BlockPos;
 import net.minecraft.util.ResourceLocation;
 import net.minecraft.util.DamageSource;
-import net.minecraft.pathfinding.FlyingPathNavigator;
 import net.minecraft.particles.ParticleTypes;
 import net.minecraft.network.IPacket;
 import net.minecraft.item.SpawnEggItem;
@@ -24,9 +22,8 @@ import net.minecraft.item.ItemGroup;
 import net.minecraft.item.Item;
 import net.minecraft.entity.player.ServerPlayerEntity;
 import net.minecraft.entity.player.PlayerEntity;
-import net.minecraft.entity.passive.AnimalEntity;
-import net.minecraft.entity.passive.AmbientEntity;
 import net.minecraft.entity.monster.MonsterEntity;
+import net.minecraft.entity.monster.EndermiteEntity;
 import net.minecraft.entity.ai.goal.SwimGoal;
 import net.minecraft.entity.ai.goal.RangedAttackGoal;
 import net.minecraft.entity.ai.goal.RandomWalkingGoal;
@@ -36,7 +33,6 @@ import net.minecraft.entity.ai.goal.MeleeAttackGoal;
 import net.minecraft.entity.ai.goal.LookRandomlyGoal;
 import net.minecraft.entity.ai.goal.HurtByTargetGoal;
 import net.minecraft.entity.ai.goal.BreakBlockGoal;
-import net.minecraft.entity.ai.controller.FlyingMovementController;
 import net.minecraft.entity.ai.attributes.Attributes;
 import net.minecraft.entity.ai.attributes.AttributeModifierMap;
 import net.minecraft.entity.MobEntity;
@@ -46,9 +42,7 @@ import net.minecraft.entity.EntityType;
 import net.minecraft.entity.EntityClassification;
 import net.minecraft.entity.Entity;
 import net.minecraft.entity.CreatureAttribute;
-import net.minecraft.entity.AgeableEntity;
 import net.minecraft.block.Blocks;
-import net.minecraft.block.BlockState;
 
 import java.util.Random;
 
@@ -71,8 +65,8 @@ public class GokuDripEntity extends SuperoresModElements.ModElement {
 	@Override
 	public void initElements() {
 		elements.entities.add(() -> entity);
-		elements.items
-				.add(() -> new SpawnEggItem(entity, -1, -1, new Item.Properties().group(ItemGroup.MISC)).setRegistryName("goku_drip_spawn_egg"));
+		elements.items.add(() -> new SpawnEggItem(entity, -3381760, -10066177, new Item.Properties().group(ItemGroup.MISC))
+				.setRegistryName("goku_drip_spawn_egg"));
 	}
 
 	@Override
@@ -90,7 +84,6 @@ public class GokuDripEntity extends SuperoresModElements.ModElement {
 			ammma = ammma.createMutableAttribute(Attributes.FOLLOW_RANGE, 16);
 			ammma = ammma.createMutableAttribute(Attributes.KNOCKBACK_RESISTANCE, 2);
 			ammma = ammma.createMutableAttribute(Attributes.ATTACK_KNOCKBACK, 9);
-			ammma = ammma.createMutableAttribute(Attributes.FLYING_SPEED, 3);
 			event.put(entity, ammma.create());
 		}
 	}
@@ -105,8 +98,6 @@ public class GokuDripEntity extends SuperoresModElements.ModElement {
 			experienceValue = 0;
 			setNoAI(false);
 			enablePersistence();
-			this.moveController = new FlyingMovementController(this, 10, true);
-			this.navigator = new FlyingPathNavigator(this, this.world);
 		}
 
 		@Override
@@ -127,9 +118,9 @@ public class GokuDripEntity extends SuperoresModElements.ModElement {
 			this.targetSelector.addGoal(3, new HurtByTargetGoal(this));
 			this.goalSelector.addGoal(4, new LookRandomlyGoal(this));
 			this.goalSelector.addGoal(5, new SwimGoal(this));
-			this.targetSelector.addGoal(6, new NearestAttackableTargetGoal(this, AgeableEntity.class, false, false));
-			this.targetSelector.addGoal(7, new NearestAttackableTargetGoal(this, AmbientEntity.class, false, false));
-			this.targetSelector.addGoal(8, new NearestAttackableTargetGoal(this, AnimalEntity.class, false, false));
+			this.targetSelector.addGoal(6, new NearestAttackableTargetGoal(this, GoreManEntity.CustomEntity.class, false, false));
+			this.targetSelector.addGoal(7, new NearestAttackableTargetGoal(this, EndermiteEntity.class, false, false));
+			this.targetSelector.addGoal(8, new NearestAttackableTargetGoal(this, HomelanderEntity.CustomEntity.class, false, false));
 			this.targetSelector.addGoal(9, new NearestAttackableTargetGoal(this, MobEntity.class, false, false));
 			this.targetSelector.addGoal(10, new NearestAttackableTargetGoal(this, MonsterEntity.class, false, false));
 			this.goalSelector.addGoal(11, new RandomWalkingGoal(this, 3, 20) {
@@ -175,11 +166,6 @@ public class GokuDripEntity extends SuperoresModElements.ModElement {
 		}
 
 		@Override
-		public boolean onLivingFall(float l, float d) {
-			return false;
-		}
-
-		@Override
 		public boolean attackEntityFrom(DamageSource source, float amount) {
 			if (source == DamageSource.FALL)
 				return false;
@@ -219,18 +205,8 @@ public class GokuDripEntity extends SuperoresModElements.ModElement {
 			this.bossInfo.setPercent(this.getHealth() / this.getMaxHealth());
 		}
 
-		@Override
-		protected void updateFallState(double y, boolean onGroundIn, BlockState state, BlockPos pos) {
-		}
-
-		@Override
-		public void setNoGravity(boolean ignored) {
-			super.setNoGravity(true);
-		}
-
 		public void livingTick() {
 			super.livingTick();
-			this.setNoGravity(true);
 			double x = this.getPosX();
 			double y = this.getPosY();
 			double z = this.getPosZ();

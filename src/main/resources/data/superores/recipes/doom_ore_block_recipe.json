@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "superores:doom"
+    },
+    "1": {
+      "item": "superores:doom"
+    },
+    "2": {
+      "item": "superores:doom"
+    },
+    "3": {
+      "item": "superores:doom"
+    },
+    "4": {
+      "item": "superores:doom"
+    },
+    "5": {
+      "item": "superores:doom"
+    },
+    "6": {
+      "item": "superores:doom"
+    },
+    "7": {
+      "item": "superores:doom"
+    },
+    "8": {
+      "item": "superores:doom"
+    }
+  },
+  "result": {
+    "item": "superores:doom_block",
+    "count": 1
+  }
+}

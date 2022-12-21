@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 7,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "superores:harminium_ore"
+  },
+  "result": {
+    "item": "superores:harminium"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "display": {
+    "icon": {
+      "item": "superores:ovimium"
+    },
+    "title": {
+      "translate": "advancements.this_hits_harder_than_it.title"
+    },
+    "description": {
+      "translate": "advancements.this_hits_harder_than_it.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "this_hits_harder_than_it": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "superores:ovimium",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "superores:uhmmmm_more"
+}

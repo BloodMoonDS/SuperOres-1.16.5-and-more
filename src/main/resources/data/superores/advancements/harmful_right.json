@@ -1,0 +1,34 @@
+{
+  "display": {
+    "icon": {
+      "item": "superores:harminium"
+    },
+    "title": {
+      "translate": "advancements.harmful_right.title"
+    },
+    "description": {
+      "translate": "advancements.harmful_right.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "harmful_right": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "superores:harminium",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "superores:uhmmmm_more"
+}

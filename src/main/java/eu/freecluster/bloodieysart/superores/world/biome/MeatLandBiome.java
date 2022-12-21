@@ -27,9 +27,15 @@ import net.minecraft.world.biome.BiomeGenerationSettings;
 import net.minecraft.world.biome.BiomeAmbience;
 import net.minecraft.world.biome.Biome;
 import net.minecraft.util.ResourceLocation;
+import net.minecraft.entity.EntityType;
+import net.minecraft.entity.EntityClassification;
 import net.minecraft.client.audio.BackgroundMusicSelector;
 import net.minecraft.block.Blocks;
 
+import eu.freecluster.bloodieysart.superores.entity.SlimehoundEntity;
+import eu.freecluster.bloodieysart.superores.entity.SlimePupEntity;
+import eu.freecluster.bloodieysart.superores.entity.RedSlimehoundEntity;
+import eu.freecluster.bloodieysart.superores.entity.GoreManEntity;
 import eu.freecluster.bloodieysart.superores.block.MeatBlockBlock;
 import eu.freecluster.bloodieysart.superores.SuperoresModElements;
 
@@ -76,6 +82,11 @@ public class MeatLandBiome extends SuperoresModElements.ModElement {
 				DefaultBiomeFeatures.withOverworldOres(biomeGenerationSettings);
 				DefaultBiomeFeatures.withFrozenTopLayer(biomeGenerationSettings);
 				MobSpawnInfo.Builder mobSpawnInfo = new MobSpawnInfo.Builder().isValidSpawnBiomeForPlayer();
+				mobSpawnInfo.withSpawner(EntityClassification.MONSTER, new MobSpawnInfo.Spawners(RedSlimehoundEntity.entity, 10, 4, 4));
+				mobSpawnInfo.withSpawner(EntityClassification.MONSTER, new MobSpawnInfo.Spawners(SlimehoundEntity.entity, 10, 4, 4));
+				mobSpawnInfo.withSpawner(EntityClassification.MONSTER, new MobSpawnInfo.Spawners(SlimePupEntity.entity, 10, 4, 4));
+				mobSpawnInfo.withSpawner(EntityClassification.MONSTER, new MobSpawnInfo.Spawners(EntityType.VEX, 5, 4, 4));
+				mobSpawnInfo.withSpawner(EntityClassification.MONSTER, new MobSpawnInfo.Spawners(GoreManEntity.entity, 15, 4, 4));
 				biome = new Biome.Builder().precipitation(Biome.RainType.RAIN).category(Biome.Category.NONE).depth(0.1f).scale(0.2f).temperature(0.5f)
 						.downfall(0.5f).setEffects(effects).withMobSpawnSettings(mobSpawnInfo.copy())
 						.withGenerationSettings(biomeGenerationSettings.build()).build();

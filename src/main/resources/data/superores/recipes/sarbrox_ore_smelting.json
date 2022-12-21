@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 0.21,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "superores:sarbrox_ore"
+  },
+  "result": {
+    "item": "superores:sarbrox_ingot"
+  }
+}

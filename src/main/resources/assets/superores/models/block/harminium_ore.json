@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "superores:blocks/harminium_ore",
+    "particle": "superores:blocks/harminium_ore"
+  }
+}
