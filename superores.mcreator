@@ -4480,6 +4480,30 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "homelander"
+    },
+    {
+      "name": "SweetHome",
+      "type": "structure",
+      "sortid": 528,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sweet_home"
+    },
+    {
+      "name": "Minihouse",
+      "type": "structure",
+      "sortid": 529,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "minihouse"
+    },
+    {
+      "name": "Meteor",
+      "type": "structure",
+      "sortid": 530,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "meteor"
     }
   ],
   "variable_elements": [],

@@ -19,6 +19,7 @@ import net.minecraft.item.Item;
 import net.minecraft.entity.monster.MonsterEntity;
 import net.minecraft.entity.ai.goal.SwimGoal;
 import net.minecraft.entity.ai.goal.RandomWalkingGoal;
+import net.minecraft.entity.ai.goal.RandomSwimmingGoal;
 import net.minecraft.entity.ai.goal.NearestAttackableTargetGoal;
 import net.minecraft.entity.ai.goal.MeleeAttackGoal;
 import net.minecraft.entity.ai.goal.LookRandomlyGoal;
@@ -107,6 +108,7 @@ public class HomelanderEntity extends SuperoresModElements.ModElement {
 			this.targetSelector.addGoal(10, new NearestAttackableTargetGoal(this, XmasFurryEntity.CustomEntity.class, false, false));
 			this.targetSelector.addGoal(11, new NearestAttackableTargetGoal(this, MatrixFurryEntity.CustomEntity.class, false, false));
 			this.targetSelector.addGoal(12, new NearestAttackableTargetGoal(this, SiameseFurryEntity.CustomEntity.class, false, false));
+			this.goalSelector.addGoal(13, new RandomSwimmingGoal(this, 3, 40));
 		}
 
 		@Override
