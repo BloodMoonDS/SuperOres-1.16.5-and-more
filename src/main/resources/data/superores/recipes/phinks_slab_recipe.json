@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "superores:phinks_planks"
+    },
+    "1": {
+      "item": "superores:phinks_planks"
+    },
+    "2": {
+      "item": "superores:phinks_planks"
+    }
+  },
+  "result": {
+    "item": "superores:phinks_slab",
+    "count": 6
+  }
+}

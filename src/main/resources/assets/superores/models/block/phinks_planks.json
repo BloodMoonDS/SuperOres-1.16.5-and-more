@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "superores:blocks/phinks_planks",
+    "particle": "superores:blocks/phinks_planks"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "superores:blocks/phinks_planks",
+    "particle": "superores:blocks/phinks_planks"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "_fv": 34,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "nether"
+      },
+      {
+        "value": "basalt_deltas"
+      },
+      {
+        "value": "warped_forest"
+      },
+      {
+        "value": "soul_sand_valley"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "Blocks.NETHERRACK"
+    },
+    "fluidBlock": {
+      "value": "Blocks.FLOWING_LAVA"
+    },
+    "airColor": {
+      "value": -3407872,
+      "falpha": 0.0
+    },
+    "canRespawnHere": false,
+    "hasFog": false,
+    "isDark": false,
+    "doesWaterVaporize": true,
+    "sleepResult": "BED_EXPLODES",
+    "hasSkyLight": true,
+    "imitateOverworldBehaviour": false,
+    "portalFrame": {
+      "value": "Blocks.BRICK_BLOCK"
+    },
+    "portalParticles": {
+      "value": "PORTAL"
+    },
+    "portalLuminance": 9,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Lava Land Portal Igniter",
+    "igniterTab": {
+      "value": "TOOLS"
+    },
+    "texture": "lethallavalandportaligniter",
+    "portalTexture": "lethallavaportal",
+    "enablePortal": true
+  }
+}

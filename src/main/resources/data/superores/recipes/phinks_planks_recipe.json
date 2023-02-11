@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:phinks_log"
+    }
+  ],
+  "result": {
+    "item": "superores:phinks_planks",
+    "count": 4
+  }
+}

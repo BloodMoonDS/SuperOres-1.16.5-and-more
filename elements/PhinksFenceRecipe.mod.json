@@ -1,0 +1,46 @@
+{
+  "_fv": 34,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 3,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PhinksPlanks"
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": "CUSTOM:PhinksPlanks"
+      },
+      {
+        "value": "CUSTOM:PhinksPlanks"
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": "CUSTOM:PhinksPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PhinksFence"
+    },
+    "name": "phinks_fence_recipe",
+    "namespace": "mod"
+  }
+}

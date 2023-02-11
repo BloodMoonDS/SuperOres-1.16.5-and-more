@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "superores:block/lava_land_portal_ew"
+    },
+    "axis=x": {
+      "model": "superores:block/lava_land_portal_ns"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "superores:blocks/phinks_log_top",
+    "up": "superores:blocks/phinks_log_top",
+    "north": "superores:blocks/phinks_log_side",
+    "east": "superores:blocks/phinks_log_side",
+    "south": "superores:blocks/phinks_log_side",
+    "west": "superores:blocks/phinks_log_side",
+    "particle": "superores:blocks/phinks_log_top"
+  }
+}

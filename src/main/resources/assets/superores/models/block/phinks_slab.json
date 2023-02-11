@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "superores:blocks/phinks_planks",
+    "top": "superores:blocks/phinks_planks",
+    "side": "superores:blocks/phinks_planks"
+  }
+}

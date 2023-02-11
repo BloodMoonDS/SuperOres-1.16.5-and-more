@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "superores:phinks_planks"
+    }
+  ],
+  "result": {
+    "item": "superores:phinks_button",
+    "count": 1
+  }
+}

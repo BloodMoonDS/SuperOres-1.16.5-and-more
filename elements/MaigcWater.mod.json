@@ -1,0 +1,49 @@
+{
+  "_fv": 34,
+  "_type": "fluid",
+  "definition": {
+    "name": "Maigc Water",
+    "bucketName": "Maigc Water Bucket",
+    "textureStill": "magik_water_still",
+    "textureFlowing": "magic_water_flow",
+    "tintType": "No tint",
+    "canMultiply": true,
+    "flowRate": 10,
+    "levelDecrease": 1,
+    "slopeFindDistance": 4,
+    "spawnParticles": false,
+    "dripParticle": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "flowStrength": 2.0,
+    "luminosity": 0,
+    "density": 1000,
+    "viscosity": 1000,
+    "temperature": 300,
+    "type": "WATER",
+    "generateBucket": true,
+    "textureBucket": "",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "emptySound": {
+      "value": "item.bucket.empty"
+    },
+    "rarity": "COMMON",
+    "specialInfo": [],
+    "resistance": 100.0,
+    "luminance": 15,
+    "lightOpacity": 1,
+    "emissiveRendering": false,
+    "tickRate": 10,
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "colorOnMap": "DEFAULT",
+    "frequencyOnChunks": 1,
+    "spawnWorldTypes": [],
+    "restrictionBiomes": [],
+    "onEntityCollides": {
+      "name": "MaigcWaterMobplayerCollidesBlock"
+    }
+  }
+}

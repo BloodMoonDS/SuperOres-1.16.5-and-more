@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "superores:phinks_planks"
+    },
+    "3": {
+      "item": "superores:phinks_planks"
+    },
+    "4": {
+      "item": "superores:phinks_planks"
+    },
+    "6": {
+      "item": "superores:phinks_planks"
+    },
+    "7": {
+      "item": "superores:phinks_planks"
+    },
+    "8": {
+      "item": "superores:phinks_planks"
+    }
+  },
+  "result": {
+    "item": "superores:phinks_stairs",
+    "count": 4
+  }
+}

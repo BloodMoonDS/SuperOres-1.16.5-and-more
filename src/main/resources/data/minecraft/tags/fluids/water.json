@@ -4,6 +4,8 @@
     "superores:acid",
     "superores:acid_flowing",
     "superores:oil",
-    "superores:oil_flowing"
+    "superores:oil_flowing",
+    "superores:maigc_water",
+    "superores:maigc_water_flowing"
   ]
 }

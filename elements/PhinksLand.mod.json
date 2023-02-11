@@ -1,0 +1,147 @@
+{
+  "_fv": 34,
+  "_type": "biome",
+  "definition": {
+    "name": "Phinks Land",
+    "groundBlock": {
+      "value": "Blocks.GRASS"
+    },
+    "undergroundBlock": {
+      "value": "Blocks.DIRT#0"
+    },
+    "underwaterBlock": {
+      "value": "CUSTOM:MaigcWater"
+    },
+    "grassColor": {
+      "value": -65383,
+      "falpha": 0.0
+    },
+    "foliageColor": {
+      "value": -65383,
+      "falpha": 0.0
+    },
+    "ambientSound": {
+      "value": ""
+    },
+    "additionsSound": {
+      "value": ""
+    },
+    "music": {
+      "value": ""
+    },
+    "moodSound": {
+      "value": ""
+    },
+    "moodSoundDelay": 6000,
+    "spawnParticles": false,
+    "particleToSpawn": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "particlesProbability": 0.5,
+    "rainingPossibility": 1.0,
+    "temperature": 0.2,
+    "baseHeight": 1.0,
+    "heightVariation": 1.7000000000000002,
+    "spawnBiome": false,
+    "spawnBiomeNether": false,
+    "spawnInCaves": false,
+    "biomeWeight": 8,
+    "grassPerChunk": 4,
+    "seagrassPerChunk": 3,
+    "flowersPerChunk": 4,
+    "mushroomsPerChunk": 0,
+    "bigMushroomsChunk": 3,
+    "sandPatchesPerChunk": 3,
+    "gravelPatchesPerChunk": 3,
+    "reedsPerChunk": 0,
+    "cactiPerChunk": 0,
+    "treesPerChunk": 10,
+    "vanillaTreeType": "Default",
+    "treeType": 1,
+    "minHeight": 7,
+    "treeStem": {
+      "value": "CUSTOM:PhinksLog"
+    },
+    "treeBranch": {
+      "value": "CUSTOM:PhinksLeaves"
+    },
+    "treeVines": {
+      "value": "Blocks.VINE"
+    },
+    "treeFruits": {
+      "value": "Blocks.SPONGE#0"
+    },
+    "spawnStronghold": false,
+    "spawnMineshaft": false,
+    "spawnMineshaftMesa": false,
+    "spawnPillagerOutpost": false,
+    "villageType": "none",
+    "spawnWoodlandMansion": false,
+    "spawnJungleTemple": false,
+    "spawnDesertPyramid": false,
+    "spawnSwampHut": false,
+    "spawnIgloo": false,
+    "spawnOceanMonument": false,
+    "spawnShipwreck": false,
+    "spawnShipwreckBeached": false,
+    "spawnBuriedTreasure": false,
+    "oceanRuinType": "NONE",
+    "spawnNetherBridge": false,
+    "spawnNetherFossil": false,
+    "spawnBastionRemnant": false,
+    "spawnEndCity": false,
+    "spawnRuinedPortal": "NONE",
+    "defaultFeatures": [
+      "Caves",
+      "Ores",
+      "FrozenTopLayer"
+    ],
+    "spawnEntries": [
+      {
+        "entity": {
+          "value": "EntityAllay"
+        },
+        "minGroup": 4,
+        "maxGroup": 4,
+        "weight": 20,
+        "spawnType": "creature"
+      },
+      {
+        "entity": {
+          "value": "EntityWolf"
+        },
+        "minGroup": 4,
+        "maxGroup": 4,
+        "weight": 12,
+        "spawnType": "creature"
+      },
+      {
+        "entity": {
+          "value": "EntityCod"
+        },
+        "minGroup": 4,
+        "maxGroup": 4,
+        "weight": 5,
+        "spawnType": "waterCreature"
+      },
+      {
+        "entity": {
+          "value": "EntityCow"
+        },
+        "minGroup": 4,
+        "maxGroup": 4,
+        "weight": 3,
+        "spawnType": "creature"
+      },
+      {
+        "entity": {
+          "value": "EntityEndermite"
+        },
+        "minGroup": 4,
+        "maxGroup": 4,
+        "weight": 20,
+        "spawnType": "monster"
+      }
+    ]
+  }
+}

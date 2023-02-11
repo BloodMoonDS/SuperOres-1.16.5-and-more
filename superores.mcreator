@@ -4770,6 +4770,312 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "angry_munci"
+    },
+    {
+      "name": "MunciinvokerRightclicked",
+      "type": "procedure",
+      "sortid": 561,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "munciinvoker_rightclicked",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Munciinvoker",
+      "type": "item",
+      "sortid": 561,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "munciinvoker"
+    },
+    {
+      "name": "MunciInvokerCreator",
+      "type": "recipe",
+      "sortid": 562,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "munci_invoker_creator"
+    },
+    {
+      "name": "MaigcWaterMobplayerCollidesBlock",
+      "type": "procedure",
+      "sortid": 563,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "maigc_water_mobplayer_collides_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MaigcWater",
+      "type": "fluid",
+      "sortid": 563,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "maigc_water",
+      "metadata": {
+        "gb": true
+      }
+    },
+    {
+      "name": "FrozenValley",
+      "type": "biome",
+      "sortid": 564,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "frozen_valley"
+    },
+    {
+      "name": "GhostValley",
+      "type": "biome",
+      "sortid": 565,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ghost_valley"
+    },
+    {
+      "name": "PhinksWood",
+      "type": "block",
+      "sortid": 566,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "phinks_wood"
+    },
+    {
+      "name": "PhinksLog",
+      "type": "block",
+      "sortid": 567,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "phinks_log"
+    },
+    {
+      "name": "PhinksPlanks",
+      "type": "block",
+      "sortid": 568,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "phinks_planks"
+    },
+    {
+      "name": "PhinksLeaves",
+      "type": "block",
+      "sortid": 569,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "phinks_leaves"
+    },
+    {
+      "name": "PhinksStairs",
+      "type": "block",
+      "sortid": 570,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "phinks_stairs"
+    },
+    {
+      "name": "PhinksSlab",
+      "type": "block",
+      "sortid": 571,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "phinks_slab"
+    },
+    {
+      "name": "PhinksFence",
+      "type": "block",
+      "sortid": 572,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "phinks_fence"
+    },
+    {
+      "name": "PhinksFenceGate",
+      "type": "block",
+      "sortid": 573,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "phinks_fence_gate"
+    },
+    {
+      "name": "PhinksPressurePlate",
+      "type": "block",
+      "sortid": 574,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "phinks_pressure_plate"
+    },
+    {
+      "name": "PhinksButton",
+      "type": "block",
+      "sortid": 575,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "phinks_button"
+    },
+    {
+      "name": "PhinksItemsTag",
+      "type": "tag",
+      "sortid": 576,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "phinks_items_tag"
+    },
+    {
+      "name": "PhinksWoodRecipe",
+      "type": "recipe",
+      "sortid": 577,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "phinks_wood_recipe"
+    },
+    {
+      "name": "PhinksPlanksRecipe",
+      "type": "recipe",
+      "sortid": 578,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "phinks_planks_recipe"
+    },
+    {
+      "name": "PhinksStairsRecipe",
+      "type": "recipe",
+      "sortid": 579,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "phinks_stairs_recipe"
+    },
+    {
+      "name": "PhinksSlabRecipe",
+      "type": "recipe",
+      "sortid": 580,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "phinks_slab_recipe"
+    },
+    {
+      "name": "PhinksFenceRecipe",
+      "type": "recipe",
+      "sortid": 581,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "phinks_fence_recipe"
+    },
+    {
+      "name": "PhinksFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 582,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "phinks_fence_gate_recipe"
+    },
+    {
+      "name": "PhinksPressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 583,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "phinks_pressure_plate_recipe"
+    },
+    {
+      "name": "PhinksButtonRecipe",
+      "type": "recipe",
+      "sortid": 584,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "phinks_button_recipe"
+    },
+    {
+      "name": "PhinksStickRecipe",
+      "type": "recipe",
+      "sortid": 585,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "phinks_stick_recipe"
+    },
+    {
+      "name": "PhinksLand",
+      "type": "biome",
+      "sortid": 586,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "phinks_land"
+    },
+    {
+      "name": "SuperCreeperEntityDies",
+      "type": "procedure",
+      "sortid": 587,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "super_creeper_entity_dies",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SuperCreeper",
+      "type": "livingentity",
+      "sortid": 587,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "super_creeper"
+    },
+    {
+      "name": "LavaLand",
+      "type": "dimension",
+      "sortid": 588,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lava_land",
+      "metadata": {
+        "ep": true
+      }
     }
   ],
   "variable_elements": [],
@@ -5008,8 +5314,8 @@
       "item.superores.harminium_armor_leggings": "Harminium Leggings",
       "subtitles.bullethit": "",
       "advancements.this_hits_harder_than_it.title": "This Hits Harder Than Phonk",
-      "item.superores.omniac_armor_boots": "Omniac Boots",
       "item.superores.odrimium_armor_leggings": "Odrimium Leggings",
+      "item.superores.omniac_armor_boots": "Omniac Boots",
       "advancements.should_i_trade_them.descr": "Get Some Rubies",
       "advancements.its_really_anoying.descr": "Get a distruptor ball",
       "block.superores.candy_stone_ore": "CandyStone Ore",
@@ -5033,20 +5339,20 @@
       "item.superores.nickel_armor_chestplate": "Nickel Chestplate",
       "item.superores.xmas_furry_spawn_egg": "Xmas Furry Spawn Egg",
       "item.superores.cyria_sword": "Cyria Sword",
-      "item.superores.doom_sword": "Doom Sword",
       "block.superores.corrupted_button": "Corrupted Button",
+      "item.superores.doom_sword": "Doom Sword",
       "item.superores.zoneex": "Zoneex",
       "item.superores.amenthyst_pickaxe": "Amenthyst Pickaxe",
       "advancements.better_than_diamond_i_dont_think_so.descr": "Get some Amethyst",
-      "item.superores.amenthyst_armor_helmet": "Amenthyst Helmet",
       "item.superores.silver_axe": "Silver Axe",
+      "item.superores.amenthyst_armor_helmet": "Amenthyst Helmet",
       "block.superores.black_oak_wood": "Black_Oak Wood",
       "advancements.have_you_something_better_to_do.descr": "Get a Nickel Hoe",
       "item.superores.nickel_shovel": "Nickel Shovel",
       "block.superores.dark_ruby_block": "Block of Dark_Ruby",
       "block.superores.ovimium_block": "Block of Ovimium",
-      "item.superores.ovimium_armor_helmet": "Ovimium Helmet",
       "item.superores.lead_armor_chestplate": "Lead Chestplate",
+      "item.superores.ovimium_armor_helmet": "Ovimium Helmet",
       "item.superores.vegetium_ingot": "Vegetium",
       "entity.superores.protogen": "Protogen",
       "item.superores.blood_stone_pickaxe": "BloodStone Pickaxe",
@@ -5065,8 +5371,8 @@
       "item.superores.slimehound_spawn_egg": "Blue Slimehound Spawn Egg",
       "item.superores.cyria_shovel": "Cyria Shovel",
       "block.superores.lemon_wood_stairs": "LemonWood Stairs",
-      "item.superores.omniac_armor_leggings": "Omniac Leggings",
       "item.superores.cyria_axe": "Cyria Axe",
+      "item.superores.omniac_armor_leggings": "Omniac Leggings",
       "item.superores.amenthyst": "Amenthyst",
       "block.superores.meat_hive": "Meat Hive",
       "item.superores.doom_hoe": "Doom Hoe",
@@ -5077,6 +5383,7 @@
       "item.superores.omniac_armor_helmet": "Omniac Helmet",
       "item.superores.cyria_armor_helmet": "Cyria Helmet",
       "block.superores.time_wood_button": "TimeWood Button",
+      "biome.superores.ghost_valley": "Ghost Valley",
       "block.superores.odrimium_ore": "Odrimium Ore",
       "item.superores.doom_armor_chestplate": "Doom Chestplate",
       "item.superores.goku_drip_spawn_egg": "Goku Drip Spawn Egg",
@@ -5094,6 +5401,7 @@
       "item.superores.lead_hoe": "Lead Hoe",
       "item.superores.arbinium_hoe": "Arbinium Hoe",
       "subtitles.darkzonemus": "",
+      "block.superores.maigc_water": "Maigc Water",
       "item.superores.candy_stone_hoe": "CandyStone Hoe",
       "subtitles.mus_library": "",
       "item.superores.lead_sword": "Lead Sword",
@@ -5104,25 +5412,30 @@
       "entity.superores.matrix_furry": "Matrix Furry",
       "subtitles.notcat": "",
       "block.superores.black_oak_pressure_plate": "Black_Oak Pressure Plate",
-      "item.superores.sarbrox_pickaxe": "Sarbrox Pickaxe",
-      "block.superores.corrupted_fence": "Corrupted Fence",
       "block.superores.amenthyst_ore": "Amenthyst Ore",
+      "block.superores.corrupted_fence": "Corrupted Fence",
+      "item.superores.sarbrox_pickaxe": "Sarbrox Pickaxe",
       "entity.superores.xmas_furry": "Xmas Furry",
       "item.superores.musket": "Musket",
+      "block.superores.phinks_planks": "Phinks Planks",
       "subtitles.notrain": "",
       "item.superores.red_slimehound_spawn_egg": "Red Slimehound Spawn Egg",
       "item.superores.siamese_furry_spawn_egg": "Siamese Furry Spawn Egg",
+      "biome.superores.frozen_valley": "Frozen Valley",
       "item.superores.homelander_spawn_egg": "Homelander Spawn Egg",
-      "item.superores.alternate_reality": "Alternate Reality Portal Igniter",
       "block.superores.germanium_ore": "Germanium Ore",
+      "item.superores.alternate_reality": "Alternate Reality Portal Igniter",
       "block.superores.zoneex_ore": "Zoneex Ore",
       "item.superores.germanium_hoe": "Germanium Hoe",
       "item.superores.silver_armor_chestplate": "Silver Chestplate",
       "block.superores.time_wood_leaves": "TimeWood Leaves",
+      "block.superores.phinks_fence_gate": "Phinks Fence Gate",
       "item.superores.silver_hoe": "Silver Hoe",
       "subtitles.slimehound_hurt": "???",
       "entity.superores.slimehound": "Blue Slimehound",
+      "block.superores.phinks_pressure_plate": "Phinks Pressure Plate",
       "advancements.hey_handsome_guys.descr": "Get Some Vegetium",
+      "item.superores.lava_land": "Lava Land Portal Igniter",
       "item.superores.zoneex_axe": "Zoneex Axe",
       "item.superores.candy_stone_armor_boots": "CandyStone Boots",
       "advancements.invincible_finally.title": "I\u0027m Finally Invincible!!!",
@@ -5137,28 +5450,32 @@
       "advancements.sweet_armory.descr": "Get some CandyStone",
       "item.superores.arbinium_shovel": "Arbinium Shovel",
       "item.superores.titanium_hoe": "Titanium Hoe",
-      "advancements.uhmmmm_more.title": "Uhmmmm More?",
       "advancements.wazaaaaaaaa.descr": "Get Some Odrimium",
+      "advancements.uhmmmm_more.title": "Uhmmmm More?",
       "block.superores.meat_block": "Meat Block",
       "item.superores.titanium_armor_boots": "Titanium Boots",
       "block.superores.ordium_block": "Block of Ordium",
-      "subtitles.blastattack": "Blast Attack",
-      "item.superores.titanium_armor_helmet": "Titanium Helmet",
-      "item.superores.ruby": "Ruby",
+      "block.superores.phinks_slab": "Phinks Slab",
       "item.superores.ovimium_axe": "Ovimium Axe",
+      "item.superores.ruby": "Ruby",
+      "item.superores.titanium_armor_helmet": "Titanium Helmet",
+      "subtitles.blastattack": "Blast Attack",
       "advancements.this_hits_harder_than_it.descr": "get some Ovimium",
+      "fluid.superores.maigc_water": "Maigc Water",
       "block.superores.corrupted_stairs": "Corrupted Stairs",
       "advancements.damn_something_naughty.descr": "Get Some Cyria",
       "advancements.wait_thatsnew.descr": "Get Some lead",
       "item.superores.ovimium": "Ovimium",
       "advancements.i_shouldnthaveenteredhere.descr": "Enter in a strange dimension",
       "block.superores.lead_block": "Block of Lead",
+      "block.superores.phinks_log": "Phinks Log",
       "item.superores.black_goo_zone": "Black Goo Zone",
       "advancements.it_no_use.title": "It\u0027s No Use?",
       "item.superores.candy_stone_armor_helmet": "CandyStone Helmet",
       "advancements.its_really_anoying.title": "It\u0027s Really Anoying!!!",
       "item.superores.sarbrox_armor_boots": "Sarbrox Boots",
       "item.superores.lead_armor_leggings": "Lead Leggings",
+      "entity.superores.super_creeper": "Super Creeper",
       "block.superores.lemon_wood_fence": "LemonWood Fence",
       "advancements.uhmmmm_more.descr": "Get Some Nickel",
       "block.superores.time_wood_wood": "TimeWood Wood",
@@ -5170,8 +5487,8 @@
       "item.superores.harminium_hoe": "Harminium Hoe",
       "block.superores.cyria_ore": "Cyria Ore",
       "item.superores.silver_sword": "Silver Sword",
-      "advancements.hi_im_german.title": "Hi Im German and I bet you this achievement that you already have Germanium",
       "item.superores.candy_stone": "CandyStone",
+      "advancements.hi_im_german.title": "Hi Im German and I bet you this achievement that you already have Germanium",
       "item.superores.blood_stone_axe": "BloodStone Axe",
       "block.superores.black_oak_leaves": "Black_Oak Leaves",
       "item.superores.titanium_pickaxe": "Titanium Pickaxe",
@@ -5251,6 +5568,7 @@
       "advancements.should_i_trade_them.title": "Should I Trade Them?",
       "item.superores.matrix_furry_spawn_egg": "Matrix Furry Spawn Egg",
       "subtitles.poison": "poison",
+      "block.superores.phinks_fence": "Phinks Fence",
       "item.superores.germanium_armor_chestplate": "Germanium Chestplate",
       "block.superores.black_oak_log": "Black_Oak Log",
       "subtitles.drips": "",
@@ -5274,6 +5592,7 @@
       "block.superores.corrupted_slab": "Corrupted Slab",
       "block.superores.ordium_ore": "Ordium Ore",
       "block.superores.lemon_wood_leaves": "LemonWood Leaves",
+      "block.superores.phinks_leaves": "Phinks Leaves",
       "item.superores.titanium_armor_chestplate": "Titanium Chestplate",
       "block.superores.black_oak_planks": "Black_Oak Planks",
       "block.superores.lemon_wood_slab": "LemonWood Slab",
@@ -5304,6 +5623,7 @@
       "item.superores.zoneex_armor_boots": "Zoneex Boots",
       "block.superores.ovimium_ore": "Ovimium Ore",
       "item.superores.blood_stone_hoe": "BloodStone Hoe",
+      "biome.superores.phinks_land": "Phinks Land",
       "item.superores.odrimium_pickaxe": "Odrimium Pickaxe",
       "item.superores.blood_stone_armor_helmet": "BloodStone Helmet",
       "block.superores.time_wood_slab": "TimeWood Slab",
@@ -5311,6 +5631,7 @@
       "block.superores.corrupted_wood": "Corrupted Wood",
       "item.superores.amenthyst_armor_boots": "Amenthyst Boots",
       "item.superores.blood_stone_armor_chestplate": "BloodStone Chestplate",
+      "block.superores.phinks_button": "Phinks Button",
       "item.superores.germanium_sword": "Germanium Sword",
       "block.superores.lemon_wood_button": "LemonWood Button",
       "item.superores.odrimium": "Odrimium",
@@ -5331,6 +5652,7 @@
       "item.superores.arbinium_sword": "Arbinium Sword",
       "advancements.wazaaaaaaaa.title": "Wazaaaaaaaa",
       "block.superores.arbinium_block": "Block of Arbinium",
+      "item.superores.maigc_water_bucket": "Maigc Water Bucket",
       "item.superores.silver_armor_leggings": "Silver Leggings",
       "item.superores.ordium_pickaxe": "Ordium Pickaxe",
       "block.superores.nickel_block": "Block of Nickel",
@@ -5357,6 +5679,8 @@
       "item.superores.omniac_pickaxe": "Omniac Pickaxe",
       "item.superores.sarbrox_armor_chestplate": "Sarbrox Chestplate",
       "block.superores.titanium_block": "Block of Titanium",
+      "item.superores.super_creeper_spawn_egg": "Super Creeper Spawn Egg",
+      "block.superores.phinks_stairs": "Phinks Stairs",
       "block.superores.germanium_block": "Block of Germanium",
       "block.superores.time_wood_planks": "TimeWood Planks",
       "subtitles.munci_died": "",
@@ -5378,6 +5702,8 @@
       "item.superores.super_weapon": "Super Weapon",
       "subtitles.death": "S o u n d s o f h e l l",
       "block.superores.ruby_ore": "Ruby Ore",
+      "item.superores.munciinvoker": "Munciinvoker",
+      "block.superores.phinks_wood": "Phinks Wood",
       "item.superores.gore_man_spawn_egg": "Gore Man Spawn Egg",
       "block.superores.dark_ruby_ore": "Dark_Ruby Ore",
       "item.superores.amenthyst_armor_leggings": "Amenthyst Leggings",
@@ -5396,6 +5722,7 @@
     "version": "1.0.0",
     "description": "Super Ores Is A Mod That Adds Lots of thing such as ores And some other mobs and fluids And lots of things more.",
     "author": "bloodieythecat",
+    "websiteURL": "https://mcreator.net",
     "license": "Creative Commons Attribution-NonCommercial 3.0",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
