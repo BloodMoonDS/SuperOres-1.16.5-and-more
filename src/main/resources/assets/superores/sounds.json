@@ -299,5 +299,73 @@
         "stream": false
       }
     ]
+  },
+  "musketshoot": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "superores:doubleshotgunfire-converted",
+        "stream": false
+      }
+    ]
+  },
+  "bullethit": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "superores:bullethitwall-converted",
+        "stream": false
+      }
+    ]
+  },
+  "munci_died": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "superores:munci_died",
+        "stream": false
+      }
+    ]
+  },
+  "munci": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "superores:munci_0",
+        "stream": false
+      },
+      {
+        "name": "superores:munci_1",
+        "stream": false
+      },
+      {
+        "name": "superores:munci_2",
+        "stream": false
+      },
+      {
+        "name": "superores:munci_3",
+        "stream": false
+      },
+      {
+        "name": "superores:munci_4",
+        "stream": false
+      },
+      {
+        "name": "superores:munci_5",
+        "stream": false
+      },
+      {
+        "name": "superores:munci_6",
+        "stream": false
+      },
+      {
+        "name": "superores:munci_7",
+        "stream": false
+      },
+      {
+        "name": "superores:munci_8",
+        "stream": false
+      }
+    ]
   }
 }

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "superores:blood_stone_block"
+    }
+  ],
+  "result": {
+    "item": "superores:blood_stone",
+    "count": 9
+  }
+}
