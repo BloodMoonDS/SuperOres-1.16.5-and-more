@@ -1,6 +1,6 @@
 # Super Ores Mod (1.16.5) And more
 
-Super Ores Is A Mod That Adds Lots of thing such as ores And some other mobs and fluids And lots of things more.
+Super Ores Is A Mod That Adds Lots of things such as ores And some other mobs and fluids And lots of things more.
 
 Things that this mod adds.
 
@@ -12,10 +12,9 @@ Things that this mod adds.
 
 This Mod Uses **Forge 1.16.5** to run so be prepared You can Download It From The *[Official Forge Mirrior](hhttps://files.minecraftforge.net/net/minecraftforge/forge/index_1.16.5.html)*.
 
-This Mod Was Maded 
-In *[MCreator](https://mcreator.net/)* using the *[MCreator 1.16.5 support](https://mcreator.net/plugin/92152/minecraft-forge-1165-generator-mcreator-20223)*.
+This Mod Was Made In *[MCreator](https://mcreator.net/)* using the *[MCreator 1.16.5 support](https://mcreator.net/plugin/92152/minecraft-forge-1165-generator-mcreator-20223)*.
 
-NOTE: You Require Both Of them to build The mod
+NOTE: You Require *[MCreator 2022.3](https://mcreator.net/download/2022-3)* and the 1.16.5 support to build The mod
 
 Here You Have Some previews
 
